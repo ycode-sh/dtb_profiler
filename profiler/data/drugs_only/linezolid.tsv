@@ -1,0 +1,929 @@
+drug	gene	mutation	variant	effect	genomic position	Additional grading criteria applied	FINAL CONFIDENCE GRADING	Comment	CHANGES vs ver1
+Linezolid	rplC	c.-13_-12insT	rplC_c.-13_-12insT	upstream_gene_variant	800796		Uncertain_significance		New Uncertain
+Linezolid	rplC	c.162T>C	rplC_c.162T>C	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.165C>T	rplC_c.165C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.-16G>C	rplC_c.-16G>C	upstream_gene_variant	800793		Uncertain_significance		No change
+Linezolid	rplC	c.186C>T	rplC_c.186C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.195G>A	rplC_c.195G>A	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.-1A>C	rplC_c.-1A>C	upstream_gene_variant	800808		Uncertain_significance		New Uncertain
+Linezolid	rplC	c.201A>G	rplC_c.201A>G	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.213C>T	rplC_c.213C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.216C>T	rplC_c.216C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.258G>A	rplC_c.258G>A	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.273C>G	rplC_c.273C>G	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.279C>T	rplC_c.279C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.-29C>T	rplC_c.-29C>T	upstream_gene_variant	800780		Uncertain_significance		No change
+Linezolid	rplC	c.301T>C	rplC_c.301T>C	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.309G>A	rplC_c.309G>A	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.315C>T	rplC_c.315C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.-324G>A	rplC_c.-324G>A	upstream_gene_variant	800485		Uncertain_significance		No change
+Linezolid	rplC	c.-330_-329insGAGAAGCGT	rplC_c.-330_-329insGAGAAGCGT	upstream_gene_variant	800479		Uncertain_significance		No change
+Linezolid	rplC	c.336C>T	rplC_c.336C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.-338G>A	rplC_c.-338G>A	upstream_gene_variant	800471		Uncertain_significance		No change
+Linezolid	rplC	c.-342G>A	rplC_c.-342G>A	upstream_gene_variant	800467		Uncertain_significance		No change
+Linezolid	rplC	c.-354A>G	rplC_c.-354A>G	upstream_gene_variant	800455		Uncertain_significance		New Uncertain
+Linezolid	rplC	c.357G>A	rplC_c.357G>A	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.-359C>T	rplC_c.-359C>T	upstream_gene_variant	800450		Uncertain_significance		No change
+Linezolid	rplC	c.-372G>C	rplC_c.-372G>C	upstream_gene_variant	800437		Uncertain_significance		No change
+Linezolid	rplC	c.-383C>G	rplC_c.-383C>G	upstream_gene_variant	800426		Uncertain_significance		No change
+Linezolid	rplC	c.387G>A	rplC_c.387G>A	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.-389G>T	rplC_c.-389G>T	upstream_gene_variant	800420		Uncertain_significance		No change
+Linezolid	rplC	c.-391G>A	rplC_c.-391G>A	upstream_gene_variant	800418		Uncertain_significance		No change
+Linezolid	rplC	c.-392C>A	rplC_c.-392C>A	upstream_gene_variant	800417		Uncertain_significance		No change
+Linezolid	rplC	c.-396G>A	rplC_c.-396G>A	upstream_gene_variant	800413		Uncertain_significance		No change
+Linezolid	rplC	c.-39G>C	rplC_c.-39G>C	upstream_gene_variant	800770		Uncertain_significance		New Uncertain
+Linezolid	rplC	c.402T>G	rplC_c.402T>G	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.-408A>G	rplC_c.-408A>G	upstream_gene_variant	800401		Uncertain_significance		New Uncertain
+Linezolid	rplC	c.-420G>A	rplC_c.-420G>A	upstream_gene_variant	800389		Uncertain_significance		New Uncertain
+Linezolid	rplC	c.-428A>G	rplC_c.-428A>G	upstream_gene_variant	800381		Uncertain_significance		No change
+Linezolid	rplC	c.42G>C	rplC_c.42G>C	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.-430G>A	rplC_c.-430G>A	upstream_gene_variant	800379		Uncertain_significance		No change
+Linezolid	rplC	c.-434C>G	rplC_c.-434C>G	upstream_gene_variant	800375		Uncertain_significance		No change
+Linezolid	rplC	c.-444A>C	rplC_c.-444A>C	upstream_gene_variant	800365		Uncertain_significance		No change
+Linezolid	rplC	c.-444A>G	rplC_c.-444A>G	upstream_gene_variant	800365		Uncertain_significance		No change
+Linezolid	rplC	c.-452C>A	rplC_c.-452C>A	upstream_gene_variant	800357		Not_assoc_w_R		UP from Uncertain to NotAwR
+Linezolid	rplC	c.456C>G	rplC_c.456C>G	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.459A>G	rplC_c.459A>G	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.-460C>G	rplC_c.-460C>G	upstream_gene_variant	800349		Uncertain_significance		No change
+Linezolid	rplC	c.-464delG	rplC_c.-464delG	upstream_gene_variant	800344		Uncertain_significance		No change
+Linezolid	rplC	c.-465C>T	rplC_c.-465C>T	upstream_gene_variant	800344		Uncertain_significance		New Uncertain
+Linezolid	rplC	c.-466G>T	rplC_c.-466G>T	upstream_gene_variant	800343		Uncertain_significance		New Uncertain
+Linezolid	rplC	c.-468G>A	rplC_c.-468G>A	upstream_gene_variant	800341		Uncertain_significance		No change
+Linezolid	rplC	c.-472C>T	rplC_c.-472C>T	upstream_gene_variant	800337		Uncertain_significance		No change
+Linezolid	rplC	c.480G>A	rplC_c.480G>A	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.-481G>A	rplC_c.-481G>A	upstream_gene_variant	800328		Uncertain_significance		No change
+Linezolid	rplC	c.-482G>A	rplC_c.-482G>A	upstream_gene_variant	800327		Uncertain_significance		No change
+Linezolid	rplC	c.-485G>C	rplC_c.-485G>C	upstream_gene_variant	800324		Uncertain_significance		No change
+Linezolid	rplC	c.489C>T	rplC_c.489C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.48A>T	rplC_c.48A>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.-492G>A	rplC_c.-492G>A	upstream_gene_variant	800317		Uncertain_significance		No change
+Linezolid	rplC	c.-503A>G	rplC_c.-503A>G	upstream_gene_variant	800306		Uncertain_significance		No change
+Linezolid	rplC	c.513C>T	rplC_c.513C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.543G>A	rplC_c.543G>A	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.546G>A	rplC_c.546G>A	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.555C>T	rplC_c.555C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.567C>T	rplC_c.567C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.606C>T	rplC_c.606C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.627C>T	rplC_c.627C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.81C>A	rplC_c.81C>A	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.81C>T	rplC_c.81C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.84G>A	rplC_c.84G>A	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	c.93C>T	rplC_c.93C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	rplC	p.Ala137Val	rplC_p.Ala137Val	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	rplC	p.Ala31Thr	rplC_p.Ala31Thr	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		No change
+Linezolid	rplC	p.Ala72Thr	rplC_p.Ala72Thr	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		No change
+Linezolid	rplC	p.Arg214Gln	rplC_p.Arg214Gln	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		No change
+Linezolid	rplC	p.Arg38Cys	rplC_p.Arg38Cys	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		No change
+Linezolid	rplC	p.Arg44Leu	rplC_p.Arg44Leu	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		No change
+Linezolid	rplC	p.Arg79Leu	rplC_p.Arg79Leu	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		No change
+Linezolid	rplC	p.Asn179Lys	rplC_p.Asn179Lys	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	rplC	p.Asp173Gly	rplC_p.Asp173Gly	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		No change
+Linezolid	rplC	p.Asp18Asn	rplC_p.Asp18Asn	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		No change
+Linezolid	rplC	p.Asp18del	rplC_p.Asp18del	inframe_deletion	(see "Genomic_coordinates" sheet)		Uncertain_significance		No change
+Linezolid	rplC	p.Cys154Arg	rplC_p.Cys154Arg	missense_variant	(see "Genomic_coordinates" sheet)		Assoc_w_R		No change
+Linezolid	rplC	p.Gly120Ser	rplC_p.Gly120Ser	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		No change
+Linezolid	rplC	p.Gly12Ser	rplC_p.Gly12Ser	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		No change
+Linezolid	rplC	p.Gly131Ser	rplC_p.Gly131Ser	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	rplC	p.Gly136Ser	rplC_p.Gly136Ser	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	rplC	p.Gly168Arg	rplC_p.Gly168Arg	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	rplC	p.Gly215Ser	rplC_p.Gly215Ser	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	rplC	p.Gly98Arg	rplC_p.Gly98Arg	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	rplC	p.His183Tyr	rplC_p.His183Tyr	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		No change
+Linezolid	rplC	p.Ile105Val	rplC_p.Ile105Val	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		No change
+Linezolid	rplC	p.Lys61Thr	rplC_p.Lys61Thr	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		No change
+Linezolid	rplC	p.Pro25Ser	rplC_p.Pro25Ser	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	rplC	p.Pro33Leu	rplC_p.Pro33Leu	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	rplC	p.Ser138Arg	rplC_p.Ser138Arg	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	rplC	p.Ser89Ala	rplC_p.Ser89Ala	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	rplC	p.Thr102Ser	rplC_p.Thr102Ser	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	rplC	p.Thr115Ala	rplC_p.Thr115Ala	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		No change
+Linezolid	rplC	p.Thr41Met	rplC_p.Thr41Met	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		No change
+Linezolid	rplC	p.Thr93Ala	rplC_p.Thr93Ala	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		No change
+Linezolid	rplC	p.Tyr80Cys	rplC_p.Tyr80Cys	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	rplC	p.Val185Ile	rplC_p.Val185Ile	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		No change
+Linezolid	rplC	p.Val97Ile	rplC_p.Val97Ile	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		No change
+Linezolid	rrl	n.1004G>C	rrl_n.1004G>C	non_coding_transcript_exon_variant	1474661		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1006C>T	rrl_n.1006C>T	non_coding_transcript_exon_variant	1474663		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1007G>T	rrl_n.1007G>T	non_coding_transcript_exon_variant	1474664		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1009T>G	rrl_n.1009T>G	non_coding_transcript_exon_variant	1474666		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.100T>C	rrl_n.100T>C	non_coding_transcript_exon_variant	1473757		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.100T>G	rrl_n.100T>G	non_coding_transcript_exon_variant	1473757		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1013C>G	rrl_n.1013C>G	non_coding_transcript_exon_variant	1474670		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1014C>G	rrl_n.1014C>G	non_coding_transcript_exon_variant	1474671		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1015C>T	rrl_n.1015C>T	non_coding_transcript_exon_variant	1474672		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1016T>C	rrl_n.1016T>C	non_coding_transcript_exon_variant	1474673		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1019T>A	rrl_n.1019T>A	non_coding_transcript_exon_variant	1474676		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1019T>C	rrl_n.1019T>C	non_coding_transcript_exon_variant	1474676		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.101G>A	rrl_n.101G>A	non_coding_transcript_exon_variant	1473758		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1020A>G	rrl_n.1020A>G	non_coding_transcript_exon_variant	1474677		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1022G>C	rrl_n.1022G>C	non_coding_transcript_exon_variant	1474679		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1027T>C	rrl_n.1027T>C	non_coding_transcript_exon_variant	1474684		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1030C>A	rrl_n.1030C>A	non_coding_transcript_exon_variant	1474687		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1031G>C	rrl_n.1031G>C	non_coding_transcript_exon_variant	1474688		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1033C>T	rrl_n.1033C>T	non_coding_transcript_exon_variant	1474690		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1035G>A	rrl_n.1035G>A	non_coding_transcript_exon_variant	1474692		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1044C>A	rrl_n.1044C>A	non_coding_transcript_exon_variant	1474701		Uncertain_significance		No change
+Linezolid	rrl	n.1049G>A	rrl_n.1049G>A	non_coding_transcript_exon_variant	1474706		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1049G>T	rrl_n.1049G>T	non_coding_transcript_exon_variant	1474706		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1051_1052insT	rrl_n.1051_1052insT	non_coding_transcript_exon_variant	1474708		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1052G>T	rrl_n.1052G>T	non_coding_transcript_exon_variant	1474709		Uncertain_significance		No change
+Linezolid	rrl	n.1053_1056delTGGT	rrl_n.1053_1056delTGGT	non_coding_transcript_exon_variant	1474709		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1053T>G	rrl_n.1053T>G	non_coding_transcript_exon_variant	1474710		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1054G>T	rrl_n.1054G>T	non_coding_transcript_exon_variant	1474711		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1059_1060delAAinsGAG	rrl_n.1059_1060delAAinsGAG	non_coding_transcript_exon_variant	1474716		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1060A>T	rrl_n.1060A>T	non_coding_transcript_exon_variant	1474717		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1074G>A	rrl_n.1074G>A	non_coding_transcript_exon_variant	1474731		Uncertain_significance		No change
+Linezolid	rrl	n.1075A>G	rrl_n.1075A>G	non_coding_transcript_exon_variant	1474732		Uncertain_significance		No change
+Linezolid	rrl	n.1077G>T	rrl_n.1077G>T	non_coding_transcript_exon_variant	1474734		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1078G>T	rrl_n.1078G>T	non_coding_transcript_exon_variant	1474735		Uncertain_significance		No change
+Linezolid	rrl	n.1089G>C	rrl_n.1089G>C	non_coding_transcript_exon_variant	1474746		Uncertain_significance		No change
+Linezolid	rrl	n.1090C>A	rrl_n.1090C>A	non_coding_transcript_exon_variant	1474747		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1092C>T	rrl_n.1092C>T	non_coding_transcript_exon_variant	1474749		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1093C>G	rrl_n.1093C>G	non_coding_transcript_exon_variant	1474750		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1093C>T	rrl_n.1093C>T	non_coding_transcript_exon_variant	1474750		Uncertain_significance		No change
+Linezolid	rrl	n.1096_1097delACinsT	rrl_n.1096_1097delACinsT	non_coding_transcript_exon_variant	1474753		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1097delC	rrl_n.1097delC	non_coding_transcript_exon_variant	1474753		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1103A>G	rrl_n.1103A>G	non_coding_transcript_exon_variant	1474760		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1107dupG	rrl_n.1107dupG	non_coding_transcript_exon_variant	1474761		Uncertain_significance		No change
+Linezolid	rrl	n.1120T>C	rrl_n.1120T>C	non_coding_transcript_exon_variant	1474777		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1122G>A	rrl_n.1122G>A	non_coding_transcript_exon_variant	1474779		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1123C>T	rrl_n.1123C>T	non_coding_transcript_exon_variant	1474780		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1125G>A	rrl_n.1125G>A	non_coding_transcript_exon_variant	1474782		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1133C>T	rrl_n.1133C>T	non_coding_transcript_exon_variant	1474790		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1137C>A	rrl_n.1137C>A	non_coding_transcript_exon_variant	1474794		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1137C>T	rrl_n.1137C>T	non_coding_transcript_exon_variant	1474794		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.113T>G	rrl_n.113T>G	non_coding_transcript_exon_variant	1473770		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1140_1141insTATA	rrl_n.1140_1141insTATA	non_coding_transcript_exon_variant	1474797		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1141C>T	rrl_n.1141C>T	non_coding_transcript_exon_variant	1474798		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1144_1147delGTGC	rrl_n.1144_1147delGTGC	non_coding_transcript_exon_variant	1474800		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1144G>A	rrl_n.1144G>A	non_coding_transcript_exon_variant	1474801		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1145T>C	rrl_n.1145T>C	non_coding_transcript_exon_variant	1474802		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1146G>A	rrl_n.1146G>A	non_coding_transcript_exon_variant	1474803		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1147C>T	rrl_n.1147C>T	non_coding_transcript_exon_variant	1474804		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1155G>A	rrl_n.1155G>A	non_coding_transcript_exon_variant	1474812		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1166C>G	rrl_n.1166C>G	non_coding_transcript_exon_variant	1474823		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1167A>G	rrl_n.1167A>G	non_coding_transcript_exon_variant	1474824		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1170C>T	rrl_n.1170C>T	non_coding_transcript_exon_variant	1474827		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1173A>G	rrl_n.1173A>G	non_coding_transcript_exon_variant	1474830		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1173A>T	rrl_n.1173A>T	non_coding_transcript_exon_variant	1474830		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1174A>C	rrl_n.1174A>C	non_coding_transcript_exon_variant	1474831		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1174A>T	rrl_n.1174A>T	non_coding_transcript_exon_variant	1474831		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1175A>T	rrl_n.1175A>T	non_coding_transcript_exon_variant	1474832		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1182C>T	rrl_n.1182C>T	non_coding_transcript_exon_variant	1474839		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1187G>T	rrl_n.1187G>T	non_coding_transcript_exon_variant	1474844		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1206delA	rrl_n.1206delA	non_coding_transcript_exon_variant	1474862		Uncertain_significance		No change
+Linezolid	rrl	n.1207C>T	rrl_n.1207C>T	non_coding_transcript_exon_variant	1474864		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1208_1212delCCTTGinsTCATTT	rrl_n.1208_1212delCCTTGinsTCATTT	non_coding_transcript_exon_variant	1474865		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1209C>A	rrl_n.1209C>A	non_coding_transcript_exon_variant	1474866		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1212G>T	rrl_n.1212G>T	non_coding_transcript_exon_variant	1474869		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1228G>A	rrl_n.1228G>A	non_coding_transcript_exon_variant	1474885		Uncertain_significance		No change
+Linezolid	rrl	n.1235G>A	rrl_n.1235G>A	non_coding_transcript_exon_variant	1474892		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1239A>G	rrl_n.1239A>G	non_coding_transcript_exon_variant	1474896		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1239A>T	rrl_n.1239A>T	non_coding_transcript_exon_variant	1474896		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1245T>C	rrl_n.1245T>C	non_coding_transcript_exon_variant	1474902		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1246T>A	rrl_n.1246T>A	non_coding_transcript_exon_variant	1474903		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1246T>C	rrl_n.1246T>C	non_coding_transcript_exon_variant	1474903		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1247G>C	rrl_n.1247G>C	non_coding_transcript_exon_variant	1474904		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1248T>C	rrl_n.1248T>C	non_coding_transcript_exon_variant	1474905		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1253C>T	rrl_n.1253C>T	non_coding_transcript_exon_variant	1474910		Uncertain_significance		No change
+Linezolid	rrl	n.1256T>A	rrl_n.1256T>A	non_coding_transcript_exon_variant	1474913		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1256T>C	rrl_n.1256T>C	non_coding_transcript_exon_variant	1474913		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1262_1263insT	rrl_n.1262_1263insT	non_coding_transcript_exon_variant	1474919		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1263G>A	rrl_n.1263G>A	non_coding_transcript_exon_variant	1474920		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1263G>C	rrl_n.1263G>C	non_coding_transcript_exon_variant	1474920		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1264C>A	rrl_n.1264C>A	non_coding_transcript_exon_variant	1474921		Uncertain_significance		No change
+Linezolid	rrl	n.1264C>T	rrl_n.1264C>T	non_coding_transcript_exon_variant	1474921		Uncertain_significance		No change
+Linezolid	rrl	n.1275C>T	rrl_n.1275C>T	non_coding_transcript_exon_variant	1474932		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1276A>G	rrl_n.1276A>G	non_coding_transcript_exon_variant	1474933		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1277C>T	rrl_n.1277C>T	non_coding_transcript_exon_variant	1474934		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1295A>G	rrl_n.1295A>G	non_coding_transcript_exon_variant	1474952		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1301A>G	rrl_n.1301A>G	non_coding_transcript_exon_variant	1474958		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1326dupA	rrl_n.1326dupA	non_coding_transcript_exon_variant	1474982		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1331C>T	rrl_n.1331C>T	non_coding_transcript_exon_variant	1474988		Uncertain_significance		No change
+Linezolid	rrl	n.1351C>A	rrl_n.1351C>A	non_coding_transcript_exon_variant	1475008		Uncertain_significance		No change
+Linezolid	rrl	n.1392C>T	rrl_n.1392C>T	non_coding_transcript_exon_variant	1475049		Uncertain_significance		No change
+Linezolid	rrl	n.1404delC	rrl_n.1404delC	non_coding_transcript_exon_variant	1475060		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1406A>C	rrl_n.1406A>C	non_coding_transcript_exon_variant	1475063		Uncertain_significance		No change
+Linezolid	rrl	n.1408G>A	rrl_n.1408G>A	non_coding_transcript_exon_variant	1475065		Uncertain_significance		No change
+Linezolid	rrl	n.1410A>G	rrl_n.1410A>G	non_coding_transcript_exon_variant	1475067		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1419C>A	rrl_n.1419C>A	non_coding_transcript_exon_variant	1475076		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.141A>G	rrl_n.141A>G	non_coding_transcript_exon_variant	1473798		Uncertain_significance		No change
+Linezolid	rrl	n.1422T>C	rrl_n.1422T>C	non_coding_transcript_exon_variant	1475079		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1424C>T	rrl_n.1424C>T	non_coding_transcript_exon_variant	1475081		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1433A>C	rrl_n.1433A>C	non_coding_transcript_exon_variant	1475090		Uncertain_significance		No change
+Linezolid	rrl	n.1433A>T	rrl_n.1433A>T	non_coding_transcript_exon_variant	1475090		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1438A>G	rrl_n.1438A>G	non_coding_transcript_exon_variant	1475095		Uncertain_significance		No change
+Linezolid	rrl	n.1440G>A	rrl_n.1440G>A	non_coding_transcript_exon_variant	1475097		Uncertain_significance		No change
+Linezolid	rrl	n.1442G>A	rrl_n.1442G>A	non_coding_transcript_exon_variant	1475099		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1447T>A	rrl_n.1447T>A	non_coding_transcript_exon_variant	1475104		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1452C>T	rrl_n.1452C>T	non_coding_transcript_exon_variant	1475109		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1456C>T	rrl_n.1456C>T	non_coding_transcript_exon_variant	1475113		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1457C>T	rrl_n.1457C>T	non_coding_transcript_exon_variant	1475114		Uncertain_significance		No change
+Linezolid	rrl	n.1459G>A	rrl_n.1459G>A	non_coding_transcript_exon_variant	1475116		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1465C>T	rrl_n.1465C>T	non_coding_transcript_exon_variant	1475122		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1467A>T	rrl_n.1467A>T	non_coding_transcript_exon_variant	1475124		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1472G>A	rrl_n.1472G>A	non_coding_transcript_exon_variant	1475129		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1472G>T	rrl_n.1472G>T	non_coding_transcript_exon_variant	1475129		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1480A>T	rrl_n.1480A>T	non_coding_transcript_exon_variant	1475137		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1487G>C	rrl_n.1487G>C	non_coding_transcript_exon_variant	1475144		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1488C>T	rrl_n.1488C>T	non_coding_transcript_exon_variant	1475145		Uncertain_significance		No change
+Linezolid	rrl	n.1497C>A	rrl_n.1497C>A	non_coding_transcript_exon_variant	1475154		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.149C>T	rrl_n.149C>T	non_coding_transcript_exon_variant	1473806		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1506T>G	rrl_n.1506T>G	non_coding_transcript_exon_variant	1475163		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1510T>A	rrl_n.1510T>A	non_coding_transcript_exon_variant	1475167		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1514C>T	rrl_n.1514C>T	non_coding_transcript_exon_variant	1475171		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1518G>A	rrl_n.1518G>A	non_coding_transcript_exon_variant	1475175		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1518G>C	rrl_n.1518G>C	non_coding_transcript_exon_variant	1475175		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1525T>A	rrl_n.1525T>A	non_coding_transcript_exon_variant	1475182		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1531C>G	rrl_n.1531C>G	non_coding_transcript_exon_variant	1475188		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1531C>T	rrl_n.1531C>T	non_coding_transcript_exon_variant	1475188		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1563G>A	rrl_n.1563G>A	non_coding_transcript_exon_variant	1475220		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1564C>T	rrl_n.1564C>T	non_coding_transcript_exon_variant	1475221		Uncertain_significance		No change
+Linezolid	rrl	n.1565G>A	rrl_n.1565G>A	non_coding_transcript_exon_variant	1475222		Uncertain_significance		No change
+Linezolid	rrl	n.1572dupA	rrl_n.1572dupA	non_coding_transcript_exon_variant	1475227		Uncertain_significance		Assoc_w_R
+Linezolid	rrl	n.1573C>T	rrl_n.1573C>T	non_coding_transcript_exon_variant	1475230		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.157A>C	rrl_n.157A>C	non_coding_transcript_exon_variant	1473814		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.157A>G	rrl_n.157A>G	non_coding_transcript_exon_variant	1473814		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1584C>G	rrl_n.1584C>G	non_coding_transcript_exon_variant	1475241		Uncertain_significance		No change
+Linezolid	rrl	n.158T>C	rrl_n.158T>C	non_coding_transcript_exon_variant	1473815		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1592T>C	rrl_n.1592T>C	non_coding_transcript_exon_variant	1475249		Uncertain_significance		No change
+Linezolid	rrl	n.1598C>T	rrl_n.1598C>T	non_coding_transcript_exon_variant	1475255		Uncertain_significance		No change
+Linezolid	rrl	n.1599C>T	rrl_n.1599C>T	non_coding_transcript_exon_variant	1475256		Uncertain_significance		No change
+Linezolid	rrl	n.1602T>G	rrl_n.1602T>G	non_coding_transcript_exon_variant	1475259		Uncertain_significance		No change
+Linezolid	rrl	n.1608delG	rrl_n.1608delG	non_coding_transcript_exon_variant	1475260		Uncertain_significance		No change
+Linezolid	rrl	n.1609T>C	rrl_n.1609T>C	non_coding_transcript_exon_variant	1475266		Uncertain_significance		No change
+Linezolid	rrl	n.160T>C	rrl_n.160T>C	non_coding_transcript_exon_variant	1473817		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1613G>C	rrl_n.1613G>C	non_coding_transcript_exon_variant	1475270		Uncertain_significance		No change
+Linezolid	rrl	n.1624dupC	rrl_n.1624dupC	non_coding_transcript_exon_variant	1475280		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1627C>G	rrl_n.1627C>G	non_coding_transcript_exon_variant	1475284		Uncertain_significance		No change
+Linezolid	rrl	n.1628G>A	rrl_n.1628G>A	non_coding_transcript_exon_variant	1475285		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1634A>C	rrl_n.1634A>C	non_coding_transcript_exon_variant	1475291		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1648A>C	rrl_n.1648A>C	non_coding_transcript_exon_variant	1475305		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1650T>G	rrl_n.1650T>G	non_coding_transcript_exon_variant	1475307		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1658A>G	rrl_n.1658A>G	non_coding_transcript_exon_variant	1475315		Uncertain_significance		No change
+Linezolid	rrl	n.1658A>T	rrl_n.1658A>T	non_coding_transcript_exon_variant	1475315		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.165A>G	rrl_n.165A>G	non_coding_transcript_exon_variant	1473822		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1660G>A	rrl_n.1660G>A	non_coding_transcript_exon_variant	1475317		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.168_169dupTA	rrl_n.168_169dupTA	non_coding_transcript_exon_variant	1473819		Uncertain_significance		No change
+Linezolid	rrl	n.1680C>T	rrl_n.1680C>T	non_coding_transcript_exon_variant	1475337		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1681G>A	rrl_n.1681G>A	non_coding_transcript_exon_variant	1475338		Uncertain_significance		No change
+Linezolid	rrl	n.1682T>G	rrl_n.1682T>G	non_coding_transcript_exon_variant	1475339		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1683A>G	rrl_n.1683A>G	non_coding_transcript_exon_variant	1475340		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1685C>G	rrl_n.1685C>G	non_coding_transcript_exon_variant	1475342		Uncertain_significance		No change
+Linezolid	rrl	n.1697A>T	rrl_n.1697A>T	non_coding_transcript_exon_variant	1475354		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1698C>T	rrl_n.1698C>T	non_coding_transcript_exon_variant	1475355		Uncertain_significance		No change
+Linezolid	rrl	n.1719A>C	rrl_n.1719A>C	non_coding_transcript_exon_variant	1475376		Uncertain_significance		No change
+Linezolid	rrl	n.1722G>T	rrl_n.1722G>T	non_coding_transcript_exon_variant	1475379		Uncertain_significance		No change
+Linezolid	rrl	n.1723C>T	rrl_n.1723C>T	non_coding_transcript_exon_variant	1475380		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.173_176delTGCGinsCGTGT	rrl_n.173_176delTGCGinsCGTGT	non_coding_transcript_exon_variant	1473830		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1738T>C	rrl_n.1738T>C	non_coding_transcript_exon_variant	1475395		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1743C>T	rrl_n.1743C>T	non_coding_transcript_exon_variant	1475400		Uncertain_significance		No change
+Linezolid	rrl	n.174G>A	rrl_n.174G>A	non_coding_transcript_exon_variant	1473831		Uncertain_significance		No change
+Linezolid	rrl	n.176_177insT	rrl_n.176_177insT	non_coding_transcript_exon_variant	1473833		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1760G>A	rrl_n.1760G>A	non_coding_transcript_exon_variant	1475417		Uncertain_significance		No change
+Linezolid	rrl	n.1772G>A	rrl_n.1772G>A	non_coding_transcript_exon_variant	1475429		Uncertain_significance		Assoc_w_R
+Linezolid	rrl	n.1778G>A	rrl_n.1778G>A	non_coding_transcript_exon_variant	1475435		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1785C>G	rrl_n.1785C>G	non_coding_transcript_exon_variant	1475442		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1786G>A	rrl_n.1786G>A	non_coding_transcript_exon_variant	1475443		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1788T>A	rrl_n.1788T>A	non_coding_transcript_exon_variant	1475445		Uncertain_significance		No change
+Linezolid	rrl	n.1794T>C	rrl_n.1794T>C	non_coding_transcript_exon_variant	1475451		Uncertain_significance		No change
+Linezolid	rrl	n.1795C>A	rrl_n.1795C>A	non_coding_transcript_exon_variant	1475452		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1795C>T	rrl_n.1795C>T	non_coding_transcript_exon_variant	1475452		Uncertain_significance		No change
+Linezolid	rrl	n.179A>G	rrl_n.179A>G	non_coding_transcript_exon_variant	1473836		Uncertain_significance		No change
+Linezolid	rrl	n.17dupG	rrl_n.17dupG	non_coding_transcript_exon_variant	1473671		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1803A>G	rrl_n.1803A>G	non_coding_transcript_exon_variant	1475460		Uncertain_significance		No change
+Linezolid	rrl	n.1811C>T	rrl_n.1811C>T	non_coding_transcript_exon_variant	1475468		Uncertain_significance		No change
+Linezolid	rrl	n.1819G>A	rrl_n.1819G>A	non_coding_transcript_exon_variant	1475476		Uncertain_significance		No change
+Linezolid	rrl	n.1821dupG	rrl_n.1821dupG	non_coding_transcript_exon_variant	1475477		Uncertain_significance		No change
+Linezolid	rrl	n.1822C>T	rrl_n.1822C>T	non_coding_transcript_exon_variant	1475479		Uncertain_significance		No change
+Linezolid	rrl	n.1823A>T	rrl_n.1823A>T	non_coding_transcript_exon_variant	1475480		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1824C>G	rrl_n.1824C>G	non_coding_transcript_exon_variant	1475481		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1825A>G	rrl_n.1825A>G	non_coding_transcript_exon_variant	1475482		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1826C>T	rrl_n.1826C>T	non_coding_transcript_exon_variant	1475483		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1842C>T	rrl_n.1842C>T	non_coding_transcript_exon_variant	1475499		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1847C>A	rrl_n.1847C>A	non_coding_transcript_exon_variant	1475504		Uncertain_significance		No change
+Linezolid	rrl	n.1851A>G	rrl_n.1851A>G	non_coding_transcript_exon_variant	1475508		Uncertain_significance		No change
+Linezolid	rrl	n.1851A>T	rrl_n.1851A>T	non_coding_transcript_exon_variant	1475508		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1859T>C	rrl_n.1859T>C	non_coding_transcript_exon_variant	1475516		Uncertain_significance		No change
+Linezolid	rrl	n.1861A>G	rrl_n.1861A>G	non_coding_transcript_exon_variant	1475518		Uncertain_significance		No change
+Linezolid	rrl	n.1865A>C	rrl_n.1865A>C	non_coding_transcript_exon_variant	1475522		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1869C>A	rrl_n.1869C>A	non_coding_transcript_exon_variant	1475526		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1874C>T	rrl_n.1874C>T	non_coding_transcript_exon_variant	1475531		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1875A>G	rrl_n.1875A>G	non_coding_transcript_exon_variant	1475532		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.187C>T	rrl_n.187C>T	non_coding_transcript_exon_variant	1473844		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1881T>A	rrl_n.1881T>A	non_coding_transcript_exon_variant	1475538		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1882A>G	rrl_n.1882A>G	non_coding_transcript_exon_variant	1475539		Uncertain_significance		No change
+Linezolid	rrl	n.1882A>T	rrl_n.1882A>T	non_coding_transcript_exon_variant	1475539		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1885A>G	rrl_n.1885A>G	non_coding_transcript_exon_variant	1475542		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1887A>T	rrl_n.1887A>T	non_coding_transcript_exon_variant	1475544		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1888T>G	rrl_n.1888T>G	non_coding_transcript_exon_variant	1475545		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1890A>G	rrl_n.1890A>G	non_coding_transcript_exon_variant	1475547		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1890dupA	rrl_n.1890dupA	non_coding_transcript_exon_variant	1475545		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1893A>G	rrl_n.1893A>G	non_coding_transcript_exon_variant	1475550		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.-18C>T	rrl_n.-18C>T	upstream_gene_variant	1473640		Uncertain_significance		Assoc_w_R
+Linezolid	rrl	n.1914A>T	rrl_n.1914A>T	non_coding_transcript_exon_variant	1475571		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1917C>A	rrl_n.1917C>A	non_coding_transcript_exon_variant	1475574		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1918C>G	rrl_n.1918C>G	non_coding_transcript_exon_variant	1475575		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1919C>T	rrl_n.1919C>T	non_coding_transcript_exon_variant	1475576		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1921C>T	rrl_n.1921C>T	non_coding_transcript_exon_variant	1475578		Uncertain_significance		No change
+Linezolid	rrl	n.1924A>G	rrl_n.1924A>G	non_coding_transcript_exon_variant	1475581		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1932G>A	rrl_n.1932G>A	non_coding_transcript_exon_variant	1475589		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1940G>A	rrl_n.1940G>A	non_coding_transcript_exon_variant	1475597		Uncertain_significance		No change
+Linezolid	rrl	n.1941G>A	rrl_n.1941G>A	non_coding_transcript_exon_variant	1475598		Uncertain_significance		No change
+Linezolid	rrl	n.1942A>G	rrl_n.1942A>G	non_coding_transcript_exon_variant	1475599		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1948_1950dupATA	rrl_n.1948_1950dupATA	non_coding_transcript_exon_variant	1475603		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1948A>G	rrl_n.1948A>G	non_coding_transcript_exon_variant	1475605		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.194G>C	rrl_n.194G>C	non_coding_transcript_exon_variant	1473851		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1960C>T	rrl_n.1960C>T	non_coding_transcript_exon_variant	1475617		Uncertain_significance		No change
+Linezolid	rrl	n.1968delG	rrl_n.1968delG	non_coding_transcript_exon_variant	1475623		Uncertain_significance		No change
+Linezolid	rrl	n.1979A>G	rrl_n.1979A>G	non_coding_transcript_exon_variant	1475636		Uncertain_significance		No change
+Linezolid	rrl	n.1992A>G	rrl_n.1992A>G	non_coding_transcript_exon_variant	1475649		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1998T>A	rrl_n.1998T>A	non_coding_transcript_exon_variant	1475655		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.1998T>C	rrl_n.1998T>C	non_coding_transcript_exon_variant	1475655		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.19G>A	rrl_n.19G>A	non_coding_transcript_exon_variant	1473676		Uncertain_significance		No change
+Linezolid	rrl	n.2002G>A	rrl_n.2002G>A	non_coding_transcript_exon_variant	1475659		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2010G>A	rrl_n.2010G>A	non_coding_transcript_exon_variant	1475667		Uncertain_significance		No change
+Linezolid	rrl	n.2015C>G	rrl_n.2015C>G	non_coding_transcript_exon_variant	1475672		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2015C>T	rrl_n.2015C>T	non_coding_transcript_exon_variant	1475672		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2016T>C	rrl_n.2016T>C	non_coding_transcript_exon_variant	1475673		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2022C>T	rrl_n.2022C>T	non_coding_transcript_exon_variant	1475679		Uncertain_significance		No change
+Linezolid	rrl	n.2023A>G	rrl_n.2023A>G	non_coding_transcript_exon_variant	1475680		Uncertain_significance		No change
+Linezolid	rrl	n.2024C>T	rrl_n.2024C>T	non_coding_transcript_exon_variant	1475681		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2029C>T	rrl_n.2029C>T	non_coding_transcript_exon_variant	1475686		Uncertain_significance		No change
+Linezolid	rrl	n.2030C>A	rrl_n.2030C>A	non_coding_transcript_exon_variant	1475687		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2030C>T	rrl_n.2030C>T	non_coding_transcript_exon_variant	1475687		Uncertain_significance		No change
+Linezolid	rrl	n.2031G>C	rrl_n.2031G>C	non_coding_transcript_exon_variant	1475688		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2039T>C	rrl_n.2039T>C	non_coding_transcript_exon_variant	1475696		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2040C>T	rrl_n.2040C>T	non_coding_transcript_exon_variant	1475697		Uncertain_significance		No change
+Linezolid	rrl	n.2042C>T	rrl_n.2042C>T	non_coding_transcript_exon_variant	1475699		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2046A>G	rrl_n.2046A>G	non_coding_transcript_exon_variant	1475703		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2050T>A	rrl_n.2050T>A	non_coding_transcript_exon_variant	1475707		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2056C>G	rrl_n.2056C>G	non_coding_transcript_exon_variant	1475713		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2059A>G	rrl_n.2059A>G	non_coding_transcript_exon_variant	1475716		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.205C>A	rrl_n.205C>A	non_coding_transcript_exon_variant	1473862		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2061T>C	rrl_n.2061T>C	non_coding_transcript_exon_variant	1475718		Uncertain_significance		No change
+Linezolid	rrl	n.2064C>T	rrl_n.2064C>T	non_coding_transcript_exon_variant	1475721		Uncertain_significance		No change
+Linezolid	rrl	n.2078T>C	rrl_n.2078T>C	non_coding_transcript_exon_variant	1475735		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2083G>C	rrl_n.2083G>C	non_coding_transcript_exon_variant	1475740		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2090A>G	rrl_n.2090A>G	non_coding_transcript_exon_variant	1475747		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2093A>C	rrl_n.2093A>C	non_coding_transcript_exon_variant	1475750		Uncertain_significance		No change
+Linezolid	rrl	n.2095C>T	rrl_n.2095C>T	non_coding_transcript_exon_variant	1475752		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2096dupC	rrl_n.2096dupC	non_coding_transcript_exon_variant	1475750		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2107A>G	rrl_n.2107A>G	non_coding_transcript_exon_variant	1475764		Uncertain_significance		No change
+Linezolid	rrl	n.210C>G	rrl_n.210C>G	non_coding_transcript_exon_variant	1473867		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2110G>T	rrl_n.2110G>T	non_coding_transcript_exon_variant	1475767		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2112dupT	rrl_n.2112dupT	non_coding_transcript_exon_variant	1475768		Uncertain_significance		No change
+Linezolid	rrl	n.2115A>T	rrl_n.2115A>T	non_coding_transcript_exon_variant	1475772		Uncertain_significance		No change
+Linezolid	rrl	n.2118G>T	rrl_n.2118G>T	non_coding_transcript_exon_variant	1475775		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.211C>T	rrl_n.211C>T	non_coding_transcript_exon_variant	1473868		Uncertain_significance		No change
+Linezolid	rrl	n.2120A>G	rrl_n.2120A>G	non_coding_transcript_exon_variant	1475777		Uncertain_significance		No change
+Linezolid	rrl	n.2123A>G	rrl_n.2123A>G	non_coding_transcript_exon_variant	1475780		Uncertain_significance		No change
+Linezolid	rrl	n.2126T>G	rrl_n.2126T>G	non_coding_transcript_exon_variant	1475783		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.212C>T	rrl_n.212C>T	non_coding_transcript_exon_variant	1473869		Uncertain_significance		No change
+Linezolid	rrl	n.2132C>G	rrl_n.2132C>G	non_coding_transcript_exon_variant	1475789		Uncertain_significance		No change
+Linezolid	rrl	n.2134A>G	rrl_n.2134A>G	non_coding_transcript_exon_variant	1475791		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.213G>A	rrl_n.213G>A	non_coding_transcript_exon_variant	1473870		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2146T>C	rrl_n.2146T>C	non_coding_transcript_exon_variant	1475803		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2147G>C	rrl_n.2147G>C	non_coding_transcript_exon_variant	1475804		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.214T>C	rrl_n.214T>C	non_coding_transcript_exon_variant	1473871		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.214T>G	rrl_n.214T>G	non_coding_transcript_exon_variant	1473871		Uncertain_significance		No change
+Linezolid	rrl	n.2152C>T	rrl_n.2152C>T	non_coding_transcript_exon_variant	1475809		Uncertain_significance		No change
+Linezolid	rrl	n.2152dupC	rrl_n.2152dupC	non_coding_transcript_exon_variant	1475808		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2159C>G	rrl_n.2159C>G	non_coding_transcript_exon_variant	1475816		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2160A>G	rrl_n.2160A>G	non_coding_transcript_exon_variant	1475817		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2180C>T	rrl_n.2180C>T	non_coding_transcript_exon_variant	1475837		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2186G>A	rrl_n.2186G>A	non_coding_transcript_exon_variant	1475843		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2192G>A	rrl_n.2192G>A	non_coding_transcript_exon_variant	1475849		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2196C>T	rrl_n.2196C>T	non_coding_transcript_exon_variant	1475853		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.219G>A	rrl_n.219G>A	non_coding_transcript_exon_variant	1473876		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.-21A>G	rrl_n.-21A>G	upstream_gene_variant	1473637		Uncertain_significance		No change
+Linezolid	rrl	n.2201T>C	rrl_n.2201T>C	non_coding_transcript_exon_variant	1475858		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2209T>A	rrl_n.2209T>A	non_coding_transcript_exon_variant	1475866		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2209T>G	rrl_n.2209T>G	non_coding_transcript_exon_variant	1475866		Uncertain_significance		No change
+Linezolid	rrl	n.2214T>C	rrl_n.2214T>C	non_coding_transcript_exon_variant	1475871		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2220C>A	rrl_n.2220C>A	non_coding_transcript_exon_variant	1475877		Uncertain_significance		No change
+Linezolid	rrl	n.2225C>T	rrl_n.2225C>T	non_coding_transcript_exon_variant	1475882		Uncertain_significance		No change
+Linezolid	rrl	n.2226A>T	rrl_n.2226A>T	non_coding_transcript_exon_variant	1475883		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2227A>G	rrl_n.2227A>G	non_coding_transcript_exon_variant	1475884		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.222dupG	rrl_n.222dupG	non_coding_transcript_exon_variant	1473878		Uncertain_significance		No change
+Linezolid	rrl	n.2240T>C	rrl_n.2240T>C	non_coding_transcript_exon_variant	1475897		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2249C>T	rrl_n.2249C>T	non_coding_transcript_exon_variant	1475906		Uncertain_significance		No change
+Linezolid	rrl	n.2259C>G	rrl_n.2259C>G	non_coding_transcript_exon_variant	1475916		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2259C>T	rrl_n.2259C>T	non_coding_transcript_exon_variant	1475916		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2269_2270insT	rrl_n.2269_2270insT	non_coding_transcript_exon_variant	1475926	Selection evidence	Assoc_w_R_Interim		New AwRI
+Linezolid	rrl	n.2270G>C	rrl_n.2270G>C	non_coding_transcript_exon_variant	1475927	Selection evidence	Assoc_w_R_Interim		New AwRI
+Linezolid	rrl	n.2270G>T	rrl_n.2270G>T	non_coding_transcript_exon_variant	1475927	Selection evidence	Assoc_w_R_Interim		UP from Uncertain to AwRI
+Linezolid	rrl	n.2280A>T	rrl_n.2280A>T	non_coding_transcript_exon_variant	1475937		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2281C>T	rrl_n.2281C>T	non_coding_transcript_exon_variant	1475938		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2286G>A	rrl_n.2286G>A	non_coding_transcript_exon_variant	1475943		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.228A>G	rrl_n.228A>G	non_coding_transcript_exon_variant	1473885		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2294G>T	rrl_n.2294G>T	non_coding_transcript_exon_variant	1475951		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2295A>C	rrl_n.2295A>C	non_coding_transcript_exon_variant	1475952		Uncertain_significance		No change
+Linezolid	rrl	n.2295A>G	rrl_n.2295A>G	non_coding_transcript_exon_variant	1475952		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2296A>C	rrl_n.2296A>C	non_coding_transcript_exon_variant	1475953		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2296A>G	rrl_n.2296A>G	non_coding_transcript_exon_variant	1475953		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2296A>T	rrl_n.2296A>T	non_coding_transcript_exon_variant	1475953		Uncertain_significance		No change
+Linezolid	rrl	n.2297A>G	rrl_n.2297A>G	non_coding_transcript_exon_variant	1475954		Uncertain_significance		No change
+Linezolid	rrl	n.2299G>T	rrl_n.2299G>T	non_coding_transcript_exon_variant	1475956	Selection evidence	Assoc_w_R_Interim		New AwRI
+Linezolid	rrl	n.22T>C	rrl_n.22T>C	non_coding_transcript_exon_variant	1473679		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.230T>C	rrl_n.230T>C	non_coding_transcript_exon_variant	1473887		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2313C>T	rrl_n.2313C>T	non_coding_transcript_exon_variant	1475970		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2314A>G	rrl_n.2314A>G	non_coding_transcript_exon_variant	1475971		Uncertain_significance		No change
+Linezolid	rrl	n.2317A>G	rrl_n.2317A>G	non_coding_transcript_exon_variant	1475974		Uncertain_significance		No change
+Linezolid	rrl	n.2318C>T	rrl_n.2318C>T	non_coding_transcript_exon_variant	1475975		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.231T>A	rrl_n.231T>A	non_coding_transcript_exon_variant	1473888		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.231T>C	rrl_n.231T>C	non_coding_transcript_exon_variant	1473888		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2320A>G	rrl_n.2320A>G	non_coding_transcript_exon_variant	1475977		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2321C>T	rrl_n.2321C>T	non_coding_transcript_exon_variant	1475978		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2331A>G	rrl_n.2331A>G	non_coding_transcript_exon_variant	1475988		Uncertain_significance		No change
+Linezolid	rrl	n.2336C>T	rrl_n.2336C>T	non_coding_transcript_exon_variant	1475993		Uncertain_significance		No change
+Linezolid	rrl	n.2340A>T	rrl_n.2340A>T	non_coding_transcript_exon_variant	1475997		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2341C>A	rrl_n.2341C>A	non_coding_transcript_exon_variant	1475998		Uncertain_significance		No change
+Linezolid	rrl	n.2341C>T	rrl_n.2341C>T	non_coding_transcript_exon_variant	1475998		Uncertain_significance		No change
+Linezolid	rrl	n.2344T>C	rrl_n.2344T>C	non_coding_transcript_exon_variant	1476001		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2350T>G	rrl_n.2350T>G	non_coding_transcript_exon_variant	1476007		Uncertain_significance		No change
+Linezolid	rrl	n.2368G>A	rrl_n.2368G>A	non_coding_transcript_exon_variant	1476025		Uncertain_significance		No change
+Linezolid	rrl	n.236T>C	rrl_n.236T>C	non_coding_transcript_exon_variant	1473893		Uncertain_significance		No change
+Linezolid	rrl	n.2392C>T	rrl_n.2392C>T	non_coding_transcript_exon_variant	1476049		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2399G>A	rrl_n.2399G>A	non_coding_transcript_exon_variant	1476056		Uncertain_significance		No change
+Linezolid	rrl	n.2401T>C	rrl_n.2401T>C	non_coding_transcript_exon_variant	1476058		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.241C>G	rrl_n.241C>G	non_coding_transcript_exon_variant	1473898		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.241C>T	rrl_n.241C>T	non_coding_transcript_exon_variant	1473898		Uncertain_significance		No change
+Linezolid	rrl	n.2421C>A	rrl_n.2421C>A	non_coding_transcript_exon_variant	1476078		Uncertain_significance		No change
+Linezolid	rrl	n.2429G>A	rrl_n.2429G>A	non_coding_transcript_exon_variant	1476086		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.242A>C	rrl_n.242A>C	non_coding_transcript_exon_variant	1473899		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.242A>G	rrl_n.242A>G	non_coding_transcript_exon_variant	1473899		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2431A>C	rrl_n.2431A>C	non_coding_transcript_exon_variant	1476088		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2434T>C	rrl_n.2434T>C	non_coding_transcript_exon_variant	1476091		Uncertain_significance		No change
+Linezolid	rrl	n.2442A>G	rrl_n.2442A>G	non_coding_transcript_exon_variant	1476099		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2444C>T	rrl_n.2444C>T	non_coding_transcript_exon_variant	1476101		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2446_2449delCTGAinsATG	rrl_n.2446_2449delCTGAinsATG	non_coding_transcript_exon_variant	1476103		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2453G>A	rrl_n.2453G>A	non_coding_transcript_exon_variant	1476110		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2453G>T	rrl_n.2453G>T	non_coding_transcript_exon_variant	1476110		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2454G>A	rrl_n.2454G>A	non_coding_transcript_exon_variant	1476111		Uncertain_significance		No change
+Linezolid	rrl	n.2457T>C	rrl_n.2457T>C	non_coding_transcript_exon_variant	1476114		Uncertain_significance		No change
+Linezolid	rrl	n.2458T>C	rrl_n.2458T>C	non_coding_transcript_exon_variant	1476115		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2461G>A	rrl_n.2461G>A	non_coding_transcript_exon_variant	1476118		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2465A>T	rrl_n.2465A>T	non_coding_transcript_exon_variant	1476122		Uncertain_significance		No change
+Linezolid	rrl	n.2467T>C	rrl_n.2467T>C	non_coding_transcript_exon_variant	1476124		Uncertain_significance		No change
+Linezolid	rrl	n.2468G>A	rrl_n.2468G>A	non_coding_transcript_exon_variant	1476125		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2469C>T	rrl_n.2469C>T	non_coding_transcript_exon_variant	1476126		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2472G>A	rrl_n.2472G>A	non_coding_transcript_exon_variant	1476129		Uncertain_significance		No change
+Linezolid	rrl	n.2473G>A	rrl_n.2473G>A	non_coding_transcript_exon_variant	1476130		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2474C>T	rrl_n.2474C>T	non_coding_transcript_exon_variant	1476131		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2478T>C	rrl_n.2478T>C	non_coding_transcript_exon_variant	1476135		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2479A>G	rrl_n.2479A>G	non_coding_transcript_exon_variant	1476136		Uncertain_significance		No change
+Linezolid	rrl	n.2484A>G	rrl_n.2484A>G	non_coding_transcript_exon_variant	1476141		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2496T>C	rrl_n.2496T>C	non_coding_transcript_exon_variant	1476153		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2503T>C	rrl_n.2503T>C	non_coding_transcript_exon_variant	1476160		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2503T>G	rrl_n.2503T>G	non_coding_transcript_exon_variant	1476160		Uncertain_significance		No change
+Linezolid	rrl	n.2507A>G	rrl_n.2507A>G	non_coding_transcript_exon_variant	1476164		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2508T>A	rrl_n.2508T>A	non_coding_transcript_exon_variant	1476165		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2508T>G	rrl_n.2508T>G	non_coding_transcript_exon_variant	1476165		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2509G>C	rrl_n.2509G>C	non_coding_transcript_exon_variant	1476166		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.251C>G	rrl_n.251C>G	non_coding_transcript_exon_variant	1473908		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2529T>C	rrl_n.2529T>C	non_coding_transcript_exon_variant	1476186		Uncertain_significance		No change
+Linezolid	rrl	n.2537A>G	rrl_n.2537A>G	non_coding_transcript_exon_variant	1476194		Uncertain_significance		No change
+Linezolid	rrl	n.2538C>A	rrl_n.2538C>A	non_coding_transcript_exon_variant	1476195		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2539C>A	rrl_n.2539C>A	non_coding_transcript_exon_variant	1476196		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2543A>T	rrl_n.2543A>T	non_coding_transcript_exon_variant	1476200		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2544C>T	rrl_n.2544C>T	non_coding_transcript_exon_variant	1476201		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2547C>A	rrl_n.2547C>A	non_coding_transcript_exon_variant	1476204		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2553G>T	rrl_n.2553G>T	non_coding_transcript_exon_variant	1476210		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2554G>T	rrl_n.2554G>T	non_coding_transcript_exon_variant	1476211		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2555T>C	rrl_n.2555T>C	non_coding_transcript_exon_variant	1476212		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2557G>C	rrl_n.2557G>C	non_coding_transcript_exon_variant	1476214		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2557G>T	rrl_n.2557G>T	non_coding_transcript_exon_variant	1476214		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2558C>A	rrl_n.2558C>A	non_coding_transcript_exon_variant	1476215		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2558C>T	rrl_n.2558C>T	non_coding_transcript_exon_variant	1476215		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2564T>C	rrl_n.2564T>C	non_coding_transcript_exon_variant	1476221		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2565A>C	rrl_n.2565A>C	non_coding_transcript_exon_variant	1476222		Uncertain_significance		Assoc_w_R
+Linezolid	rrl	n.2567A>G	rrl_n.2567A>G	non_coding_transcript_exon_variant	1476224		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2568T>G	rrl_n.2568T>G	non_coding_transcript_exon_variant	1476225		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2570C>T	rrl_n.2570C>T	non_coding_transcript_exon_variant	1476227		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2586T>C	rrl_n.2586T>C	non_coding_transcript_exon_variant	1476243		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2588C>T	rrl_n.2588C>T	non_coding_transcript_exon_variant	1476245		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2593C>G	rrl_n.2593C>G	non_coding_transcript_exon_variant	1476250		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2594T>A	rrl_n.2594T>A	non_coding_transcript_exon_variant	1476251		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2594T>C	rrl_n.2594T>C	non_coding_transcript_exon_variant	1476251		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2595T>G	rrl_n.2595T>G	non_coding_transcript_exon_variant	1476252		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2599A>G	rrl_n.2599A>G	non_coding_transcript_exon_variant	1476256		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2599A>T	rrl_n.2599A>T	non_coding_transcript_exon_variant	1476256		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.259C>A	rrl_n.259C>A	non_coding_transcript_exon_variant	1473916		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.-25C>T	rrl_n.-25C>T	upstream_gene_variant	1473633		Uncertain_significance		No change
+Linezolid	rrl	n.2600G>C	rrl_n.2600G>C	non_coding_transcript_exon_variant	1476257		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2602C>G	rrl_n.2602C>G	non_coding_transcript_exon_variant	1476259		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2603A>G	rrl_n.2603A>G	non_coding_transcript_exon_variant	1476260		Uncertain_significance		No change
+Linezolid	rrl	n.2623A>C	rrl_n.2623A>C	non_coding_transcript_exon_variant	1476280		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2624T>C	rrl_n.2624T>C	non_coding_transcript_exon_variant	1476281		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2633C>A	rrl_n.2633C>A	non_coding_transcript_exon_variant	1476290		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2636C>T	rrl_n.2636C>T	non_coding_transcript_exon_variant	1476293		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2637A>G	rrl_n.2637A>G	non_coding_transcript_exon_variant	1476294		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2638C>G	rrl_n.2638C>G	non_coding_transcript_exon_variant	1476295		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2639C>T	rrl_n.2639C>T	non_coding_transcript_exon_variant	1476296		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2640C>A	rrl_n.2640C>A	non_coding_transcript_exon_variant	1476297		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2640C>G	rrl_n.2640C>G	non_coding_transcript_exon_variant	1476297		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2640C>T	rrl_n.2640C>T	non_coding_transcript_exon_variant	1476297		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2641C>G	rrl_n.2641C>G	non_coding_transcript_exon_variant	1476298		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2642C>T	rrl_n.2642C>T	non_coding_transcript_exon_variant	1476299		Uncertain_significance		No change
+Linezolid	rrl	n.2643G>A	rrl_n.2643G>A	non_coding_transcript_exon_variant	1476300		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2644A>C	rrl_n.2644A>C	non_coding_transcript_exon_variant	1476301		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2644A>T	rrl_n.2644A>T	non_coding_transcript_exon_variant	1476301		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2645G>A	rrl_n.2645G>A	non_coding_transcript_exon_variant	1476302		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2652G>C	rrl_n.2652G>C	non_coding_transcript_exon_variant	1476309		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2654G>C	rrl_n.2654G>C	non_coding_transcript_exon_variant	1476311		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2655T>C	rrl_n.2655T>C	non_coding_transcript_exon_variant	1476312		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2656G>A	rrl_n.2656G>A	non_coding_transcript_exon_variant	1476313		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.266C>A	rrl_n.266C>A	non_coding_transcript_exon_variant	1473923		Uncertain_significance		No change
+Linezolid	rrl	n.266C>G	rrl_n.266C>G	non_coding_transcript_exon_variant	1473923		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.266C>T	rrl_n.266C>T	non_coding_transcript_exon_variant	1473923		Uncertain_significance		No change
+Linezolid	rrl	n.2675G>C	rrl_n.2675G>C	non_coding_transcript_exon_variant	1476332		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2680C>T	rrl_n.2680C>T	non_coding_transcript_exon_variant	1476337		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2681C>T	rrl_n.2681C>T	non_coding_transcript_exon_variant	1476338		Uncertain_significance		No change
+Linezolid	rrl	n.2689A>T	rrl_n.2689A>T	non_coding_transcript_exon_variant	1476346	Selection evidence	Assoc_w_R_Interim		New AwRI
+Linezolid	rrl	n.2691A>T	rrl_n.2691A>T	non_coding_transcript_exon_variant	1476348		Uncertain_significance		No change
+Linezolid	rrl	n.2696G>T	rrl_n.2696G>T	non_coding_transcript_exon_variant	1476353		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.269G>C	rrl_n.269G>C	non_coding_transcript_exon_variant	1473926		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.26G>A	rrl_n.26G>A	non_coding_transcript_exon_variant	1473683		Uncertain_significance		No change
+Linezolid	rrl	n.2701T>C	rrl_n.2701T>C	non_coding_transcript_exon_variant	1476358		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2702C>G	rrl_n.2702C>G	non_coding_transcript_exon_variant	1476359		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2712C>T	rrl_n.2712C>T	non_coding_transcript_exon_variant	1476369		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2715T>C	rrl_n.2715T>C	non_coding_transcript_exon_variant	1476372		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.271T>C	rrl_n.271T>C	non_coding_transcript_exon_variant	1473928		Uncertain_significance		No change
+Linezolid	rrl	n.2724G>C	rrl_n.2724G>C	non_coding_transcript_exon_variant	1476381		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2725A>G	rrl_n.2725A>G	non_coding_transcript_exon_variant	1476382		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2726T>A	rrl_n.2726T>A	non_coding_transcript_exon_variant	1476383		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2746G>A	rrl_n.2746G>A	non_coding_transcript_exon_variant	1476403	Selection evidence	Assoc_w_R_Interim		New AwRI
+Linezolid	rrl	n.2751G>A	rrl_n.2751G>A	non_coding_transcript_exon_variant	1476408		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2755C>T	rrl_n.2755C>T	non_coding_transcript_exon_variant	1476412		Uncertain_significance		No change
+Linezolid	rrl	n.2766T>C	rrl_n.2766T>C	non_coding_transcript_exon_variant	1476423		Uncertain_significance		No change
+Linezolid	rrl	n.2768G>A	rrl_n.2768G>A	non_coding_transcript_exon_variant	1476425		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2768G>T	rrl_n.2768G>T	non_coding_transcript_exon_variant	1476425		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.276C>T	rrl_n.276C>T	non_coding_transcript_exon_variant	1473933		Uncertain_significance		No change
+Linezolid	rrl	n.2771C>T	rrl_n.2771C>T	non_coding_transcript_exon_variant	1476428		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2772A>C	rrl_n.2772A>C	non_coding_transcript_exon_variant	1476429		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2779A>G	rrl_n.2779A>G	non_coding_transcript_exon_variant	1476436		Uncertain_significance		No change
+Linezolid	rrl	n.2781G>A	rrl_n.2781G>A	non_coding_transcript_exon_variant	1476438		Uncertain_significance		No change
+Linezolid	rrl	n.2790T>C	rrl_n.2790T>C	non_coding_transcript_exon_variant	1476447		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.-27T>G	rrl_n.-27T>G	upstream_gene_variant	1473631		Uncertain_significance		No change
+Linezolid	rrl	n.2809C>T	rrl_n.2809C>T	non_coding_transcript_exon_variant	1476466		Uncertain_significance		No change
+Linezolid	rrl	n.280C>G	rrl_n.280C>G	non_coding_transcript_exon_variant	1473937		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2810A>C	rrl_n.2810A>C	non_coding_transcript_exon_variant	1476467		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2813C>T	rrl_n.2813C>T	non_coding_transcript_exon_variant	1476470		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2814G>T	rrl_n.2814G>T	non_coding_transcript_exon_variant	1476471	Evidence from ALL dataset only	Assoc_w_R_Interim		UP from Uncertain to AwRI
+Linezolid	rrl	n.2824T>C	rrl_n.2824T>C	non_coding_transcript_exon_variant	1476481		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2828A>G	rrl_n.2828A>G	non_coding_transcript_exon_variant	1476485		Uncertain_significance		No change
+Linezolid	rrl	n.2844C>T	rrl_n.2844C>T	non_coding_transcript_exon_variant	1476501		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2849T>C	rrl_n.2849T>C	non_coding_transcript_exon_variant	1476506		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.284T>C	rrl_n.284T>C	non_coding_transcript_exon_variant	1473941		Uncertain_significance		No change
+Linezolid	rrl	n.2857C>T	rrl_n.2857C>T	non_coding_transcript_exon_variant	1476514		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.285G>C	rrl_n.285G>C	non_coding_transcript_exon_variant	1473942		Uncertain_significance		No change
+Linezolid	rrl	n.2862C>G	rrl_n.2862C>G	non_coding_transcript_exon_variant	1476519		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2862C>T	rrl_n.2862C>T	non_coding_transcript_exon_variant	1476519		Uncertain_significance		No change
+Linezolid	rrl	n.2866T>C	rrl_n.2866T>C	non_coding_transcript_exon_variant	1476523		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2867C>A	rrl_n.2867C>A	non_coding_transcript_exon_variant	1476524		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2868A>G	rrl_n.2868A>G	non_coding_transcript_exon_variant	1476525		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2873C>T	rrl_n.2873C>T	non_coding_transcript_exon_variant	1476530		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2879G>A	rrl_n.2879G>A	non_coding_transcript_exon_variant	1476536		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.287G>C	rrl_n.287G>C	non_coding_transcript_exon_variant	1473944		Uncertain_significance		No change
+Linezolid	rrl	n.2880A>G	rrl_n.2880A>G	non_coding_transcript_exon_variant	1476537		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2881A>G	rrl_n.2881A>G	non_coding_transcript_exon_variant	1476538		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2882A>G	rrl_n.2882A>G	non_coding_transcript_exon_variant	1476539		Uncertain_significance		No change
+Linezolid	rrl	n.2883C>G	rrl_n.2883C>G	non_coding_transcript_exon_variant	1476540		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2886G>A	rrl_n.2886G>A	non_coding_transcript_exon_variant	1476543		Uncertain_significance		No change
+Linezolid	rrl	n.2890C>T	rrl_n.2890C>T	non_coding_transcript_exon_variant	1476547		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2904C>T	rrl_n.2904C>T	non_coding_transcript_exon_variant	1476561		Uncertain_significance		No change
+Linezolid	rrl	n.2910C>T	rrl_n.2910C>T	non_coding_transcript_exon_variant	1476567		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2915G>C	rrl_n.2915G>C	non_coding_transcript_exon_variant	1476572		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2916A>C	rrl_n.2916A>C	non_coding_transcript_exon_variant	1476573		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2916A>G	rrl_n.2916A>G	non_coding_transcript_exon_variant	1476573		Uncertain_significance		No change
+Linezolid	rrl	n.2919C>T	rrl_n.2919C>T	non_coding_transcript_exon_variant	1476576		Uncertain_significance		No change
+Linezolid	rrl	n.2920T>G	rrl_n.2920T>G	non_coding_transcript_exon_variant	1476577		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2921C>A	rrl_n.2921C>A	non_coding_transcript_exon_variant	1476578		Uncertain_significance		No change
+Linezolid	rrl	n.2927C>T	rrl_n.2927C>T	non_coding_transcript_exon_variant	1476584		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2928A>G	rrl_n.2928A>G	non_coding_transcript_exon_variant	1476585		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2937C>T	rrl_n.2937C>T	non_coding_transcript_exon_variant	1476594		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2938C>A	rrl_n.2938C>A	non_coding_transcript_exon_variant	1476595		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2938C>T	rrl_n.2938C>T	non_coding_transcript_exon_variant	1476595		Uncertain_significance		No change
+Linezolid	rrl	n.2939C>T	rrl_n.2939C>T	non_coding_transcript_exon_variant	1476596		Uncertain_significance		No change
+Linezolid	rrl	n.2943A>T	rrl_n.2943A>T	non_coding_transcript_exon_variant	1476600		Uncertain_significance		No change
+Linezolid	rrl	n.2944G>A	rrl_n.2944G>A	non_coding_transcript_exon_variant	1476601		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2945G>T	rrl_n.2945G>T	non_coding_transcript_exon_variant	1476602		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2946G>A	rrl_n.2946G>A	non_coding_transcript_exon_variant	1476603		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2950C>T	rrl_n.2950C>T	non_coding_transcript_exon_variant	1476607		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2951C>A	rrl_n.2951C>A	non_coding_transcript_exon_variant	1476608		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2951C>G	rrl_n.2951C>G	non_coding_transcript_exon_variant	1476608		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2951C>T	rrl_n.2951C>T	non_coding_transcript_exon_variant	1476608		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2957A>G	rrl_n.2957A>G	non_coding_transcript_exon_variant	1476614		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2962C>T	rrl_n.2962C>T	non_coding_transcript_exon_variant	1476619		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2964C>A	rrl_n.2964C>A	non_coding_transcript_exon_variant	1476621		Uncertain_significance		No change
+Linezolid	rrl	n.2964C>T	rrl_n.2964C>T	non_coding_transcript_exon_variant	1476621		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2967T>A	rrl_n.2967T>A	non_coding_transcript_exon_variant	1476624		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2967T>G	rrl_n.2967T>G	non_coding_transcript_exon_variant	1476624		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2971T>A	rrl_n.2971T>A	non_coding_transcript_exon_variant	1476628		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2973A>G	rrl_n.2973A>G	non_coding_transcript_exon_variant	1476630		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2974G>A	rrl_n.2974G>A	non_coding_transcript_exon_variant	1476631		Uncertain_significance		No change
+Linezolid	rrl	n.2980C>A	rrl_n.2980C>A	non_coding_transcript_exon_variant	1476637		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2980C>G	rrl_n.2980C>G	non_coding_transcript_exon_variant	1476637		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.2981C>T	rrl_n.2981C>T	non_coding_transcript_exon_variant	1476638		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.3004A>G	rrl_n.3004A>G	non_coding_transcript_exon_variant	1476661		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.3005_3006dupCC	rrl_n.3005_3006dupCC	non_coding_transcript_exon_variant	1476661		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.3006C>T	rrl_n.3006C>T	non_coding_transcript_exon_variant	1476663		Uncertain_significance		No change
+Linezolid	rrl	n.3007T>G	rrl_n.3007T>G	non_coding_transcript_exon_variant	1476664		Uncertain_significance		No change
+Linezolid	rrl	n.3008T>G	rrl_n.3008T>G	non_coding_transcript_exon_variant	1476665		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.3009C>T	rrl_n.3009C>T	non_coding_transcript_exon_variant	1476666		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.3012C>T	rrl_n.3012C>T	non_coding_transcript_exon_variant	1476669		Uncertain_significance		No change
+Linezolid	rrl	n.3017T>C	rrl_n.3017T>C	non_coding_transcript_exon_variant	1476674		Uncertain_significance		No change
+Linezolid	rrl	n.3018C>G	rrl_n.3018C>G	non_coding_transcript_exon_variant	1476675		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.302T>C	rrl_n.302T>C	non_coding_transcript_exon_variant	1473959		Uncertain_significance		No change
+Linezolid	rrl	n.3035T>C	rrl_n.3035T>C	non_coding_transcript_exon_variant	1476692		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.3037G>A	rrl_n.3037G>A	non_coding_transcript_exon_variant	1476694		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.303T>C	rrl_n.303T>C	non_coding_transcript_exon_variant	1473960		Uncertain_significance		No change
+Linezolid	rrl	n.303T>G	rrl_n.303T>G	non_coding_transcript_exon_variant	1473960		Uncertain_significance		No change
+Linezolid	rrl	n.3042A>T	rrl_n.3042A>T	non_coding_transcript_exon_variant	1476699		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.3053C>T	rrl_n.3053C>T	non_coding_transcript_exon_variant	1476710		Uncertain_significance		No change
+Linezolid	rrl	n.3053delC	rrl_n.3053delC	non_coding_transcript_exon_variant	1476704		Uncertain_significance		No change
+Linezolid	rrl	n.3063G>A	rrl_n.3063G>A	non_coding_transcript_exon_variant	1476720		Uncertain_significance		No change
+Linezolid	rrl	n.3064G>A	rrl_n.3064G>A	non_coding_transcript_exon_variant	1476721		Uncertain_significance		No change
+Linezolid	rrl	n.3068C>T	rrl_n.3068C>T	non_coding_transcript_exon_variant	1476725		Uncertain_significance		No change
+Linezolid	rrl	n.3072A>G	rrl_n.3072A>G	non_coding_transcript_exon_variant	1476729		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.3094A>G	rrl_n.3094A>G	non_coding_transcript_exon_variant	1476751		Uncertain_significance		No change
+Linezolid	rrl	n.3099G>C	rrl_n.3099G>C	non_coding_transcript_exon_variant	1476756		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.3104G>T	rrl_n.3104G>T	non_coding_transcript_exon_variant	1476761		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.3136A>T	rrl_n.3136A>T	non_coding_transcript_exon_variant	1476793		Uncertain_significance		No change
+Linezolid	rrl	n.3138A>G	rrl_n.3138A>G	non_coding_transcript_exon_variant	1476795		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.326A>G	rrl_n.326A>G	non_coding_transcript_exon_variant	1473983		Uncertain_significance		No change
+Linezolid	rrl	n.328A>G	rrl_n.328A>G	non_coding_transcript_exon_variant	1473985		Uncertain_significance		No change
+Linezolid	rrl	n.335A>C	rrl_n.335A>C	non_coding_transcript_exon_variant	1473992		Uncertain_significance		No change
+Linezolid	rrl	n.344C>T	rrl_n.344C>T	non_coding_transcript_exon_variant	1474001		Not_assoc_w_R		No change
+Linezolid	rrl	n.350A>C	rrl_n.350A>C	non_coding_transcript_exon_variant	1474007		Uncertain_significance		No change
+Linezolid	rrl	n.354G>A	rrl_n.354G>A	non_coding_transcript_exon_variant	1474011		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.-35G>A	rrl_n.-35G>A	upstream_gene_variant	1473623		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.367G>T	rrl_n.367G>T	non_coding_transcript_exon_variant	1474024		Uncertain_significance		No change
+Linezolid	rrl	n.-39G>A	rrl_n.-39G>A	upstream_gene_variant	1473619		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.3G>A	rrl_n.3G>A	non_coding_transcript_exon_variant	1473660		Uncertain_significance		No change
+Linezolid	rrl	n.408C>T	rrl_n.408C>T	non_coding_transcript_exon_variant	1474065		Uncertain_significance		No change
+Linezolid	rrl	n.417C>T	rrl_n.417C>T	non_coding_transcript_exon_variant	1474074		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.-41T>C	rrl_n.-41T>C	upstream_gene_variant	1473617		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.424C>T	rrl_n.424C>T	non_coding_transcript_exon_variant	1474081		Uncertain_significance		No change
+Linezolid	rrl	n.435G>T	rrl_n.435G>T	non_coding_transcript_exon_variant	1474092		Uncertain_significance		No change
+Linezolid	rrl	n.-43G>C	rrl_n.-43G>C	upstream_gene_variant	1473615		Uncertain_significance		No change
+Linezolid	rrl	n.447G>A	rrl_n.447G>A	non_coding_transcript_exon_variant	1474104		Uncertain_significance		No change
+Linezolid	rrl	n.448T>C	rrl_n.448T>C	non_coding_transcript_exon_variant	1474105		Uncertain_significance		No change
+Linezolid	rrl	n.450T>C	rrl_n.450T>C	non_coding_transcript_exon_variant	1474107		Uncertain_significance		No change
+Linezolid	rrl	n.453delA	rrl_n.453delA	non_coding_transcript_exon_variant	1474108		Uncertain_significance		No change
+Linezolid	rrl	n.46C>G	rrl_n.46C>G	non_coding_transcript_exon_variant	1473703		Uncertain_significance		No change
+Linezolid	rrl	n.471G>T	rrl_n.471G>T	non_coding_transcript_exon_variant	1474128		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.475G>T	rrl_n.475G>T	non_coding_transcript_exon_variant	1474132		Uncertain_significance		No change
+Linezolid	rrl	n.478G>A	rrl_n.478G>A	non_coding_transcript_exon_variant	1474135		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.483C>T	rrl_n.483C>T	non_coding_transcript_exon_variant	1474140		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.494C>T	rrl_n.494C>T	non_coding_transcript_exon_variant	1474151		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.496C>G	rrl_n.496C>G	non_coding_transcript_exon_variant	1474153		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.-49G>C	rrl_n.-49G>C	upstream_gene_variant	1473609		Uncertain_significance		No change
+Linezolid	rrl	n.-4G>C	rrl_n.-4G>C	upstream_gene_variant	1473654		Uncertain_significance		No change
+Linezolid	rrl	n.509G>C	rrl_n.509G>C	non_coding_transcript_exon_variant	1474166		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.517A>G	rrl_n.517A>G	non_coding_transcript_exon_variant	1474174		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.522C>T	rrl_n.522C>T	non_coding_transcript_exon_variant	1474179		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.526T>C	rrl_n.526T>C	non_coding_transcript_exon_variant	1474183		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.527C>T	rrl_n.527C>T	non_coding_transcript_exon_variant	1474184		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.529A>G	rrl_n.529A>G	non_coding_transcript_exon_variant	1474186		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.533C>T	rrl_n.533C>T	non_coding_transcript_exon_variant	1474190		Uncertain_significance		No change
+Linezolid	rrl	n.535G>T	rrl_n.535G>T	non_coding_transcript_exon_variant	1474192		Uncertain_significance		No change
+Linezolid	rrl	n.544T>C	rrl_n.544T>C	non_coding_transcript_exon_variant	1474201		Uncertain_significance		No change
+Linezolid	rrl	n.545delT	rrl_n.545delT	non_coding_transcript_exon_variant	1474200		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.552G>A	rrl_n.552G>A	non_coding_transcript_exon_variant	1474209		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.561T>A	rrl_n.561T>A	non_coding_transcript_exon_variant	1474218		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.571T>A	rrl_n.571T>A	non_coding_transcript_exon_variant	1474228		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.571T>C	rrl_n.571T>C	non_coding_transcript_exon_variant	1474228		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.575C>T	rrl_n.575C>T	non_coding_transcript_exon_variant	1474232		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.579G>A	rrl_n.579G>A	non_coding_transcript_exon_variant	1474236		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.592G>T	rrl_n.592G>T	non_coding_transcript_exon_variant	1474249		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.595T>A	rrl_n.595T>A	non_coding_transcript_exon_variant	1474252		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.596A>T	rrl_n.596A>T	non_coding_transcript_exon_variant	1474253		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.598delC	rrl_n.598delC	non_coding_transcript_exon_variant	1474253		Uncertain_significance		No change
+Linezolid	rrl	n.609T>C	rrl_n.609T>C	non_coding_transcript_exon_variant	1474266		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.60G>A	rrl_n.60G>A	non_coding_transcript_exon_variant	1473717		Uncertain_significance		No change
+Linezolid	rrl	n.612C>T	rrl_n.612C>T	non_coding_transcript_exon_variant	1474269		Uncertain_significance		No change
+Linezolid	rrl	n.627G>T	rrl_n.627G>T	non_coding_transcript_exon_variant	1474284		Uncertain_significance		No change
+Linezolid	rrl	n.637C>G	rrl_n.637C>G	non_coding_transcript_exon_variant	1474294		Uncertain_significance		No change
+Linezolid	rrl	n.637C>T	rrl_n.637C>T	non_coding_transcript_exon_variant	1474294		Uncertain_significance		No change
+Linezolid	rrl	n.643C>A	rrl_n.643C>A	non_coding_transcript_exon_variant	1474300		Uncertain_significance		No change
+Linezolid	rrl	n.650G>A	rrl_n.650G>A	non_coding_transcript_exon_variant	1474307		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.651G>T	rrl_n.651G>T	non_coding_transcript_exon_variant	1474308		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.669T>A	rrl_n.669T>A	non_coding_transcript_exon_variant	1474326		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.673A>T	rrl_n.673A>T	non_coding_transcript_exon_variant	1474330		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.686C>T	rrl_n.686C>T	non_coding_transcript_exon_variant	1474343		Uncertain_significance		No change
+Linezolid	rrl	n.691C>T	rrl_n.691C>T	non_coding_transcript_exon_variant	1474348		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.694G>T	rrl_n.694G>T	non_coding_transcript_exon_variant	1474351		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.696A>G	rrl_n.696A>G	non_coding_transcript_exon_variant	1474353		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.698A>G	rrl_n.698A>G	non_coding_transcript_exon_variant	1474355		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.700G>A	rrl_n.700G>A	non_coding_transcript_exon_variant	1474357		Uncertain_significance		No change
+Linezolid	rrl	n.702C>G	rrl_n.702C>G	non_coding_transcript_exon_variant	1474359		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.705A>G	rrl_n.705A>G	non_coding_transcript_exon_variant	1474362		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.716G>T	rrl_n.716G>T	non_coding_transcript_exon_variant	1474373		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.718dupG	rrl_n.718dupG	non_coding_transcript_exon_variant	1474374		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.718G>A	rrl_n.718G>A	non_coding_transcript_exon_variant	1474375		Uncertain_significance		No change
+Linezolid	rrl	n.723G>A	rrl_n.723G>A	non_coding_transcript_exon_variant	1474380		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.730C>T	rrl_n.730C>T	non_coding_transcript_exon_variant	1474387		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.733C>T	rrl_n.733C>T	non_coding_transcript_exon_variant	1474390		Uncertain_significance		No change
+Linezolid	rrl	n.745T>C	rrl_n.745T>C	non_coding_transcript_exon_variant	1474402		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.74T>A	rrl_n.74T>A	non_coding_transcript_exon_variant	1473731		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.757C>G	rrl_n.757C>G	non_coding_transcript_exon_variant	1474414		Uncertain_significance		No change
+Linezolid	rrl	n.758C>T	rrl_n.758C>T	non_coding_transcript_exon_variant	1474415		Uncertain_significance		No change
+Linezolid	rrl	n.781_782insT	rrl_n.781_782insT	non_coding_transcript_exon_variant	1474438		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.781A>G	rrl_n.781A>G	non_coding_transcript_exon_variant	1474438		Uncertain_significance		No change
+Linezolid	rrl	n.782dupA	rrl_n.782dupA	non_coding_transcript_exon_variant	1474437		Uncertain_significance		No change
+Linezolid	rrl	n.784A>G	rrl_n.784A>G	non_coding_transcript_exon_variant	1474441		Uncertain_significance		No change
+Linezolid	rrl	n.787G>A	rrl_n.787G>A	non_coding_transcript_exon_variant	1474444		Uncertain_significance		No change
+Linezolid	rrl	n.789C>T	rrl_n.789C>T	non_coding_transcript_exon_variant	1474446		Uncertain_significance		No change
+Linezolid	rrl	n.793T>A	rrl_n.793T>A	non_coding_transcript_exon_variant	1474450		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.795C>T	rrl_n.795C>T	non_coding_transcript_exon_variant	1474452		Uncertain_significance		No change
+Linezolid	rrl	n.797G>A	rrl_n.797G>A	non_coding_transcript_exon_variant	1474454		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.798G>A	rrl_n.798G>A	non_coding_transcript_exon_variant	1474455		Uncertain_significance		No change
+Linezolid	rrl	n.806G>A	rrl_n.806G>A	non_coding_transcript_exon_variant	1474463		Uncertain_significance		No change
+Linezolid	rrl	n.807C>T	rrl_n.807C>T	non_coding_transcript_exon_variant	1474464		Uncertain_significance		No change
+Linezolid	rrl	n.809G>A	rrl_n.809G>A	non_coding_transcript_exon_variant	1474466		Uncertain_significance		No change
+Linezolid	rrl	n.811G>A	rrl_n.811G>A	non_coding_transcript_exon_variant	1474468		Uncertain_significance		No change
+Linezolid	rrl	n.825G>T	rrl_n.825G>T	non_coding_transcript_exon_variant	1474482		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.831G>T	rrl_n.831G>T	non_coding_transcript_exon_variant	1474488		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.837C>T	rrl_n.837C>T	non_coding_transcript_exon_variant	1474494		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.838G>T	rrl_n.838G>T	non_coding_transcript_exon_variant	1474495		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.839C>A	rrl_n.839C>A	non_coding_transcript_exon_variant	1474496		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.840G>A	rrl_n.840G>A	non_coding_transcript_exon_variant	1474497		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.840G>C	rrl_n.840G>C	non_coding_transcript_exon_variant	1474497		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.840G>T	rrl_n.840G>T	non_coding_transcript_exon_variant	1474497		Uncertain_significance		No change
+Linezolid	rrl	n.842G>A	rrl_n.842G>A	non_coding_transcript_exon_variant	1474499		Uncertain_significance		No change
+Linezolid	rrl	n.846G>C	rrl_n.846G>C	non_coding_transcript_exon_variant	1474503		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.848C>G	rrl_n.848C>G	non_coding_transcript_exon_variant	1474505		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.849C>G	rrl_n.849C>G	non_coding_transcript_exon_variant	1474506		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.849C>T	rrl_n.849C>T	non_coding_transcript_exon_variant	1474506		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.850G>T	rrl_n.850G>T	non_coding_transcript_exon_variant	1474507		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.851C>A	rrl_n.851C>A	non_coding_transcript_exon_variant	1474508		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.851C>T	rrl_n.851C>T	non_coding_transcript_exon_variant	1474508		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.852G>A	rrl_n.852G>A	non_coding_transcript_exon_variant	1474509		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.859C>A	rrl_n.859C>A	non_coding_transcript_exon_variant	1474516		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.866C>T	rrl_n.866C>T	non_coding_transcript_exon_variant	1474523		Uncertain_significance		No change
+Linezolid	rrl	n.868A>G	rrl_n.868A>G	non_coding_transcript_exon_variant	1474525		Uncertain_significance		No change
+Linezolid	rrl	n.870T>G	rrl_n.870T>G	non_coding_transcript_exon_variant	1474527		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.871T>C	rrl_n.871T>C	non_coding_transcript_exon_variant	1474528		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.873G>C	rrl_n.873G>C	non_coding_transcript_exon_variant	1474530		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.880G>A	rrl_n.880G>A	non_coding_transcript_exon_variant	1474537		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.882C>G	rrl_n.882C>G	non_coding_transcript_exon_variant	1474539		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.885A>C	rrl_n.885A>C	non_coding_transcript_exon_variant	1474542		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.894G>C	rrl_n.894G>C	non_coding_transcript_exon_variant	1474551		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.895C>G	rrl_n.895C>G	non_coding_transcript_exon_variant	1474552		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.896T>C	rrl_n.896T>C	non_coding_transcript_exon_variant	1474553		Uncertain_significance		No change
+Linezolid	rrl	n.901G>T	rrl_n.901G>T	non_coding_transcript_exon_variant	1474558		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.903A>G	rrl_n.903A>G	non_coding_transcript_exon_variant	1474560		Uncertain_significance		No change
+Linezolid	rrl	n.906G>A	rrl_n.906G>A	non_coding_transcript_exon_variant	1474563		Uncertain_significance		No change
+Linezolid	rrl	n.913G>T	rrl_n.913G>T	non_coding_transcript_exon_variant	1474570		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.914G>A	rrl_n.914G>A	non_coding_transcript_exon_variant	1474571		Uncertain_significance		No change
+Linezolid	rrl	n.921A>G	rrl_n.921A>G	non_coding_transcript_exon_variant	1474578		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.924C>G	rrl_n.924C>G	non_coding_transcript_exon_variant	1474581		Uncertain_significance		No change
+Linezolid	rrl	n.925T>C	rrl_n.925T>C	non_coding_transcript_exon_variant	1474582		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.926C>T	rrl_n.926C>T	non_coding_transcript_exon_variant	1474583		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.927C>G	rrl_n.927C>G	non_coding_transcript_exon_variant	1474584		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.929T>A	rrl_n.929T>A	non_coding_transcript_exon_variant	1474586		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.929T>C	rrl_n.929T>C	non_coding_transcript_exon_variant	1474586		Uncertain_significance		No change
+Linezolid	rrl	n.944C>T	rrl_n.944C>T	non_coding_transcript_exon_variant	1474601		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.947G>A	rrl_n.947G>A	non_coding_transcript_exon_variant	1474604		Uncertain_significance		No change
+Linezolid	rrl	n.960G>A	rrl_n.960G>A	non_coding_transcript_exon_variant	1474617		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.969T>C	rrl_n.969T>C	non_coding_transcript_exon_variant	1474626		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.970G>A	rrl_n.970G>A	non_coding_transcript_exon_variant	1474627		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.975G>T	rrl_n.975G>T	non_coding_transcript_exon_variant	1474632		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.979A>C	rrl_n.979A>C	non_coding_transcript_exon_variant	1474636		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.980C>G	rrl_n.980C>G	non_coding_transcript_exon_variant	1474637		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.981C>G	rrl_n.981C>G	non_coding_transcript_exon_variant	1474638		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.982G>A	rrl_n.982G>A	non_coding_transcript_exon_variant	1474639		Uncertain_significance		No change
+Linezolid	rrl	n.982G>C	rrl_n.982G>C	non_coding_transcript_exon_variant	1474639		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.986A>G	rrl_n.986A>G	non_coding_transcript_exon_variant	1474643		Uncertain_significance		New Uncertain
+Linezolid	rrl	n.99G>T	rrl_n.99G>T	non_coding_transcript_exon_variant	1473756		Uncertain_significance		New Uncertain
+Linezolid	tsnR	c.108G>A	tsnR_c.108G>A	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.108G>T	tsnR_c.108G>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.111G>C	tsnR_c.111G>C	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.-13C>T	tsnR_c.-13C>T	upstream_gene_variant	1853593		Uncertain_significance		New Uncertain
+Linezolid	tsnR	c.144C>T	tsnR_c.144C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.147C>G	tsnR_c.147C>G	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.186C>T	tsnR_c.186C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.189G>T	tsnR_c.189G>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.18G>C	tsnR_c.18G>C	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.195G>A	tsnR_c.195G>A	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.21C>A	tsnR_c.21C>A	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.-23C>T	tsnR_c.-23C>T	upstream_gene_variant	1853583		Uncertain_significance		New Uncertain
+Linezolid	tsnR	c.240T>C	tsnR_c.240T>C	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.24G>A	tsnR_c.24G>A	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.-28G>C	tsnR_c.-28G>C	upstream_gene_variant	1853578		Uncertain_significance		New Uncertain
+Linezolid	tsnR	c.-29G>A	tsnR_c.-29G>A	upstream_gene_variant	1853577		Uncertain_significance		New Uncertain
+Linezolid	tsnR	c.-29G>T	tsnR_c.-29G>T	upstream_gene_variant	1853577		Uncertain_significance		New Uncertain
+Linezolid	tsnR	c.-2C>T	tsnR_c.-2C>T	upstream_gene_variant	1853604		Uncertain_significance		New Uncertain
+Linezolid	tsnR	c.312C>T	tsnR_c.312C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.321T>G	tsnR_c.321T>G	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.330C>T	tsnR_c.330C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.333G>A	tsnR_c.333G>A	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.369C>T	tsnR_c.369C>T	synonymous_variant	(see "Genomic_coordinates" sheet)		Not_assoc_w_R		Now listed
+Linezolid	tsnR	c.378C>A	tsnR_c.378C>A	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.-37C>T	tsnR_c.-37C>T	upstream_gene_variant	1853569		Uncertain_significance		New Uncertain
+Linezolid	tsnR	c.-3C>T	tsnR_c.-3C>T	upstream_gene_variant	1853603		Uncertain_significance		New Uncertain
+Linezolid	tsnR	c.-41G>A	tsnR_c.-41G>A	upstream_gene_variant	1853565		Uncertain_significance		New Uncertain
+Linezolid	tsnR	c.465C>T	tsnR_c.465C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.468C>A	tsnR_c.468C>A	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.-46G>A	tsnR_c.-46G>A	upstream_gene_variant	1853560		Uncertain_significance		New Uncertain
+Linezolid	tsnR	c.-48C>T	tsnR_c.-48C>T	upstream_gene_variant	1853558		Uncertain_significance		New Uncertain
+Linezolid	tsnR	c.504C>T	tsnR_c.504C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.516C>T	tsnR_c.516C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.544C>T	tsnR_c.544C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.564A>C	tsnR_c.564A>C	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.588C>T	tsnR_c.588C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.601C>T	tsnR_c.601C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.625C>T	tsnR_c.625C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.633G>A	tsnR_c.633G>A	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.636C>G	tsnR_c.636C>G	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.649T>C	tsnR_c.649T>C	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.669C>T	tsnR_c.669C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.681C>T	tsnR_c.681C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.687A>G	tsnR_c.687A>G	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.69G>A	tsnR_c.69G>A	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.-6A>G	tsnR_c.-6A>G	upstream_gene_variant	1853600		Uncertain_significance		New Uncertain
+Linezolid	tsnR	c.705A>C	tsnR_c.705A>C	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.748C>T	tsnR_c.748C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.762T>C	tsnR_c.762T>C	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.9C>T	tsnR_c.9C>T	synonymous_variant	(see "Genomic_coordinates" sheet)	Silent mutation	Not_assoc_w_R_Interim		Now listed
+Linezolid	tsnR	c.-9G>C	tsnR_c.-9G>C	upstream_gene_variant	1853597		Uncertain_significance		New Uncertain
+Linezolid	tsnR	LoF	tsnR_LoF	LoF	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala122Glu	tsnR_p.Ala122Glu	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala140Thr	tsnR_p.Ala140Thr	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala140Val	tsnR_p.Ala140Val	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala172fs	tsnR_p.Ala172fs	frameshift	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala172Thr	tsnR_p.Ala172Thr	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala186fs	tsnR_p.Ala186fs	frameshift	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala188Thr	tsnR_p.Ala188Thr	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala219Gly	tsnR_p.Ala219Gly	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala223Val	tsnR_p.Ala223Val	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala237Val	tsnR_p.Ala237Val	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala247Thr	tsnR_p.Ala247Thr	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala24Val	tsnR_p.Ala24Val	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala254Val	tsnR_p.Ala254Val	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala256Val	tsnR_p.Ala256Val	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala29Thr	tsnR_p.Ala29Thr	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala40Val	tsnR_p.Ala40Val	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala53Thr	tsnR_p.Ala53Thr	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala53Val	tsnR_p.Ala53Val	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala54Val	tsnR_p.Ala54Val	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ala76Thr	tsnR_p.Ala76Thr	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Arg142Leu	tsnR_p.Arg142Leu	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Arg22Gly	tsnR_p.Arg22Gly	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Arg22His	tsnR_p.Arg22His	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Arg260Pro	tsnR_p.Arg260Pro	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Arg56Trp	tsnR_p.Arg56Trp	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Arg5Ser	tsnR_p.Arg5Ser	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Asn241Lys	tsnR_p.Asn241Lys	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Asp196Glu	tsnR_p.Asp196Glu	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Asp81His	tsnR_p.Asp81His	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Cys92Arg	tsnR_p.Cys92Arg	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Glu100fs	tsnR_p.Glu100fs	frameshift	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Glu73Ala	tsnR_p.Glu73Ala	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Glu73Lys	tsnR_p.Glu73Lys	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Gly105fs	tsnR_p.Gly105fs	frameshift	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Gly123Ser	tsnR_p.Gly123Ser	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Gly141Arg	tsnR_p.Gly141Arg	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Gly149Asp	tsnR_p.Gly149Asp	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Gly181fs	tsnR_p.Gly181fs	frameshift	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Gly20Cys	tsnR_p.Gly20Cys	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Gly25Arg	tsnR_p.Gly25Arg	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ile110Thr	tsnR_p.Ile110Thr	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ile126Val	tsnR_p.Ile126Val	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ile138fs	tsnR_p.Ile138fs	frameshift	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ile159Met	tsnR_p.Ile159Met	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ile221Met	tsnR_p.Ile221Met	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ile221Ser	tsnR_p.Ile221Ser	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Leu139Phe	tsnR_p.Leu139Phe	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Leu152Met	tsnR_p.Leu152Met	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Leu202Phe	tsnR_p.Leu202Phe	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Leu232Pro	tsnR_p.Leu232Pro	missense_variant	(see "Genomic_coordinates" sheet)		Not_assoc_w_R		New NotAwR
+Linezolid	tsnR	p.Leu28Ile	tsnR_p.Leu28Ile	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Leu28Phe	tsnR_p.Leu28Phe	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Leu28Pro	tsnR_p.Leu28Pro	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Leu39Phe	tsnR_p.Leu39Phe	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Leu61Val	tsnR_p.Leu61Val	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Leu99Phe	tsnR_p.Leu99Phe	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Met132Ile	tsnR_p.Met132Ile	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Phe210Leu	tsnR_p.Phe210Leu	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Pro85Leu	tsnR_p.Pro85Leu	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ser218Thr	tsnR_p.Ser218Thr	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ser234Pro	tsnR_p.Ser234Pro	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ser239Cys	tsnR_p.Ser239Cys	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ser239Thr	tsnR_p.Ser239Thr	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Ser80Pro	tsnR_p.Ser80Pro	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Thr11Ala	tsnR_p.Thr11Ala	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Thr124Met	tsnR_p.Thr124Met	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Thr156fs	tsnR_p.Thr156fs	frameshift	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Thr3Ile	tsnR_p.Thr3Ile	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Thr82Lys	tsnR_p.Thr82Lys	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Trp208*	tsnR_p.Trp208*	stop_gained	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Tyr147Cys	tsnR_p.Tyr147Cys	missense_variant	(see "Genomic_coordinates" sheet)		Not_assoc_w_R		New NotAwR
+Linezolid	tsnR	p.Tyr251His	tsnR_p.Tyr251His	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Val137Leu	tsnR_p.Val137Leu	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Val144Ile	tsnR_p.Val144Ile	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Val170Ile	tsnR_p.Val170Ile	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Val242Ala	tsnR_p.Val242Ala	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain
+Linezolid	tsnR	p.Val89Leu	tsnR_p.Val89Leu	missense_variant	(see "Genomic_coordinates" sheet)		Uncertain_significance		New Uncertain

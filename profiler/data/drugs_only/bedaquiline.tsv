@@ -1,0 +1,1466 @@
+drug	gene	mutation	variant	effect	genomic position	Additional grading criteria applied	FINAL CONFIDENCE GRADING	Comment	CHANGES vs ver1
+Bedaquiline	atpE	c.207G>T	atpE_c.207G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	atpE	c.240C>T	atpE_c.240C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	atpE	c.-41T>C	atpE_c.-41T>C	upstream_gene_variant	1461004		Uncertain_significance		No change
+Bedaquiline	atpE	c.-43G>T	atpE_c.-43G>T	upstream_gene_variant	1461002		Uncertain_significance		New Uncertain
+Bedaquiline	atpE	c.54C>A	atpE_c.54C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	atpE	c.9C>T	atpE_c.9C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	atpE	p.Ala45Val	atpE_p.Ala45Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	atpE	p.Ala62Thr	atpE_p.Ala62Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	atpE	p.Ala63Pro	atpE_p.Ala63Pro	missense_variant		Evidence from ALL dataset only	Assoc_w_R_Interim	Includes data from one site that only submitted resistant strains, which may have inflated the PPV	New AwRI
+Bedaquiline	atpE	p.Ala63Thr	atpE_p.Ala63Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	atpE	p.Ala63Val	atpE_p.Ala63Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	atpE	p.Asp28Ala	atpE_p.Asp28Ala	missense_variant		Selection evidence	Assoc_w_R_Interim		New AwRI
+Bedaquiline	atpE	p.Asp28Gly	atpE_p.Asp28Gly	missense_variant		Selection evidence	Assoc_w_R_Interim		New AwRI
+Bedaquiline	atpE	p.Asp28Val	atpE_p.Asp28Val	missense_variant		Selection evidence	Assoc_w_R_Interim		New AwRI
+Bedaquiline	atpE	p.Glu61Asp	atpE_p.Glu61Asp	missense_variant		Selection evidence	Assoc_w_R_Interim		UP from Uncertain to AwRI
+Bedaquiline	atpE	p.Ile66Met	atpE_p.Ile66Met	missense_variant		Evidence from ALL dataset only	Assoc_w_R_Interim	Includes data from one site that only submitted resistant strains, which may have inflated the PPV	New AwRI
+Bedaquiline	atpE	p.Leu59Phe	atpE_p.Leu59Phe	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	atpE	p.Phe76Leu	atpE_p.Phe76Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	atpE	p.Ser37Ala	atpE_p.Ser37Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	atpE	p.Thr51Ile	atpE_p.Thr51Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	atpE	p.Val39Ile	atpE_p.Val39Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	lpqB	c.1011C>A	lpqB_c.1011C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1023A>G	lpqB_c.1023A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1047C>T	lpqB_c.1047C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1059C>T	lpqB_c.1059C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1098C>T	lpqB_c.1098C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1104T>G	lpqB_c.1104T>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1107G>A	lpqB_c.1107G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1119G>T	lpqB_c.1119G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1125G>A	lpqB_c.1125G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1140C>T	lpqB_c.1140C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1146C>T	lpqB_c.1146C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1188C>T	lpqB_c.1188C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1236C>G	lpqB_c.1236C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.123A>G	lpqB_c.123A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1275C>T	lpqB_c.1275C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1302G>T	lpqB_c.1302G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1326G>A	lpqB_c.1326G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1389G>T	lpqB_c.1389G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1404C>T	lpqB_c.1404C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1443T>C	lpqB_c.1443T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1452G>A	lpqB_c.1452G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1473G>A	lpqB_c.1473G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.150G>A	lpqB_c.150G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1518A>G	lpqB_c.1518A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1527C>T	lpqB_c.1527C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1530C>T	lpqB_c.1530C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1539G>A	lpqB_c.1539G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1539G>C	lpqB_c.1539G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1560C>T	lpqB_c.1560C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1620C>A	lpqB_c.1620C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1635G>A	lpqB_c.1635G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1689A>G	lpqB_c.1689A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.16T>C	lpqB_c.16T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1710G>A	lpqB_c.1710G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1725G>A	lpqB_c.1725G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1737G>C	lpqB_c.1737G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1740A>G	lpqB_c.1740A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.1746C>G	lpqB_c.1746C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.174C>T	lpqB_c.174C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.189C>G	lpqB_c.189C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.189C>T	lpqB_c.189C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.18G>A	lpqB_c.18G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.201G>A	lpqB_c.201G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.264G>A	lpqB_c.264G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.279G>A	lpqB_c.279G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.318G>A	lpqB_c.318G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.504C>T	lpqB_c.504C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.513C>T	lpqB_c.513C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.519C>T	lpqB_c.519C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.522C>A	lpqB_c.522C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.549G>A	lpqB_c.549G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.549G>T	lpqB_c.549G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.561G>T	lpqB_c.561G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.588G>A	lpqB_c.588G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.642G>T	lpqB_c.642G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.654C>T	lpqB_c.654C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.657T>C	lpqB_c.657T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.684G>A	lpqB_c.684G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.729C>G	lpqB_c.729C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.729C>T	lpqB_c.729C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.75G>C	lpqB_c.75G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.765C>A	lpqB_c.765C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.810C>T	lpqB_c.810C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.825C>T	lpqB_c.825C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.831G>A	lpqB_c.831G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.879T>C	lpqB_c.879T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.894C>T	lpqB_c.894C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.900C>G	lpqB_c.900C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.909G>A	lpqB_c.909G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.909G>C	lpqB_c.909G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.921G>C	lpqB_c.921G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.924G>T	lpqB_c.924G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.951G>A	lpqB_c.951G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.957C>T	lpqB_c.957C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.990A>C	lpqB_c.990A>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.999C>A	lpqB_c.999C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	c.999C>T	lpqB_c.999C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	lpqB	p.Ala187Thr	lpqB_p.Ala187Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ala204Val	lpqB_p.Ala204Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ala24Thr	lpqB_p.Ala24Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ala294Val	lpqB_p.Ala294Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ala303Val	lpqB_p.Ala303Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ala314Ser	lpqB_p.Ala314Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ala327Val	lpqB_p.Ala327Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ala368Thr	lpqB_p.Ala368Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ala373Glu	lpqB_p.Ala373Glu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ala373Ser	lpqB_p.Ala373Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ala384Ser	lpqB_p.Ala384Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ala416Val	lpqB_p.Ala416Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ala456Val	lpqB_p.Ala456Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ala548Ser	lpqB_p.Ala548Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ala548Thr	lpqB_p.Ala548Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ala58Ser	lpqB_p.Ala58Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ala77Val	lpqB_p.Ala77Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ala84Gly	lpqB_p.Ala84Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Arg240Cys	lpqB_p.Arg240Cys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Arg240Leu	lpqB_p.Arg240Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Arg332Pro	lpqB_p.Arg332Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Arg342Gln	lpqB_p.Arg342Gln	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Asn322Lys	lpqB_p.Asn322Lys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Asp142Gly	lpqB_p.Asp142Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Asp301Gly	lpqB_p.Asp301Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Asp311Glu	lpqB_p.Asp311Glu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Asp525His	lpqB_p.Asp525His	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Gln193Pro	lpqB_p.Gln193Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Glu250Ala	lpqB_p.Glu250Ala	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Gly278Glu	lpqB_p.Gly278Glu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Gly338Trp	lpqB_p.Gly338Trp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Gly381Ser	lpqB_p.Gly381Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Gly45Val	lpqB_p.Gly45Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Gly549Ser	lpqB_p.Gly549Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Gly576Thr	lpqB_p.Gly576Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.His258Arg	lpqB_p.His258Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.His391Tyr	lpqB_p.His391Tyr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ile282Val	lpqB_p.Ile282Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Leu364Pro	lpqB_p.Leu364Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Leu380Phe	lpqB_p.Leu380Phe	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Leu400Val	lpqB_p.Leu400Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Leu51Val	lpqB_p.Leu51Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Leu52Ser	lpqB_p.Leu52Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Leu581Val	lpqB_p.Leu581Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Lys165Thr	lpqB_p.Lys165Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Met108Thr	lpqB_p.Met108Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Met343Thr	lpqB_p.Met343Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Phe55Leu	lpqB_p.Phe55Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Pro132Ser	lpqB_p.Pro132Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Pro279Ser	lpqB_p.Pro279Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Pro34Gln	lpqB_p.Pro34Gln	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Pro34Ser	lpqB_p.Pro34Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Pro420Leu	lpqB_p.Pro420Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Pro527Ala	lpqB_p.Pro527Ala	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Pro534Ala	lpqB_p.Pro534Ala	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Pro550Ser	lpqB_p.Pro550Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Pro564Leu	lpqB_p.Pro564Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Pro570Ser	lpqB_p.Pro570Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Pro575Gln	lpqB_p.Pro575Gln	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ser18Gly	lpqB_p.Ser18Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ser21Arg	lpqB_p.Ser21Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ser394Leu	lpqB_p.Ser394Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ser491Leu	lpqB_p.Ser491Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ser557Leu	lpqB_p.Ser557Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Ser562Arg	lpqB_p.Ser562Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Thr347Met	lpqB_p.Thr347Met	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Thr433Ser	lpqB_p.Thr433Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Thr479Asn	lpqB_p.Thr479Asn	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Thr479Ser	lpqB_p.Thr479Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Thr536Met	lpqB_p.Thr536Met	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Val228Met	lpqB_p.Val228Met	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Val31Ile	lpqB_p.Val31Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Val492Ala	lpqB_p.Val492Ala	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	lpqB	p.Val560Ile	lpqB_p.Val560Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	c.1032C>G	mmpL5_c.1032C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1065G>A	mmpL5_c.1065G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1065G>T	mmpL5_c.1065G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1068G>A	mmpL5_c.1068G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1110C>T	mmpL5_c.1110C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1128G>A	mmpL5_c.1128G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1128G>T	mmpL5_c.1128G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1131G>C	mmpL5_c.1131G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1143G>A	mmpL5_c.1143G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1158C>T	mmpL5_c.1158C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1161C>G	mmpL5_c.1161C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1194G>C	mmpL5_c.1194G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1230C>T	mmpL5_c.1230C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1326G>C	mmpL5_c.1326G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1335C>T	mmpL5_c.1335C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.135C>T	mmpL5_c.135C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1395C>A	mmpL5_c.1395C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1425G>C	mmpL5_c.1425G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1431G>C	mmpL5_c.1431G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1437C>T	mmpL5_c.1437C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1473G>T	mmpL5_c.1473G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1569G>A	mmpL5_c.1569G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1572G>A	mmpL5_c.1572G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1584C>T	mmpL5_c.1584C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1593C>T	mmpL5_c.1593C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1674G>A	mmpL5_c.1674G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1758C>T	mmpL5_c.1758C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1785G>A	mmpL5_c.1785G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1791C>T	mmpL5_c.1791C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.183G>A	mmpL5_c.183G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1875G>A	mmpL5_c.1875G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1896C>T	mmpL5_c.1896C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.189G>A	mmpL5_c.189G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.18A>G	mmpL5_c.18A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1926C>T	mmpL5_c.1926C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1941C>T	mmpL5_c.1941C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.195C>T	mmpL5_c.195C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.1A>G	mmpL5_c.1A>G	initiator_codon_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2070T>C	mmpL5_c.2070T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2079C>G	mmpL5_c.2079C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2115G>A	mmpL5_c.2115G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2145G>C	mmpL5_c.2145G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2214C>T	mmpL5_c.2214C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2241G>A	mmpL5_c.2241G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2250G>T	mmpL5_c.2250G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2265G>T	mmpL5_c.2265G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2340A>G	mmpL5_c.2340A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2400G>A	mmpL5_c.2400G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2412C>T	mmpL5_c.2412C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.243G>A	mmpL5_c.243G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2475C>T	mmpL5_c.2475C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2493G>A	mmpL5_c.2493G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.24G>A	mmpL5_c.24G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2502G>A	mmpL5_c.2502G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2527C>T	mmpL5_c.2527C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2529G>A	mmpL5_c.2529G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.258C>T	mmpL5_c.258C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2634G>T	mmpL5_c.2634G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2658G>T	mmpL5_c.2658G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2664T>C	mmpL5_c.2664T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2721C>T	mmpL5_c.2721C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2730C>A	mmpL5_c.2730C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2739C>G	mmpL5_c.2739C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.273G>A	mmpL5_c.273G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2742G>A	mmpL5_c.2742G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2751C>T	mmpL5_c.2751C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2757G>A	mmpL5_c.2757G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2760C>A	mmpL5_c.2760C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2766G>A	mmpL5_c.2766G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2781G>T	mmpL5_c.2781G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2838A>G	mmpL5_c.2838A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2871G>A	mmpL5_c.2871G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2886C>G	mmpL5_c.2886C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.2889G>A	mmpL5_c.2889G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.303C>T	mmpL5_c.303C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.30G>A	mmpL5_c.30G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.360C>T	mmpL5_c.360C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.375C>G	mmpL5_c.375C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.3G>A	mmpL5_c.3G>A	initiator_codon_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.414C>A	mmpL5_c.414C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.462G>A	mmpL5_c.462G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.465C>T	mmpL5_c.465C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.480A>C	mmpL5_c.480A>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.495C>A	mmpL5_c.495C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.504G>C	mmpL5_c.504G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.507C>T	mmpL5_c.507C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.576G>A	mmpL5_c.576G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.636C>T	mmpL5_c.636C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.661C>T	mmpL5_c.661C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.678C>A	mmpL5_c.678C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.702G>A	mmpL5_c.702G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.729C>G	mmpL5_c.729C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.738C>G	mmpL5_c.738C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.750C>T	mmpL5_c.750C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.762G>A	mmpL5_c.762G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.768T>C	mmpL5_c.768T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.777G>A	mmpL5_c.777G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.798C>T	mmpL5_c.798C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.841C>T	mmpL5_c.841C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.855C>T	mmpL5_c.855C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.885G>A	mmpL5_c.885G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.891G>A	mmpL5_c.891G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.894G>A	mmpL5_c.894G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.894G>C	mmpL5_c.894G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.909C>T	mmpL5_c.909C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.931C>T	mmpL5_c.931C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.972G>A	mmpL5_c.972G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.984A>G	mmpL5_c.984A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	c.9G>A	mmpL5_c.9G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpL5	LoF	mmpL5_LoF	LoF			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	New Uncertain
+Bedaquiline	mmpL5	p.Ala136_Ala139del	mmpL5_p.Ala136_Ala139del	inframe_deletion			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala147Thr	mmpL5_p.Ala147Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala199Thr	mmpL5_p.Ala199Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Ala209Thr	mmpL5_p.Ala209Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala20Thr	mmpL5_p.Ala20Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Ala230Thr	mmpL5_p.Ala230Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala230Val	mmpL5_p.Ala230Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala273Gly	mmpL5_p.Ala273Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala273Thr	mmpL5_p.Ala273Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala288Pro	mmpL5_p.Ala288Pro	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala350del	mmpL5_p.Ala350del	inframe_deletion			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala359Thr	mmpL5_p.Ala359Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala385Thr	mmpL5_p.Ala385Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala397Ser	mmpL5_p.Ala397Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Ala401Val	mmpL5_p.Ala401Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Ala434Thr	mmpL5_p.Ala434Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala44Gly	mmpL5_p.Ala44Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala572Val	mmpL5_p.Ala572Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala667Ser	mmpL5_p.Ala667Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala679Asp	mmpL5_p.Ala679Asp	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala69Val	mmpL5_p.Ala69Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala800Ser	mmpL5_p.Ala800Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala801Val	mmpL5_p.Ala801Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala896Thr	mmpL5_p.Ala896Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ala8fs	mmpL5_p.Ala8fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	New Uncertain
+Bedaquiline	mmpL5	p.Ala956fs	mmpL5_p.Ala956fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Arg115fs	mmpL5_p.Arg115fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Arg202fs	mmpL5_p.Arg202fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Arg244Leu	mmpL5_p.Arg244Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Arg254Gln	mmpL5_p.Arg254Gln	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Arg284fs	mmpL5_p.Arg284fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Arg289His	mmpL5_p.Arg289His	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Arg328Gly	mmpL5_p.Arg328Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Arg380His	mmpL5_p.Arg380His	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Arg717Gln	mmpL5_p.Arg717Gln	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Arg944Gln	mmpL5_p.Arg944Gln	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Asn458Asp	mmpL5_p.Asn458Asp	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Asn466Ser	mmpL5_p.Asn466Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Asn685Asp	mmpL5_p.Asn685Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Asn772Ser	mmpL5_p.Asn772Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Asp110Gly	mmpL5_p.Asp110Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Asp128Ala	mmpL5_p.Asp128Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Asp128Asn	mmpL5_p.Asp128Asn	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Asp128His	mmpL5_p.Asp128His	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Asp132fs	mmpL5_p.Asp132fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Asp143Gly	mmpL5_p.Asp143Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Asp424Asn	mmpL5_p.Asp424Asn	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Asp455Gly	mmpL5_p.Asp455Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Asp608Asn	mmpL5_p.Asp608Asn	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Asp608Tyr	mmpL5_p.Asp608Tyr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Asp681Glu	mmpL5_p.Asp681Glu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Asp767Ala	mmpL5_p.Asp767Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Asp767Asn	mmpL5_p.Asp767Asn	missense_variant			Not_assoc_w_R		No change
+Bedaquiline	mmpL5	p.Gln140His	mmpL5_p.Gln140His	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Gln333Glu	mmpL5_p.Gln333Glu	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Gln504*	mmpL5_p.Gln504*	stop_gained			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Gln60*	mmpL5_p.Gln60*	stop_gained			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Gln702*	mmpL5_p.Gln702*	stop_gained			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Gln707Lys	mmpL5_p.Gln707Lys	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Glu159Ala	mmpL5_p.Glu159Ala	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Glu174Gln	mmpL5_p.Glu174Gln	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Glu512Ala	mmpL5_p.Glu512Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Glu512Gln	mmpL5_p.Glu512Gln	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Glu524Gly	mmpL5_p.Glu524Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Glu552Gly	mmpL5_p.Glu552Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Glu566Asp	mmpL5_p.Glu566Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Glu723Asp	mmpL5_p.Glu723Asp	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Glu744Gln	mmpL5_p.Glu744Gln	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Glu830Asp	mmpL5_p.Glu830Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Glu83Lys	mmpL5_p.Glu83Lys	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Gly102Asp	mmpL5_p.Gly102Asp	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Gly114Arg	mmpL5_p.Gly114Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Gly131Arg	mmpL5_p.Gly131Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Gly138Asp	mmpL5_p.Gly138Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Gly181Asp	mmpL5_p.Gly181Asp	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Gly246Ser	mmpL5_p.Gly246Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Gly257Arg	mmpL5_p.Gly257Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Gly305Ser	mmpL5_p.Gly305Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Gly336Ser	mmpL5_p.Gly336Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Gly391Ser	mmpL5_p.Gly391Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Gly396Cys	mmpL5_p.Gly396Cys	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Gly477Arg	mmpL5_p.Gly477Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Gly559Ala	mmpL5_p.Gly559Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Gly609Arg	mmpL5_p.Gly609Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Gly661Arg	mmpL5_p.Gly661Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Gly704Cys	mmpL5_p.Gly704Cys	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Gly748Asp	mmpL5_p.Gly748Asp	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Gly759Ser	mmpL5_p.Gly759Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Gly79Ser	mmpL5_p.Gly79Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Gly865Arg	mmpL5_p.Gly865Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Gly875Arg	mmpL5_p.Gly875Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Gly876Asp	mmpL5_p.Gly876Asp	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.His122Arg	mmpL5_p.His122Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.His437Arg	mmpL5_p.His437Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.His454Gln	mmpL5_p.His454Gln	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.His494Tyr	mmpL5_p.His494Tyr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.His540Arg	mmpL5_p.His540Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.His590Pro	mmpL5_p.His590Pro	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.His656Tyr	mmpL5_p.His656Tyr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.His77Asn	mmpL5_p.His77Asn	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.His825fs	mmpL5_p.His825fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Ile113Thr	mmpL5_p.Ile113Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ile215Val	mmpL5_p.Ile215Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ile282Leu	mmpL5_p.Ile282Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ile484Thr	mmpL5_p.Ile484Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ile529Met	mmpL5_p.Ile529Met	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Ile555_Gly559del	mmpL5_p.Ile555_Gly559del	inframe_deletion			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ile59Thr	mmpL5_p.Ile59Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ile732Val	mmpL5_p.Ile732Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ile735fs	mmpL5_p.Ile735fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Ile787Met	mmpL5_p.Ile787Met	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Ile829Val	mmpL5_p.Ile829Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ile841Val	mmpL5_p.Ile841Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ile910Val	mmpL5_p.Ile910Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ile948Ala	mmpL5_p.Ile948Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ile948Val	mmpL5_p.Ile948Val	missense_variant		Literature evidence (PMID 28031270; 34503982)	Not_assoc_w_R_Interim		DOWN from NotAwR to NotAwRI
+Bedaquiline	mmpL5	p.Leu116Val	mmpL5_p.Leu116Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Leu219Phe	mmpL5_p.Leu219Phe	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Leu329Arg	mmpL5_p.Leu329Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Leu335Val	mmpL5_p.Leu335Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Leu523Pro	mmpL5_p.Leu523Pro	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Leu600Arg	mmpL5_p.Leu600Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Leu630fs	mmpL5_p.Leu630fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	New Uncertain
+Bedaquiline	mmpL5	p.Leu653Met	mmpL5_p.Leu653Met	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Leu691Arg	mmpL5_p.Leu691Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Leu709Ile	mmpL5_p.Leu709Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Leu751Phe	mmpL5_p.Leu751Phe	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Leu810Phe	mmpL5_p.Leu810Phe	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Leu818Met	mmpL5_p.Leu818Met	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Leu836Phe	mmpL5_p.Leu836Phe	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Leu95Arg	mmpL5_p.Leu95Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Lys467Arg	mmpL5_p.Lys467Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Lys467fs	mmpL5_p.Lys467fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Lys589fs	mmpL5_p.Lys589fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Lys646Gln	mmpL5_p.Lys646Gln	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Lys649Thr	mmpL5_p.Lys649Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Lys766_Asp770delinsAsn	mmpL5_p.Lys766_Asp770delinsAsn	inframe_deletion			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Lys80Gln	mmpL5_p.Lys80Gln	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Met218Val	mmpL5_p.Met218Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Met443Thr	mmpL5_p.Met443Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Met503Arg	mmpL5_p.Met503Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Met503Ile	mmpL5_p.Met503Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Met560Leu	mmpL5_p.Met560Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Met560Thr	mmpL5_p.Met560Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Met638_Met641del	mmpL5_p.Met638_Met641del	inframe_deletion			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Met638Leu	mmpL5_p.Met638Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Met645Ile	mmpL5_p.Met645Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Met655Thr	mmpL5_p.Met655Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Met666Ile	mmpL5_p.Met666Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Met676Val	mmpL5_p.Met676Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Met72Thr	mmpL5_p.Met72Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Met892Ile	mmpL5_p.Met892Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Met892Thr	mmpL5_p.Met892Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Met892Val	mmpL5_p.Met892Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Met903Ile	mmpL5_p.Met903Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Met912Thr	mmpL5_p.Met912Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Phe129Ser	mmpL5_p.Phe129Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Phe696Leu	mmpL5_p.Phe696Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Phe816Leu	mmpL5_p.Phe816Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Phe82fs	mmpL5_p.Phe82fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Phe82Leu	mmpL5_p.Phe82Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Phe890Ser	mmpL5_p.Phe890Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Phe916Ser	mmpL5_p.Phe916Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Pro179Thr	mmpL5_p.Pro179Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Pro180Leu	mmpL5_p.Pro180Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Pro390fs	mmpL5_p.Pro390fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Pro390Ser	mmpL5_p.Pro390Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Pro445Leu	mmpL5_p.Pro445Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Pro498fs	mmpL5_p.Pro498fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	New Uncertain
+Bedaquiline	mmpL5	p.Pro927Arg	mmpL5_p.Pro927Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Pro947Ser	mmpL5_p.Pro947Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Pro953Ser	mmpL5_p.Pro953Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ser125Cys	mmpL5_p.Ser125Cys	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ser439Ala	mmpL5_p.Ser439Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ser439Pro	mmpL5_p.Ser439Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Ser452Asn	mmpL5_p.Ser452Asn	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Ser479fs	mmpL5_p.Ser479fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Ser507Asn	mmpL5_p.Ser507Asn	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Ser541Arg	mmpL5_p.Ser541Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ser583Asn	mmpL5_p.Ser583Asn	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ser599Leu	mmpL5_p.Ser599Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Ser654Thr	mmpL5_p.Ser654Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ser65Arg	mmpL5_p.Ser65Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Ser71Pro	mmpL5_p.Ser71Pro	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ser728fs	mmpL5_p.Ser728fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Ser782Ala	mmpL5_p.Ser782Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ser879Leu	mmpL5_p.Ser879Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Ser894*	mmpL5_p.Ser894*	stop_gained			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Thr10Ala	mmpL5_p.Thr10Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Thr120Ala	mmpL5_p.Thr120Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Thr234Met	mmpL5_p.Thr234Met	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Thr327Ile	mmpL5_p.Thr327Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Thr334fs	mmpL5_p.Thr334fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Thr519Ala	mmpL5_p.Thr519Ala	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Thr606Ala	mmpL5_p.Thr606Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Thr6Ala	mmpL5_p.Thr6Ala	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Thr794Ile	mmpL5_p.Thr794Ile	missense_variant		Literature evidence (PMID 28031270; 34503982)	Not_assoc_w_R_Interim		DOWN from NotAwR to NotAwRI
+Bedaquiline	mmpL5	p.Thr918fs	mmpL5_p.Thr918fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Trp130fs	mmpL5_p.Trp130fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Trp39*	mmpL5_p.Trp39*	stop_gained			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	New Uncertain
+Bedaquiline	mmpL5	p.Trp598Arg	mmpL5_p.Trp598Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Trp598Cys	mmpL5_p.Trp598Cys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Trp598Gly	mmpL5_p.Trp598Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Trp823Arg	mmpL5_p.Trp823Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Trp833*	mmpL5_p.Trp833*	stop_gained			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Trp936Arg	mmpL5_p.Trp936Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Trp938Arg	mmpL5_p.Trp938Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Trp952Leu	mmpL5_p.Trp952Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Tyr185*	mmpL5_p.Tyr185*	stop_gained			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Tyr299Cys	mmpL5_p.Tyr299Cys	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Tyr300*	mmpL5_p.Tyr300*	stop_gained			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Tyr411Asp	mmpL5_p.Tyr411Asp	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Tyr415Cys	mmpL5_p.Tyr415Cys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Tyr514Cys	mmpL5_p.Tyr514Cys	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Tyr586*	mmpL5_p.Tyr586*	stop_gained			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	No change
+Bedaquiline	mmpL5	p.Val123Ile	mmpL5_p.Val123Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Val149Ile	mmpL5_p.Val149Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Val151Gly	mmpL5_p.Val151Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Val182Ile	mmpL5_p.Val182Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Val186Ile	mmpL5_p.Val186Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Val214Leu	mmpL5_p.Val214Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Val222Gly	mmpL5_p.Val222Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Val247Ala	mmpL5_p.Val247Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Val247fs	mmpL5_p.Val247fs	frameshift			Uncertain_significance	Abrogates effect of genetically linked AwR and AwRI Rv0678 mutations	New Uncertain
+Bedaquiline	mmpL5	p.Val267Gly	mmpL5_p.Val267Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Val268Met	mmpL5_p.Val268Met	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Val337Met	mmpL5_p.Val337Met	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Val344Leu	mmpL5_p.Val344Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Val346Ala	mmpL5_p.Val346Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Val360Met	mmpL5_p.Val360Met	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Val376Ala	mmpL5_p.Val376Ala	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Val382Ala	mmpL5_p.Val382Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Val41Ile	mmpL5_p.Val41Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Val481Met	mmpL5_p.Val481Met	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Val612Gly	mmpL5_p.Val612Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Val612Ile	mmpL5_p.Val612Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Val695Ile	mmpL5_p.Val695Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Val820Leu	mmpL5_p.Val820Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Val840Ile	mmpL5_p.Val840Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpL5	p.Val846Ile	mmpL5_p.Val846Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Val942Ile	mmpL5_p.Val942Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpL5	p.Val964Leu	mmpL5_p.Val964Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	c.102C>T	mmpS5_c.102C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.126G>A	mmpS5_c.126G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.-14A>C	mmpS5_c.-14A>C	upstream_gene_variant	778919		Uncertain_significance		No change
+Bedaquiline	mmpS5	c.168G>C	mmpS5_c.168G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.189C>T	mmpS5_c.189C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.-19G>A	mmpS5_c.-19G>A	upstream_gene_variant	778924		Uncertain_significance		No change
+Bedaquiline	mmpS5	c.204C>T	mmpS5_c.204C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.-20T>C	mmpS5_c.-20T>C	upstream_gene_variant	778925		Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	c.216G>A	mmpS5_c.216G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.-22C>T	mmpS5_c.-22C>T	upstream_gene_variant	778927		Uncertain_significance		No change
+Bedaquiline	mmpS5	c.306C>T	mmpS5_c.306C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.315G>C	mmpS5_c.315G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.-31C>G	mmpS5_c.-31C>G	upstream_gene_variant	778936		Uncertain_significance		No change
+Bedaquiline	mmpS5	c.321C>A	mmpS5_c.321C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.333C>A	mmpS5_c.333C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.34C>T	mmpS5_c.34C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.-34C>T	mmpS5_c.-34C>T	upstream_gene_variant	778939		Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	c.-36A>G	mmpS5_c.-36A>G	upstream_gene_variant	778941		Uncertain_significance		No change
+Bedaquiline	mmpS5	c.387C>T	mmpS5_c.387C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.393G>T	mmpS5_c.393G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.399C>T	mmpS5_c.399C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.39C>G	mmpS5_c.39C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.-39C>T	mmpS5_c.-39C>T	upstream_gene_variant	778944		Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	c.400C>T	mmpS5_c.400C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.402G>A	mmpS5_c.402G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.42C>A	mmpS5_c.42C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.42C>T	mmpS5_c.42C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.-519_-82del	mmpS5_c.-519_-82del	upstream_gene_variant	778986		Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	c.-51G>A	mmpS5_c.-51G>A	upstream_gene_variant	778956		Uncertain_significance		No change
+Bedaquiline	mmpS5	c.-55G>C	mmpS5_c.-55G>C	upstream_gene_variant	778960		Uncertain_significance		No change
+Bedaquiline	mmpS5	c.-56C>T	mmpS5_c.-56C>T	upstream_gene_variant	778961		Uncertain_significance		No change
+Bedaquiline	mmpS5	c.-60G>A	mmpS5_c.-60G>A	upstream_gene_variant	778965		Uncertain_significance		No change
+Bedaquiline	mmpS5	c.-63T>G	mmpS5_c.-63T>G	upstream_gene_variant	778968		Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	c.-65_-64insGAA	mmpS5_c.-65_-64insGAA	upstream_gene_variant	778969		Uncertain_significance		No change
+Bedaquiline	mmpS5	c.-65A>G	mmpS5_c.-65A>G	upstream_gene_variant	778970		Uncertain_significance		No change
+Bedaquiline	mmpS5	c.66C>T	mmpS5_c.66C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.6T>C	mmpS5_c.6T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.-71C>A	mmpS5_c.-71C>A	upstream_gene_variant	778976		Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	c.-71C>T	mmpS5_c.-71C>T	upstream_gene_variant	778976		Uncertain_significance		No change
+Bedaquiline	mmpS5	c.-74G>T	mmpS5_c.-74G>T	upstream_gene_variant	778979	Literature evidence (PMID 28031270; 34503982)	Not_assoc_w_R_Interim		UP from Uncertain to NotAwRI
+Bedaquiline	mmpS5	c.-75T>G	mmpS5_c.-75T>G	upstream_gene_variant	778980		Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	c.-77A>G	mmpS5_c.-77A>G	upstream_gene_variant	778982		Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	c.-79_-78insT	mmpS5_c.-79_-78insT	upstream_gene_variant	778983		Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	c.81G>A	mmpS5_c.81G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.-82G>T	mmpS5_c.-82G>T	upstream_gene_variant	778987		Uncertain_significance		No change
+Bedaquiline	mmpS5	c.-83_-82insA	mmpS5_c.-83_-82insA	upstream_gene_variant	778987		Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	c.-84A>C	mmpS5_c.-84A>C	upstream_gene_variant	778989		Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	c.-9_-8delCG	mmpS5_c.-9_-8delCG	upstream_gene_variant	778912		Uncertain_significance		No change
+Bedaquiline	mmpS5	c.90T>C	mmpS5_c.90T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.9A>G	mmpS5_c.9A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mmpS5	c.-9C>T	mmpS5_c.-9C>T	upstream_gene_variant	778914		Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	LoF	mmpS5_LoF	LoF			Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	p.Ala133Thr	mmpS5_p.Ala133Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Ala142Ser	mmpS5_p.Ala142Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	p.Ala45fs	mmpS5_p.Ala45fs	frameshift			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Ala8Ser	mmpS5_p.Ala8Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	p.Ala8Val	mmpS5_p.Ala8Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Arg29Cys	mmpS5_p.Arg29Cys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	p.Arg29Leu	mmpS5_p.Arg29Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Asp119fs	mmpS5_p.Asp119fs	frameshift			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Asp82Glu	mmpS5_p.Asp82Glu	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Cys114Ser	mmpS5_p.Cys114Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Glu59Lys	mmpS5_p.Glu59Lys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	p.Gly109Asp	mmpS5_p.Gly109Asp	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Gly109Ser	mmpS5_p.Gly109Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Gly130Arg	mmpS5_p.Gly130Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Gly130Asp	mmpS5_p.Gly130Asp	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Ile116Leu	mmpS5_p.Ile116Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Ile14Thr	mmpS5_p.Ile14Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	p.Ile69Val	mmpS5_p.Ile69Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	p.Lys123fs	mmpS5_p.Lys123fs	frameshift			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Lys42Arg	mmpS5_p.Lys42Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Lys6Thr	mmpS5_p.Lys6Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	p.Pro101Arg	mmpS5_p.Pro101Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Pro53Leu	mmpS5_p.Pro53Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Pro78Leu	mmpS5_p.Pro78Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	p.Ser34Phe	mmpS5_p.Ser34Phe	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mmpS5	p.Ser98Pro	mmpS5_p.Ser98Pro	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Thr113Asn	mmpS5_p.Thr113Asn	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Thr24Ala	mmpS5_p.Thr24Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Thr24Met	mmpS5_p.Thr24Met	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Thr4Ile	mmpS5_p.Thr4Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Thr4Pro	mmpS5_p.Thr4Pro	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Val131_Asp132insThrGlyVal	mmpS5_p.Val131_Asp132insThrGlyVal	inframe_insertion			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Val55Met	mmpS5_p.Val55Met	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Val56Met	mmpS5_p.Val56Met	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Val67Gly	mmpS5_p.Val67Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	mmpS5	p.Val67Ile	mmpS5_p.Val67Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-108C>T	mtrA_c.-108C>T	upstream_gene_variant	3627457		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-111C>G	mtrA_c.-111C>G	upstream_gene_variant	3627460		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.111C>T	mtrA_c.111C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.-114G>C	mtrA_c.-114G>C	upstream_gene_variant	3627463		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-123G>A	mtrA_c.-123G>A	upstream_gene_variant	3627472		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.126G>A	mtrA_c.126G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.-129G>C	mtrA_c.-129G>C	upstream_gene_variant	3627478		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-145G>A	mtrA_c.-145G>A	upstream_gene_variant	3627494		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-14G>A	mtrA_c.-14G>A	upstream_gene_variant	3627363		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-153G>A	mtrA_c.-153G>A	upstream_gene_variant	3627502		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-158G>C	mtrA_c.-158G>C	upstream_gene_variant	3627507		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-162C>G	mtrA_c.-162C>G	upstream_gene_variant	3627511		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-173A>C	mtrA_c.-173A>C	upstream_gene_variant	3627522		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-184G>A	mtrA_c.-184G>A	upstream_gene_variant	3627533		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-204C>T	mtrA_c.-204C>T	upstream_gene_variant	3627553		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-20delT	mtrA_c.-20delT	upstream_gene_variant	3627368		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-211C>T	mtrA_c.-211C>T	upstream_gene_variant	3627560		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.21G>A	mtrA_c.21G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.240G>A	mtrA_c.240G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.-245A>C	mtrA_c.-245A>C	upstream_gene_variant	3627594		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-246G>A	mtrA_c.-246G>A	upstream_gene_variant	3627595		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.249C>T	mtrA_c.249C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.-250G>A	mtrA_c.-250G>A	upstream_gene_variant	3627599		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-253C>G	mtrA_c.-253C>G	upstream_gene_variant	3627602		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-253C>T	mtrA_c.-253C>T	upstream_gene_variant	3627602		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-260G>A	mtrA_c.-260G>A	upstream_gene_variant	3627609		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-269G>A	mtrA_c.-269G>A	upstream_gene_variant	3627618		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-274G>A	mtrA_c.-274G>A	upstream_gene_variant	3627623		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.277C>T	mtrA_c.277C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.-277C>T	mtrA_c.-277C>T	upstream_gene_variant	3627626		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-290C>T	mtrA_c.-290C>T	upstream_gene_variant	3627639		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-306G>C	mtrA_c.-306G>C	upstream_gene_variant	3627655		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-312T>C	mtrA_c.-312T>C	upstream_gene_variant	3627661		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.321C>T	mtrA_c.321C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.-322C>T	mtrA_c.-322C>T	upstream_gene_variant	3627671		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.324G>A	mtrA_c.324G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.330G>A	mtrA_c.330G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.-34_-33delTG	mtrA_c.-34_-33delTG	upstream_gene_variant	3627381		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-341T>A	mtrA_c.-341T>A	upstream_gene_variant	3627690		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-343A>G	mtrA_c.-343A>G	upstream_gene_variant	3627692		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-35G>A	mtrA_c.-35G>A	upstream_gene_variant	3627384		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-36T>G	mtrA_c.-36T>G	upstream_gene_variant	3627385		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-370G>A	mtrA_c.-370G>A	upstream_gene_variant	3627719		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.381C>T	mtrA_c.381C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.39C>T	mtrA_c.39C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.-39C>T	mtrA_c.-39C>T	upstream_gene_variant	3627388		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-40C>T	mtrA_c.-40C>T	upstream_gene_variant	3627389		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.432G>A	mtrA_c.432G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.441C>T	mtrA_c.441C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.468G>C	mtrA_c.468G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.477C>T	mtrA_c.477C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.480C>T	mtrA_c.480C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.489C>A	mtrA_c.489C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.525T>C	mtrA_c.525T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.534G>A	mtrA_c.534G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.576G>A	mtrA_c.576G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.57G>A	mtrA_c.57G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.-57T>G	mtrA_c.-57T>G	upstream_gene_variant	3627406		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.594C>A	mtrA_c.594C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.601C>T	mtrA_c.601C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.-60C>T	mtrA_c.-60C>T	upstream_gene_variant	3627409		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-61G>A	mtrA_c.-61G>A	upstream_gene_variant	3627410		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.651C>T	mtrA_c.651C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.-67G>A	mtrA_c.-67G>A	upstream_gene_variant	3627416		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-69G>C	mtrA_c.-69G>C	upstream_gene_variant	3627418		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-80T>C	mtrA_c.-80T>C	upstream_gene_variant	3627429		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.81G>A	mtrA_c.81G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrA	c.-82C>A	mtrA_c.-82C>A	upstream_gene_variant	3627431		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	c.-83A>G	mtrA_c.-83A>G	upstream_gene_variant	3627432		Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	p.Ala134Val	mtrA_p.Ala134Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	p.Ala225Val	mtrA_p.Ala225Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	p.Ala44Ser	mtrA_p.Ala44Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	p.Arg5Lys	mtrA_p.Arg5Lys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	p.Arg5Thr	mtrA_p.Arg5Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	p.Glu129Asp	mtrA_p.Glu129Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	p.Glu47Gly	mtrA_p.Glu47Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	p.Leu165Met	mtrA_p.Leu165Met	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	p.Pro188Ala	mtrA_p.Pro188Ala	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	p.Pro50Ala	mtrA_p.Pro50Ala	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	p.Ser153Pro	mtrA_p.Ser153Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	p.Val140Leu	mtrA_p.Val140Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrA	p.Val205Ile	mtrA_p.Val205Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	c.1033C>A	mtrB_c.1033C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.1053C>T	mtrB_c.1053C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.111G>T	mtrB_c.111G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.1197G>C	mtrB_c.1197G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.1200C>T	mtrB_c.1200C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.126C>T	mtrB_c.126C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.1272C>G	mtrB_c.1272C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.1293A>G	mtrB_c.1293A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.1314C>T	mtrB_c.1314C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.132G>A	mtrB_c.132G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.133C>T	mtrB_c.133C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.1350C>T	mtrB_c.1350C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.135G>T	mtrB_c.135G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.1365G>A	mtrB_c.1365G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.1386G>A	mtrB_c.1386G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.138C>T	mtrB_c.138C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.141T>A	mtrB_c.141T>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.1437C>T	mtrB_c.1437C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.1452T>C	mtrB_c.1452T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.145C>T	mtrB_c.145C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.1479A>G	mtrB_c.1479A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.147G>A	mtrB_c.147G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.-14A>C	mtrB_c.-14A>C	upstream_gene_variant	3626627		Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	c.1515C>T	mtrB_c.1515C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.1524C>T	mtrB_c.1524C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.1533C>T	mtrB_c.1533C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.1582C>T	mtrB_c.1582C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.1653G>T	mtrB_c.1653G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.1662G>A	mtrB_c.1662G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.1677A>G	mtrB_c.1677A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.174C>T	mtrB_c.174C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.186C>T	mtrB_c.186C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.198C>T	mtrB_c.198C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.207C>T	mtrB_c.207C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.-20G>A	mtrB_c.-20G>A	upstream_gene_variant	3626633		Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	c.210C>T	mtrB_c.210C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.216C>T	mtrB_c.216C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.-24C>T	mtrB_c.-24C>T	upstream_gene_variant	3626637		Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	c.276C>G	mtrB_c.276C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.309C>T	mtrB_c.309C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.330T>G	mtrB_c.330T>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.345C>T	mtrB_c.345C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.354T>C	mtrB_c.354T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.363T>G	mtrB_c.363T>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.369C>G	mtrB_c.369C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.390G>A	mtrB_c.390G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.405T>C	mtrB_c.405T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.408T>C	mtrB_c.408T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.420T>G	mtrB_c.420T>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.-44G>C	mtrB_c.-44G>C	upstream_gene_variant	3626657		Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	c.450G>A	mtrB_c.450G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.453C>T	mtrB_c.453C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.45C>T	mtrB_c.45C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.489C>A	mtrB_c.489C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.492C>G	mtrB_c.492C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.516C>G	mtrB_c.516C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.51C>G	mtrB_c.51C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.534G>T	mtrB_c.534G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.573C>T	mtrB_c.573C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.589C>T	mtrB_c.589C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.-5C>T	mtrB_c.-5C>T	upstream_gene_variant	3626618		Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	c.603G>A	mtrB_c.603G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.606G>T	mtrB_c.606G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.61C>A	mtrB_c.61C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.667C>T	mtrB_c.667C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.66C>T	mtrB_c.66C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.673C>T	mtrB_c.673C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.684C>T	mtrB_c.684C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.693G>A	mtrB_c.693G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.69C>T	mtrB_c.69C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.75G>T	mtrB_c.75G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.78G>A	mtrB_c.78G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.801C>T	mtrB_c.801C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.813G>A	mtrB_c.813G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.90A>G	mtrB_c.90A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.954C>T	mtrB_c.954C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.958T>C	mtrB_c.958T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	c.978C>T	mtrB_c.978C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	mtrB	LoF	mtrB_LoF	LoF			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Ala144Gly	mtrB_p.Ala144Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Ala227Ser	mtrB_p.Ala227Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Ala33Val	mtrB_p.Ala33Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Ala438Thr	mtrB_p.Ala438Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Arg263Gly	mtrB_p.Arg263Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Arg434Trp	mtrB_p.Arg434Trp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Arg477Trp	mtrB_p.Arg477Trp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Asn545fs	mtrB_p.Asn545fs	frameshift			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Asp136Gly	mtrB_p.Asp136Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Asp267Gly	mtrB_p.Asp267Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Glu204Asp	mtrB_p.Glu204Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Glu389Asp	mtrB_p.Glu389Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Glu429Gly	mtrB_p.Glu429Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Glu460Asp	mtrB_p.Glu460Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Glu460Gly	mtrB_p.Glu460Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Glu95Gly	mtrB_p.Glu95Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Gly174Ala	mtrB_p.Gly174Ala	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Gly385Cys	mtrB_p.Gly385Cys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Gly385Ser	mtrB_p.Gly385Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Gly392Val	mtrB_p.Gly392Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Gly506Asp	mtrB_p.Gly506Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Gly90Arg	mtrB_p.Gly90Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.His255Asn	mtrB_p.His255Asn	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.His324Arg	mtrB_p.His324Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.His386Pro	mtrB_p.His386Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Ile198Asn	mtrB_p.Ile198Asn	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Ile393Met	mtrB_p.Ile393Met	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Ile78Val	mtrB_p.Ile78Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Leu26Val	mtrB_p.Leu26Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Leu396Val	mtrB_p.Leu396Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Leu47Ile	mtrB_p.Leu47Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Met517Leu	mtrB_p.Met517Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Met530Ile	mtrB_p.Met530Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Phe175Leu	mtrB_p.Phe175Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Phe292Leu	mtrB_p.Phe292Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Pro146Leu	mtrB_p.Pro146Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Pro151Arg	mtrB_p.Pro151Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Pro18Leu	mtrB_p.Pro18Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Pro18Ser	mtrB_p.Pro18Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Pro200Leu	mtrB_p.Pro200Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Pro529Leu	mtrB_p.Pro529Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Pro536Ser	mtrB_p.Pro536Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Pro548Leu	mtrB_p.Pro548Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Ser16Tyr	mtrB_p.Ser16Tyr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Ser176Ala	mtrB_p.Ser176Ala	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Ser176Phe	mtrB_p.Ser176Phe	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Ser24Arg	mtrB_p.Ser24Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Ser257Pro	mtrB_p.Ser257Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Ser283Tyr	mtrB_p.Ser283Tyr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Ser478Phe	mtrB_p.Ser478Phe	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Ser566Arg	mtrB_p.Ser566Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Thr169Ala	mtrB_p.Thr169Ala	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Thr336Ala	mtrB_p.Thr336Ala	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Thr66Ile	mtrB_p.Thr66Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Tyr165Cys	mtrB_p.Tyr165Cys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Val170Leu	mtrB_p.Val170Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Val237Ala	mtrB_p.Val237Ala	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Val237Leu	mtrB_p.Val237Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Val273Met	mtrB_p.Val273Met	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Val30Ile	mtrB_p.Val30Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Val377Ile	mtrB_p.Val377Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Val404Ala	mtrB_p.Val404Ala	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	mtrB	p.Val88Ala	mtrB_p.Val88Ala	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	c.1029A>C	pepQ_c.1029A>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.105C>A	pepQ_c.105C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.1107G>C	pepQ_c.1107G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.120C>T	pepQ_c.120C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.132G>A	pepQ_c.132G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.144T>C	pepQ_c.144T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.153T>C	pepQ_c.153T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.165C>T	pepQ_c.165C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.-17G>T	pepQ_c.-17G>T	upstream_gene_variant	2860435		Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	c.189G>A	pepQ_c.189G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.-18C>T	pepQ_c.-18C>T	upstream_gene_variant	2860436		Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	c.198G>A	pepQ_c.198G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.1G>A	pepQ_c.1G>A	initiator_codon_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.21A>C	pepQ_c.21A>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.240G>A	pepQ_c.240G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.261C>G	pepQ_c.261C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.318C>T	pepQ_c.318C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.339G>A	pepQ_c.339G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.372A>G	pepQ_c.372A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.381T>C	pepQ_c.381T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.402T>C	pepQ_c.402T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.411C>T	pepQ_c.411C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.460C>T	pepQ_c.460C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.483C>T	pepQ_c.483C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.516G>A	pepQ_c.516G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.54G>T	pepQ_c.54G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.555T>G	pepQ_c.555T>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.558C>T	pepQ_c.558C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.585T>C	pepQ_c.585T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.-5G>A	pepQ_c.-5G>A	upstream_gene_variant	2860423		Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	c.693C>T	pepQ_c.693C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.72C>T	pepQ_c.72C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.756G>T	pepQ_c.756G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.768G>A	pepQ_c.768G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.774G>A	pepQ_c.774G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.795G>A	pepQ_c.795G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.804C>G	pepQ_c.804C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.873T>G	pepQ_c.873T>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.876C>T	pepQ_c.876C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.879A>G	pepQ_c.879A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	c.99A>G	pepQ_c.99A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	pepQ	LoF	pepQ_LoF	LoF		Evidence from ALL dataset only	Assoc_w_R_Interim	Includes data from one site that only submitted resistant strains, which may have inflated the PPV	New AwRI
+Bedaquiline	pepQ	p.Ala124Val	pepQ_p.Ala124Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Ala137Ser	pepQ_p.Ala137Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Ala141Glu	pepQ_p.Ala141Glu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Ala153Gly	pepQ_p.Ala153Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Ala16Gly	pepQ_p.Ala16Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Ala187Glu	pepQ_p.Ala187Glu	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Ala227Asp	pepQ_p.Ala227Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Ala242Thr	pepQ_p.Ala242Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Ala263Val	pepQ_p.Ala263Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Ala275Ser	pepQ_p.Ala275Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Ala305Val	pepQ_p.Ala305Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Ala370Val	pepQ_p.Ala370Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Arg170Trp	pepQ_p.Arg170Trp	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Arg278Gly	pepQ_p.Arg278Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Arg61Cys	pepQ_p.Arg61Cys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Arg7Gln	pepQ_p.Arg7Gln	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Asn118Asp	pepQ_p.Asn118Asp	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Asp108Asn	pepQ_p.Asp108Asn	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Asp209Glu	pepQ_p.Asp209Glu	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Asp20Gly	pepQ_p.Asp20Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Asp232fs	pepQ_p.Asp232fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		New AwRI
+Bedaquiline	pepQ	p.Asp26Ala	pepQ_p.Asp26Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Asp26Gly	pepQ_p.Asp26Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Asp51fs	pepQ_p.Asp51fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		New AwRI
+Bedaquiline	pepQ	p.Gln262Arg	pepQ_p.Gln262Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Gln5Arg	pepQ_p.Gln5Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Gln5*	pepQ_p.Gln5*	stop_gained		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		New AwRI
+Bedaquiline	pepQ	p.Gln63Arg	pepQ_p.Gln63Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Glu177Asp	pepQ_p.Glu177Asp	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Glu191Val	pepQ_p.Glu191Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Glu339del	pepQ_p.Glu339del	inframe_deletion			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Glu360Asp	pepQ_p.Glu360Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Glu89Asp	pepQ_p.Glu89Asp	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Gly112Asp	pepQ_p.Gly112Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Gly197Arg	pepQ_p.Gly197Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Gly41Asp	pepQ_p.Gly41Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Gly80Arg	pepQ_p.Gly80Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Gly85Cys	pepQ_p.Gly85Cys	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.His100fs	pepQ_p.His100fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		UP from Uncertain to AwRI
+Bedaquiline	pepQ	p.Ile193Thr	pepQ_p.Ile193Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Ile193Val	pepQ_p.Ile193Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Ile24Thr	pepQ_p.Ile24Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Ile28Arg	pepQ_p.Ile28Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Ile302Val	pepQ_p.Ile302Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Leu107Arg	pepQ_p.Leu107Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Leu179Pro	pepQ_p.Leu179Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Leu317fs	pepQ_p.Leu317fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		New AwRI
+Bedaquiline	pepQ	p.Lys367Asn	pepQ_p.Lys367Asn	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Lys94Asn	pepQ_p.Lys94Asn	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Met180Thr	pepQ_p.Met180Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Met180Val	pepQ_p.Met180Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Phe46Leu	pepQ_p.Phe46Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Pro165Gln	pepQ_p.Pro165Gln	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Pro266Ser	pepQ_p.Pro266Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Pro69Leu	pepQ_p.Pro69Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Ser130Leu	pepQ_p.Ser130Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Ser200Leu	pepQ_p.Ser200Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Ser66Leu	pepQ_p.Ser66Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Ser66Pro	pepQ_p.Ser66Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Ser99Arg	pepQ_p.Ser99Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Thr341Ala	pepQ_p.Thr341Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Thr341fs	pepQ_p.Thr341fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		New AwRI
+Bedaquiline	pepQ	p.Thr354Ala	pepQ_p.Thr354Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Val101Leu	pepQ_p.Val101Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Val104Leu	pepQ_p.Val104Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Val158Met	pepQ_p.Val158Met	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Val273fs	pepQ_p.Val273fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		UP from Uncertain to AwRI
+Bedaquiline	pepQ	p.Val298Ile	pepQ_p.Val298Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	pepQ	p.Val324Met	pepQ_p.Val324Met	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Val328Phe	pepQ_p.Val328Phe	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Val343Ala	pepQ_p.Val343Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	pepQ	p.Val45Leu	pepQ_p.Val45Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	c.108G>T	Rv0678_c.108G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv0678	c.111T>C	Rv0678_c.111T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv0678	c.127C>T	Rv0678_c.127C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv0678	c.138T>C	Rv0678_c.138T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv0678	c.168G>A	Rv0678_c.168G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv0678	c.195G>A	Rv0678_c.195G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv0678	c.297T>G	Rv0678_c.297T>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv0678	c.309C>T	Rv0678_c.309C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv0678	c.318A>G	Rv0678_c.318A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv0678	c.363G>A	Rv0678_c.363G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv0678	c.36C>T	Rv0678_c.36C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv0678	c.384C>A	Rv0678_c.384C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv0678	c.390G>C	Rv0678_c.390G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv0678	c.408G>A	Rv0678_c.408G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv0678	c.435T>C	Rv0678_c.435T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv0678	c.441G>A	Rv0678_c.441G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv0678	c.447C>T	Rv0678_c.447C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv0678	c.460C>T	Rv0678_c.460C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv0678	c.87C>T	Rv0678_c.87C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv0678	LoF	Rv0678_LoF	LoF			Assoc_w_R	Can only confer resistance if genetically linked to a functional MmpL5	New AwR
+Bedaquiline	Rv0678	p.Ala101Glu	Rv0678_p.Ala101Glu	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Ala102Asp	Rv0678_p.Ala102Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Ala102Thr	Rv0678_p.Ala102Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Ala110fs	Rv0678_p.Ala110fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Ala110Val	Rv0678_p.Ala110Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Ala112Pro	Rv0678_p.Ala112Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Ala112Ser	Rv0678_p.Ala112Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Ala144fs	Rv0678_p.Ala144fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Ala36Val	Rv0678_p.Ala36Val	missense_variant		Evidence from ALL dataset only	Assoc_w_R_Interim	Includes data from one site that only submitted resistant strains, which may have inflated the PPV. Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Ala59Val	Rv0678_p.Ala59Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Ala62fs	Rv0678_p.Ala62fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Ala62Thr	Rv0678_p.Ala62Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Ala84Val	Rv0678_p.Ala84Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Ala86Val	Rv0678_p.Ala86Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Ala99Pro	Rv0678_p.Ala99Pro	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Arg105Ser	Rv0678_p.Arg105Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Arg107Cys	Rv0678_p.Arg107Cys	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Arg107Leu	Rv0678_p.Arg107Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Arg109fs	Rv0678_p.Arg109fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Arg109Leu	Rv0678_p.Arg109Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Arg109Pro	Rv0678_p.Arg109Pro	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Arg109Trp	Rv0678_p.Arg109Trp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Arg123fs	Rv0678_p.Arg123fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Arg132fs	Rv0678_p.Arg132fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Arg132*	Rv0678_p.Arg132*	stop_gained		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Arg134Gly	Rv0678_p.Arg134Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Arg134*	Rv0678_p.Arg134*	stop_gained		Evidence from ALL dataset only	Assoc_w_R_Interim	Includes data from one site that only submitted resistant strains, which may have inflated the PPV. Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Arg135Trp	Rv0678_p.Arg135Trp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Arg156fs	Rv0678_p.Arg156fs	frameshift		Evidence from ALL dataset only	Assoc_w_R_Interim	Includes data from one site that only submitted resistant strains, which may have inflated the PPV. Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Arg156Gln	Rv0678_p.Arg156Gln	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Arg156*	Rv0678_p.Arg156*	stop_gained		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Arg30fs	Rv0678_p.Arg30fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Arg30Trp	Rv0678_p.Arg30Trp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Arg34Gln	Rv0678_p.Arg34Gln	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Arg34Trp	Rv0678_p.Arg34Trp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Arg38Leu	Rv0678_p.Arg38Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Arg38*	Rv0678_p.Arg38*	stop_gained		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Arg50dup	Rv0678_p.Arg50dup	inframe_insertion			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Arg50Gln	Rv0678_p.Arg50Gln	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Arg50Pro	Rv0678_p.Arg50Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Arg50Trp	Rv0678_p.Arg50Trp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Arg72fs	Rv0678_p.Arg72fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Arg72Trp	Rv0678_p.Arg72Trp	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Arg89fs	Rv0678_p.Arg89fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Arg89Gln	Rv0678_p.Arg89Gln	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Arg89Leu	Rv0678_p.Arg89Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Arg89Trp	Rv0678_p.Arg89Trp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Arg90Cys	Rv0678_p.Arg90Cys	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Arg94Gln	Rv0678_p.Arg94Gln	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Arg94Trp	Rv0678_p.Arg94Trp	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Arg96Gly	Rv0678_p.Arg96Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Arg96Leu	Rv0678_p.Arg96Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Arg96Trp	Rv0678_p.Arg96Trp	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Asn148fs	Rv0678_p.Asn148fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Asn4Thr	Rv0678_p.Asn4Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Asn70Asp	Rv0678_p.Asn70Asp	missense_variant		Evidence from ALL dataset only	Assoc_w_R_Interim	Includes data from one site that only submitted resistant strains, which may have inflated the PPV. Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Asn70fs	Rv0678_p.Asn70fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Asn70Ile	Rv0678_p.Asn70Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Asn70Lys	Rv0678_p.Asn70Lys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Asn98Asp	Rv0678_p.Asn98Asp	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Asn98fs	Rv0678_p.Asn98fs	frameshift		Potentially inflated PPV	Assoc_w_R_Interim	Includes data from one site that only submitted resistant strains, which may have inflated the PPV. Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Asp116fs	Rv0678_p.Asp116fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Asp141fs	Rv0678_p.Asp141fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Asp141Tyr	Rv0678_p.Asp141Tyr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Asp165fs	Rv0678_p.Asp165fs	frameshift		Evidence from ALL dataset only	Assoc_w_R_Interim	Includes data from one site that only submitted resistant strains, which may have inflated the PPV. Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Asp47dup	Rv0678_p.Asp47dup	inframe_insertion			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Asp47fs	Rv0678_p.Asp47fs	frameshift			Assoc_w_R	Can only confer resistance if genetically linked to a functional MmpL5	New AwR
+Bedaquiline	Rv0678	p.Asp47Glu	Rv0678_p.Asp47Glu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Asp47Gly	Rv0678_p.Asp47Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Asp5Asn	Rv0678_p.Asp5Asn	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Asp5Gly	Rv0678_p.Asp5Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Asp8fs	Rv0678_p.Asp8fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Asp8Gly	Rv0678_p.Asp8Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Cys46_Asp47insGly	Rv0678_p.Cys46_Asp47insGly	inframe_insertion			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Cys46Arg	Rv0678_p.Cys46Arg	missense_variant		Potentially inflated PPV	Assoc_w_R_Interim	Includes data from one site that only submitted resistant strains, which may have inflated the PPV. Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Cys46fs	Rv0678_p.Cys46fs	frameshift		Potentially inflated PPV	Assoc_w_R_Interim	Includes data from one site that only submitted resistant strains, which may have inflated the PPV. Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Cys46Gly	Rv0678_p.Cys46Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Cys46Trp	Rv0678_p.Cys46Trp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Cys46Tyr	Rv0678_p.Cys46Tyr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Gln115Pro	Rv0678_p.Gln115Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Gln115*	Rv0678_p.Gln115*	stop_gained		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Gln159fs	Rv0678_p.Gln159fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Gln22Arg	Rv0678_p.Gln22Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Gln22Pro	Rv0678_p.Gln22Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Gln22*	Rv0678_p.Gln22*	stop_gained		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Gln51Arg	Rv0678_p.Gln51Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Gln51fs	Rv0678_p.Gln51fs	frameshift		Potentially inflated PPV	Assoc_w_R_Interim	Includes data from one site that only submitted resistant strains, which may have inflated the PPV. Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Gln51Lys	Rv0678_p.Gln51Lys	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Gln51Pro	Rv0678_p.Gln51Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Gln76Arg	Rv0678_p.Gln76Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Gln76Glu	Rv0678_p.Gln76Glu	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Gln76Lys	Rv0678_p.Gln76Lys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Gln76*	Rv0678_p.Gln76*	stop_gained		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Glu104Asp	Rv0678_p.Glu104Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Glu104Gly	Rv0678_p.Glu104Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Glu104Lys	Rv0678_p.Glu104Lys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Glu113Lys	Rv0678_p.Glu113Lys	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Glu113*	Rv0678_p.Glu113*	stop_gained		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Glu138*	Rv0678_p.Glu138*	stop_gained		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Glu147Asp	Rv0678_p.Glu147Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Glu147*	Rv0678_p.Glu147*	stop_gained		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Glu21Lys	Rv0678_p.Glu21Lys	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Glu49fs	Rv0678_p.Glu49fs	frameshift			Assoc_w_R	Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwR
+Bedaquiline	Rv0678	p.Glu55Asp	Rv0678_p.Glu55Asp	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Glu55fs	Rv0678_p.Glu55fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Gly103Arg	Rv0678_p.Gly103Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Gly103Ser	Rv0678_p.Gly103Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Gly11fs	Rv0678_p.Gly11fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Gly121Arg	Rv0678_p.Gly121Arg	missense_variant			Assoc_w_R	Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwR
+Bedaquiline	Rv0678	p.Gly162Glu	Rv0678_p.Gly162Glu	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Gly24Arg	Rv0678_p.Gly24Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Gly24Cys	Rv0678_p.Gly24Cys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Gly25Asp	Rv0678_p.Gly25Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Gly25Cys	Rv0678_p.Gly25Cys	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Gly41Asp	Rv0678_p.Gly41Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Gly41fs	Rv0678_p.Gly41fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Gly65Arg	Rv0678_p.Gly65Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Gly65Glu	Rv0678_p.Gly65Glu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Gly78Arg	Rv0678_p.Gly78Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Gly78Trp	Rv0678_p.Gly78Trp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Gly87Arg	Rv0678_p.Gly87Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Gly87Trp	Rv0678_p.Gly87Trp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Ile108Thr	Rv0678_p.Ile108Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Ile108Val	Rv0678_p.Ile108Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Ile16fs	Rv0678_p.Ile16fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Ile16Ser	Rv0678_p.Ile16Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Ile67fs	Rv0678_p.Ile67fs	frameshift			Assoc_w_R	Can only confer resistance if genetically linked to a functional MmpL5	New AwR
+Bedaquiline	Rv0678	p.Ile67Leu	Rv0678_p.Ile67Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Ile67Met	Rv0678_p.Ile67Met	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Ile67Ser	Rv0678_p.Ile67Ser	missense_variant		Potentially inflated PPV	Assoc_w_R_Interim	Includes data from one site that only submitted resistant strains, which may have inflated the PPV. Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Ile80fs	Rv0678_p.Ile80fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Ile80Met	Rv0678_p.Ile80Met	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Ile80Ser	Rv0678_p.Ile80Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Leu117Arg	Rv0678_p.Leu117Arg	missense_variant			Assoc_w_R	Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwR
+Bedaquiline	Rv0678	p.Leu117fs	Rv0678_p.Leu117fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Leu117Pro	Rv0678_p.Leu117Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Leu122Pro	Rv0678_p.Leu122Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Leu125fs	Rv0678_p.Leu125fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Leu136Pro	Rv0678_p.Leu136Pro	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Leu142Arg	Rv0678_p.Leu142Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Leu142fs	Rv0678_p.Leu142fs	frameshift		Potentially inflated PPV	Assoc_w_R_Interim	Includes data from one site that only submitted resistant strains, which may have inflated the PPV. Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Leu142Pro	Rv0678_p.Leu142Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Leu143fs	Rv0678_p.Leu143fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Leu32fs	Rv0678_p.Leu32fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Leu32Ser	Rv0678_p.Leu32Ser	missense_variant		Evidence from ALL dataset only	Assoc_w_R_Interim	Includes data from one site that only submitted resistant strains, which may have inflated the PPV. Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Leu35Trp	Rv0678_p.Leu35Trp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Leu40Met	Rv0678_p.Leu40Met	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Leu40Phe	Rv0678_p.Leu40Phe	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Leu40Ser	Rv0678_p.Leu40Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Leu40Val	Rv0678_p.Leu40Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Leu43fs	Rv0678_p.Leu43fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Leu44fs	Rv0678_p.Leu44fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Leu56fs	Rv0678_p.Leu56fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Leu56Pro	Rv0678_p.Leu56Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Leu60Gln	Rv0678_p.Leu60Gln	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Leu60Pro	Rv0678_p.Leu60Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Leu74Met	Rv0678_p.Leu74Met	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Leu83fs	Rv0678_p.Leu83fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Leu83His	Rv0678_p.Leu83His	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Leu83Pro	Rv0678_p.Leu83Pro	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Leu95Ser	Rv0678_p.Leu95Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Met1?	Rv0678_p.Met1?	start_lost		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Met10fs	Rv0678_p.Met10fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Met10Ile	Rv0678_p.Met10Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Met111fs	Rv0678_p.Met111fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Met139Ile	Rv0678_p.Met139Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Met139Thr	Rv0678_p.Met139Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Met146fs	Rv0678_p.Met146fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Met146Thr	Rv0678_p.Met146Thr	missense_variant		Potentially inflated PPV	Assoc_w_R_Interim	Includes data from one site that only submitted resistant strains, which may have inflated the PPV. Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Met17Val	Rv0678_p.Met17Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Met23Leu	Rv0678_p.Met23Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Met23Val	Rv0678_p.Met23Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Met73Ile	Rv0678_p.Met73Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Phe100Ile	Rv0678_p.Phe100Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Phe19Leu	Rv0678_p.Phe19Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Phe19Ser	Rv0678_p.Phe19Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Phe79Leu	Rv0678_p.Phe79Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Phe93Leu	Rv0678_p.Phe93Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Phe93Ser	Rv0678_p.Phe93Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Pro129fs	Rv0678_p.Pro129fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Pro14Leu	Rv0678_p.Pro14Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Pro14Ser	Rv0678_p.Pro14Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Pro48fs	Rv0678_p.Pro48fs	frameshift		Potentially inflated PPV	Assoc_w_R_Interim	Includes data from one site that only submitted resistant strains, which may have inflated the PPV. Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Pro48Leu	Rv0678_p.Pro48Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Ser151Pro	Rv0678_p.Ser151Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Ser158Arg	Rv0678_p.Ser158Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Ser2Arg	Rv0678_p.Ser2Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Ser2Ile	Rv0678_p.Ser2Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Ser31Gly	Rv0678_p.Ser31Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Ser52Phe	Rv0678_p.Ser52Phe	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Ser52Pro	Rv0678_p.Ser52Pro	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Ser52Tyr	Rv0678_p.Ser52Tyr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Ser53Leu	Rv0678_p.Ser53Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Ser53Pro	Rv0678_p.Ser53Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Ser53*	Rv0678_p.Ser53*	stop_gained		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Ser63Arg	Rv0678_p.Ser63Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Ser63Gly	Rv0678_p.Ser63Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Ser64Ile	Rv0678_p.Ser64Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Ser68Asn	Rv0678_p.Ser68Asn	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Ser68fs	Rv0678_p.Ser68fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Ser68Gly	Rv0678_p.Ser68Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Ser68Ile	Rv0678_p.Ser68Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Ter166Argext*?	Rv0678_p.Ter166Argext*?	stop_lost			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Thr33Ile	Rv0678_p.Thr33Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Thr58Pro	Rv0678_p.Thr58Pro	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Thr69fs	Rv0678_p.Thr69fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Thr69Pro	Rv0678_p.Thr69Pro	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Thr91Ile	Rv0678_p.Thr91Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Trp42Arg	Rv0678_p.Trp42Arg	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Trp42fs	Rv0678_p.Trp42fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Trp42*	Rv0678_p.Trp42*	stop_gained		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Tyr145fs	Rv0678_p.Tyr145fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Tyr145His	Rv0678_p.Tyr145His	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Tyr145*	Rv0678_p.Tyr145*	stop_gained		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Tyr157fs	Rv0678_p.Tyr157fs	frameshift		Evidence from ALL dataset only	Assoc_w_R_Interim	Includes data from one site that only submitted resistant strains, which may have inflated the PPV. Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Tyr157Ser	Rv0678_p.Tyr157Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Tyr157*	Rv0678_p.Tyr157*	stop_gained		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Tyr26Asp	Rv0678_p.Tyr26Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Tyr26Cys	Rv0678_p.Tyr26Cys	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Tyr26His	Rv0678_p.Tyr26His	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Tyr92Cys	Rv0678_p.Tyr92Cys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Tyr92fs	Rv0678_p.Tyr92fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Tyr92*	Rv0678_p.Tyr92*	stop_gained		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	New AwRI
+Bedaquiline	Rv0678	p.Val120Met	Rv0678_p.Val120Met	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Val20Ala	Rv0678_p.Val20Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Val20Gly	Rv0678_p.Val20Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv0678	p.Val7del	Rv0678_p.Val7del	inframe_deletion			Uncertain_significance		No change
+Bedaquiline	Rv0678	p.Val7fs	Rv0678_p.Val7fs	frameshift		Evidence from ALL dataset only	Assoc_w_R_Interim	Can only confer resistance if genetically linked to a functional MmpL5	UP from Uncertain to AwRI
+Bedaquiline	Rv0678	p.Val85Ala	Rv0678_p.Val85Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.1006C>T	Rv1979c_c.1006C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.1035A>G	Rv1979c_c.1035A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.1041C>T	Rv1979c_c.1041C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-106C>T	Rv1979c_c.-106C>T	upstream_gene_variant	2223270		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.-107G>A	Rv1979c_c.-107G>A	upstream_gene_variant	2223271		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-10C>T	Rv1979c_c.-10C>T	upstream_gene_variant	2223174		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.1104G>T	Rv1979c_c.1104G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-111delC	Rv1979c_c.-111delC	upstream_gene_variant	2223274		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.1122G>A	Rv1979c_c.1122G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.1140C>T	Rv1979c_c.1140C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-114G>A	Rv1979c_c.-114G>A	upstream_gene_variant	2223278		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.1176T>G	Rv1979c_c.1176T>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-120C>T	Rv1979c_c.-120C>T	upstream_gene_variant	2223284		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-123G>T	Rv1979c_c.-123G>T	upstream_gene_variant	2223287		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.1254G>A	Rv1979c_c.1254G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.1254G>T	Rv1979c_c.1254G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-125G>C	Rv1979c_c.-125G>C	upstream_gene_variant	2223289		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.1282C>T	Rv1979c_c.1282C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.1296C>T	Rv1979c_c.1296C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-129A>G	Rv1979c_c.-129A>G	upstream_gene_variant	2223293	Literature evidence (PMID 28031270; 34503982)	Not_assoc_w_R_Interim		DOWN from NotAwR to NotAwRI
+Bedaquiline	Rv1979c	c.-13_-12insC	Rv1979c_c.-13_-12insC	upstream_gene_variant	2223176		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.1302C>T	Rv1979c_c.1302C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-130A>C	Rv1979c_c.-130A>C	upstream_gene_variant	2223294		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.1317A>G	Rv1979c_c.1317A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.1320G>A	Rv1979c_c.1320G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.1329T>G	Rv1979c_c.1329T>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-133G>C	Rv1979c_c.-133G>C	upstream_gene_variant	2223297		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.1350T>G	Rv1979c_c.1350T>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.1440T>G	Rv1979c_c.1440T>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.1443C>T	Rv1979c_c.1443C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-154A>G	Rv1979c_c.-154A>G	upstream_gene_variant	2223318		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.165C>T	Rv1979c_c.165C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-168A>C	Rv1979c_c.-168A>C	upstream_gene_variant	2223332		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-168A>G	Rv1979c_c.-168A>G	upstream_gene_variant	2223332		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-16A>C	Rv1979c_c.-16A>C	upstream_gene_variant	2223180		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.180C>A	Rv1979c_c.180C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.183G>A	Rv1979c_c.183G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-186T>G	Rv1979c_c.-186T>G	upstream_gene_variant	2223350		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.-18C>T	Rv1979c_c.-18C>T	upstream_gene_variant	2223182		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.18G>A	Rv1979c_c.18G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-191_-187delGATGC	Rv1979c_c.-191_-187delGATGC	upstream_gene_variant	2223350		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.192C>T	Rv1979c_c.192C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-19G>A	Rv1979c_c.-19G>A	upstream_gene_variant	2223183		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.1G>C	Rv1979c_c.1G>C	initiator_codon_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-208C>G	Rv1979c_c.-208C>G	upstream_gene_variant	2223372		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-210C>T	Rv1979c_c.-210C>T	upstream_gene_variant	2223374		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-214G>A	Rv1979c_c.-214G>A	upstream_gene_variant	2223378		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.-218A>G	Rv1979c_c.-218A>G	upstream_gene_variant	2223382		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-221G>A	Rv1979c_c.-221G>A	upstream_gene_variant	2223385		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.-234_-217delCCGGCCCAACCCAGGTAT	Rv1979c_c.-234_-217delCCGGCCCAACCCAGGTAT	upstream_gene_variant	2223380		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.234C>G	Rv1979c_c.234C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-235G>T	Rv1979c_c.-235G>T	upstream_gene_variant	2223399		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.-236A>C	Rv1979c_c.-236A>C	upstream_gene_variant	2223400		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.240C>T	Rv1979c_c.240C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-241G>A	Rv1979c_c.-241G>A	upstream_gene_variant	2223405		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-248G>A	Rv1979c_c.-248G>A	upstream_gene_variant	2223412		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.249G>A	Rv1979c_c.249G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-250T>G	Rv1979c_c.-250T>G	upstream_gene_variant	2223414		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-253dupG	Rv1979c_c.-253dupG	upstream_gene_variant	2223416		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-258C>A	Rv1979c_c.-258C>A	upstream_gene_variant	2223422		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.-258C>T	Rv1979c_c.-258C>T	upstream_gene_variant	2223422		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-265T>C	Rv1979c_c.-265T>C	upstream_gene_variant	2223429		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.-265T>G	Rv1979c_c.-265T>G	upstream_gene_variant	2223429		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-26A>C	Rv1979c_c.-26A>C	upstream_gene_variant	2223190		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-273T>G	Rv1979c_c.-273T>G	upstream_gene_variant	2223437		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.-275G>A	Rv1979c_c.-275G>A	upstream_gene_variant	2223439		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-277G>T	Rv1979c_c.-277G>T	upstream_gene_variant	2223441		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-279G>A	Rv1979c_c.-279G>A	upstream_gene_variant	2223443		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-280G>A	Rv1979c_c.-280G>A	upstream_gene_variant	2223444		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-281C>A	Rv1979c_c.-281C>A	upstream_gene_variant	2223445		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.-281C>T	Rv1979c_c.-281C>T	upstream_gene_variant	2223445		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.285T>A	Rv1979c_c.285T>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.291C>G	Rv1979c_c.291C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-291T>C	Rv1979c_c.-291T>C	upstream_gene_variant	2223455		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-299C>T	Rv1979c_c.-299C>T	upstream_gene_variant	2223463		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.306G>A	Rv1979c_c.306G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.312C>T	Rv1979c_c.312C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-315C>T	Rv1979c_c.-315C>T	upstream_gene_variant	2223479		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-322T>C	Rv1979c_c.-322T>C	upstream_gene_variant	2223486		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.-327C>A	Rv1979c_c.-327C>A	upstream_gene_variant	2223491		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-328G>C	Rv1979c_c.-328G>C	upstream_gene_variant	2223492		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.-328G>T	Rv1979c_c.-328G>T	upstream_gene_variant	2223492		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-345T>C	Rv1979c_c.-345T>C	upstream_gene_variant	2223509		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-356C>G	Rv1979c_c.-356C>G	upstream_gene_variant	2223520		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-361_-353delCAGACCGGAinsT	Rv1979c_c.-361_-353delCAGACCGGAinsT	upstream_gene_variant	2223517		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-368G>A	Rv1979c_c.-368G>A	upstream_gene_variant	2223532		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.369C>G	Rv1979c_c.369C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-378A>G	Rv1979c_c.-378A>G	upstream_gene_variant	2223542		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-386C>T	Rv1979c_c.-386C>T	upstream_gene_variant	2223550		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.387C>T	Rv1979c_c.387C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-389C>A	Rv1979c_c.-389C>A	upstream_gene_variant	2223553		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-393T>C	Rv1979c_c.-393T>C	upstream_gene_variant	2223557		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.-398A>G	Rv1979c_c.-398A>G	upstream_gene_variant	2223562		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-402T>C	Rv1979c_c.-402T>C	upstream_gene_variant	2223566		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.408G>A	Rv1979c_c.408G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-411C>G	Rv1979c_c.-411C>G	upstream_gene_variant	2223575		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-426T>G	Rv1979c_c.-426T>G	upstream_gene_variant	2223590		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-429C>T	Rv1979c_c.-429C>T	upstream_gene_variant	2223593		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.42G>A	Rv1979c_c.42G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.42G>C	Rv1979c_c.42G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-440C>T	Rv1979c_c.-440C>T	upstream_gene_variant	2223604		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-447A>C	Rv1979c_c.-447A>C	upstream_gene_variant	2223611		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-44T>G	Rv1979c_c.-44T>G	upstream_gene_variant	2223208		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-452T>C	Rv1979c_c.-452T>C	upstream_gene_variant	2223616		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-458G>A	Rv1979c_c.-458G>A	upstream_gene_variant	2223622		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.-461C>A	Rv1979c_c.-461C>A	upstream_gene_variant	2223625		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.465C>T	Rv1979c_c.465C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-50A>C	Rv1979c_c.-50A>C	upstream_gene_variant	2223214		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.546G>T	Rv1979c_c.546G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.561C>T	Rv1979c_c.561C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.594G>A	Rv1979c_c.594G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-59A>G	Rv1979c_c.-59A>G	upstream_gene_variant	2223223		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.612G>T	Rv1979c_c.612G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.660T>C	Rv1979c_c.660T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.681C>A	Rv1979c_c.681C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-68A>G	Rv1979c_c.-68A>G	upstream_gene_variant	2223232		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.-69G>C	Rv1979c_c.-69G>C	upstream_gene_variant	2223233		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.6C>T	Rv1979c_c.6C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.702T>C	Rv1979c_c.702T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-70G>A	Rv1979c_c.-70G>A	upstream_gene_variant	2223234		Uncertain_significance		No change
+Bedaquiline	Rv1979c	c.741G>T	Rv1979c_c.741G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.750G>A	Rv1979c_c.750G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.754C>T	Rv1979c_c.754C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.777G>A	Rv1979c_c.777G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-78_-67delACAGGCCGGGAG	Rv1979c_c.-78_-67delACAGGCCGGGAG	upstream_gene_variant	2223230		Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	c.780C>T	Rv1979c_c.780C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.802T>C	Rv1979c_c.802T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.84C>T	Rv1979c_c.84C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.867G>C	Rv1979c_c.867G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.882C>G	Rv1979c_c.882C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.93T>C	Rv1979c_c.93T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Bedaquiline	Rv1979c	c.-96C>T	Rv1979c_c.-96C>T	upstream_gene_variant	2223260		Uncertain_significance		No change
+Bedaquiline	Rv1979c	deletion	Rv1979c_deletion	feature_ablation			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	LoF	Rv1979c_LoF	LoF			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Ala105Asp	Rv1979c_p.Ala105Asp	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ala105Thr	Rv1979c_p.Ala105Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ala10Val	Rv1979c_p.Ala10Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ala121Val	Rv1979c_p.Ala121Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Ala126Thr	Rv1979c_p.Ala126Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ala158Thr	Rv1979c_p.Ala158Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ala199Gly	Rv1979c_p.Ala199Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Ala202Ser	Rv1979c_p.Ala202Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ala222Thr	Rv1979c_p.Ala222Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ala247Thr	Rv1979c_p.Ala247Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ala247Val	Rv1979c_p.Ala247Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Ala259Glu	Rv1979c_p.Ala259Glu	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ala259Thr	Rv1979c_p.Ala259Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Ala298Ser	Rv1979c_p.Ala298Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ala331Val	Rv1979c_p.Ala331Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ala357Val	Rv1979c_p.Ala357Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Ala378Thr	Rv1979c_p.Ala378Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ala401Thr	Rv1979c_p.Ala401Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Ala405Pro	Rv1979c_p.Ala405Pro	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ala406Thr	Rv1979c_p.Ala406Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Ala429fs	Rv1979c_p.Ala429fs	frameshift			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ala461Glu	Rv1979c_p.Ala461Glu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Ala47Thr	Rv1979c_p.Ala47Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ala66Ser	Rv1979c_p.Ala66Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ala66Val	Rv1979c_p.Ala66Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Ala84Thr	Rv1979c_p.Ala84Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ala85Gly	Rv1979c_p.Ala85Gly	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Ala85Thr	Rv1979c_p.Ala85Thr	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Arg409Gln	Rv1979c_p.Arg409Gln	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Arg441Trp	Rv1979c_p.Arg441Trp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Arg473dup	Rv1979c_p.Arg473dup	inframe_insertion			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Arg7Lys	Rv1979c_p.Arg7Lys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Arg7Ser	Rv1979c_p.Arg7Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Arg88fs	Rv1979c_p.Arg88fs	frameshift			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Arg88His	Rv1979c_p.Arg88His	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Arg88Leu	Rv1979c_p.Arg88Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Asn240fs	Rv1979c_p.Asn240fs	frameshift			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Asn297Ser	Rv1979c_p.Asn297Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Asp129fs	Rv1979c_p.Asp129fs	frameshift			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Asp249Glu	Rv1979c_p.Asp249Glu	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Asp286Gly	Rv1979c_p.Asp286Gly	missense_variant		Literature evidence (PMID 28031270; 34503982)	Not_assoc_w_R_Interim		UP from Uncertain to NotAwRI
+Bedaquiline	Rv1979c	p.Asp347Gly	Rv1979c_p.Asp347Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Gln188fs	Rv1979c_p.Gln188fs	frameshift			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Gln385*	Rv1979c_p.Gln385*	stop_gained			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Glu38Asp	Rv1979c_p.Glu38Asp	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Glu38Lys	Rv1979c_p.Glu38Lys	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Glu403Gly	Rv1979c_p.Glu403Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Gly107Ala	Rv1979c_p.Gly107Ala	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Gly181_Ile185del	Rv1979c_p.Gly181_Ile185del	inframe_deletion			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Gly181Glu	Rv1979c_p.Gly181Glu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Gly214Ser	Rv1979c_p.Gly214Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Gly216Asp	Rv1979c_p.Gly216Asp	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Gly334Glu	Rv1979c_p.Gly334Glu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.His12Tyr	Rv1979c_p.His12Tyr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.His404Tyr	Rv1979c_p.His404Tyr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.His98Tyr	Rv1979c_p.His98Tyr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ile100del	Rv1979c_p.Ile100del	inframe_deletion			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ile104Thr	Rv1979c_p.Ile104Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ile226Thr	Rv1979c_p.Ile226Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ile238Thr	Rv1979c_p.Ile238Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ile256Thr	Rv1979c_p.Ile256Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ile304_Ala381del	Rv1979c_p.Ile304_Ala381del	inframe_deletion			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Ile394Thr	Rv1979c_p.Ile394Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ile394Val	Rv1979c_p.Ile394Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Leu14Arg	Rv1979c_p.Leu14Arg	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Leu174Phe	Rv1979c_p.Leu174Phe	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Leu229del	Rv1979c_p.Leu229del	inframe_deletion			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Leu229Ser	Rv1979c_p.Leu229Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Leu330Val	Rv1979c_p.Leu330Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Leu419Val	Rv1979c_p.Leu419Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Lys13Gln	Rv1979c_p.Lys13Gln	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Met1?	Rv1979c_p.Met1?	start_lost			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Met245Leu	Rv1979c_p.Met245Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Met275Thr	Rv1979c_p.Met275Thr	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Met49Ile	Rv1979c_p.Met49Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Phe113fs	Rv1979c_p.Phe113fs	frameshift			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Phe122Leu	Rv1979c_p.Phe122Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Phe144Cys	Rv1979c_p.Phe144Cys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Phe144fs	Rv1979c_p.Phe144fs	frameshift			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Phe154Val	Rv1979c_p.Phe154Val	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Phe172Ser	Rv1979c_p.Phe172Ser	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Phe300Leu	Rv1979c_p.Phe300Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Phe300Val	Rv1979c_p.Phe300Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Phe386Val	Rv1979c_p.Phe386Val	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Phe412Cys	Rv1979c_p.Phe412Cys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Pro123Ser	Rv1979c_p.Pro123Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Pro36Ser	Rv1979c_p.Pro36Ser	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Pro478Gln	Rv1979c_p.Pro478Gln	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Pro4Ala	Rv1979c_p.Pro4Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ser175Leu	Rv1979c_p.Ser175Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ser206Leu	Rv1979c_p.Ser206Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ser219Ala	Rv1979c_p.Ser219Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ser219Trp	Rv1979c_p.Ser219Trp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Ser237Leu	Rv1979c_p.Ser237Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ser262Leu	Rv1979c_p.Ser262Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ser320Leu	Rv1979c_p.Ser320Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Ser352fs	Rv1979c_p.Ser352fs	frameshift			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ser358Leu	Rv1979c_p.Ser358Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Ser358*	Rv1979c_p.Ser358*	stop_gained			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Thr270Ala	Rv1979c_p.Thr270Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Thr270Ile	Rv1979c_p.Thr270Ile	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Thr356Lys	Rv1979c_p.Thr356Lys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Thr413Asn	Rv1979c_p.Thr413Asn	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Thr82fs	Rv1979c_p.Thr82fs	frameshift			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Thr83Ala	Rv1979c_p.Thr83Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Trp106*	Rv1979c_p.Trp106*	stop_gained			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Trp197*	Rv1979c_p.Trp197*	stop_gained			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Tyr230Cys	Rv1979c_p.Tyr230Cys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Tyr230*	Rv1979c_p.Tyr230*	stop_gained			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Tyr434Cys	Rv1979c_p.Tyr434Cys	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Tyr51Asn	Rv1979c_p.Tyr51Asn	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Tyr71Cys	Rv1979c_p.Tyr71Cys	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Tyr79Cys	Rv1979c_p.Tyr79Cys	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Val108fs	Rv1979c_p.Val108fs	frameshift			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Val114fs	Rv1979c_p.Val114fs	frameshift			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Val120Leu	Rv1979c_p.Val120Leu	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Val136Leu	Rv1979c_p.Val136Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Val190Ala	Rv1979c_p.Val190Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Val210Phe	Rv1979c_p.Val210Phe	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Val273Ala	Rv1979c_p.Val273Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Val2Ala	Rv1979c_p.Val2Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Val305Asp	Rv1979c_p.Val305Asp	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Val384Ile	Rv1979c_p.Val384Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Val416Met	Rv1979c_p.Val416Met	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Val423Ala	Rv1979c_p.Val423Ala	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Val423Leu	Rv1979c_p.Val423Leu	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Val426Ile	Rv1979c_p.Val426Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Val458Ala	Rv1979c_p.Val458Ala	missense_variant			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Val459Ile	Rv1979c_p.Val459Ile	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Val52Gly	Rv1979c_p.Val52Gly	missense_variant			Uncertain_significance		No change
+Bedaquiline	Rv1979c	p.Val96fs	Rv1979c_p.Val96fs	frameshift			Uncertain_significance		New Uncertain
+Bedaquiline	Rv1979c	p.Val96Ile	Rv1979c_p.Val96Ile	missense_variant			Uncertain_significance		No change

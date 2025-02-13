@@ -1,0 +1,944 @@
+drug	gene	mutation	variant	effect	genomic position	Additional grading criteria applied	FINAL CONFIDENCE GRADING	Comment	CHANGES vs ver1
+Delamanid	ddn	c.-10G>A	ddn_c.-10G>A	upstream_gene_variant	3986834		Uncertain_significance		No change
+Delamanid	ddn	c.144G>T	ddn_c.144G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ddn	c.150C>T	ddn_c.150C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ddn	c.15G>C	ddn_c.15G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ddn	c.162C>T	ddn_c.162C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ddn	c.168C>T	ddn_c.168C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ddn	c.189G>A	ddn_c.189G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ddn	c.-24C>A	ddn_c.-24C>A	upstream_gene_variant	3986820		Uncertain_significance		No change
+Delamanid	ddn	c.252G>A	ddn_c.252G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ddn	c.-26G>C	ddn_c.-26G>C	upstream_gene_variant	3986818		Uncertain_significance		No change
+Delamanid	ddn	c.-26G>T	ddn_c.-26G>T	upstream_gene_variant	3986818		Uncertain_significance		No change
+Delamanid	ddn	c.273C>T	ddn_c.273C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ddn	c.27G>A	ddn_c.27G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ddn	c.294T>C	ddn_c.294T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ddn	c.300A>G	ddn_c.300A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ddn	c.318G>C	ddn_c.318G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ddn	c.-32T>G	ddn_c.-32T>G	upstream_gene_variant	3986812		Uncertain_significance		No change
+Delamanid	ddn	c.378G>A	ddn_c.378G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ddn	c.384G>A	ddn_c.384G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ddn	c.390C>T	ddn_c.390C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ddn	c.426C>T	ddn_c.426C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ddn	c.-4C>T	ddn_c.-4C>T	upstream_gene_variant	3986840		Uncertain_significance		No change
+Delamanid	ddn	c.-6A>C	ddn_c.-6A>C	upstream_gene_variant	3986838		Uncertain_significance		No change
+Delamanid	ddn	c.6G>T	ddn_c.6G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ddn	LoF	ddn_LoF	LoF		Evidence from ALL dataset only	Assoc_w_R_Interim	Confers DLM-PMD cross-resistance	New AwRI
+Delamanid	ddn	p.Ala111fs	ddn_p.Ala111fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		New AwRI
+Delamanid	ddn	p.Ala120Ser	ddn_p.Ala120Ser	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Arg23Trp	ddn_p.Arg23Trp	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Arg30Ser	ddn_p.Arg30Ser	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Arg31fs	ddn_p.Arg31fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		UP from Uncertain to AwRI
+Delamanid	ddn	p.Arg72Gln	ddn_p.Arg72Gln	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Arg72Gly	ddn_p.Arg72Gly	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Arg72Trp	ddn_p.Arg72Trp	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Arg7Leu	ddn_p.Arg7Leu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ddn	p.Asp108Asn	ddn_p.Asp108Asn	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ddn	p.Asp108fs	ddn_p.Asp108fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		New AwRI
+Delamanid	ddn	p.Asp113Asn	ddn_p.Asp113Asn	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ddn	p.Asp15Asn	ddn_p.Asp15Asn	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ddn	p.Asp15Glu	ddn_p.Asp15Glu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ddn	p.Glu105Lys	ddn_p.Glu105Lys	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ddn	p.Glu150Asp	ddn_p.Glu150Asp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ddn	p.Glu83Ala	ddn_p.Glu83Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ddn	p.Glu83Asp	ddn_p.Glu83Asp	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Gly34Arg	ddn_p.Gly34Arg	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Gly34Glu	ddn_p.Gly34Glu	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Gly38fs	ddn_p.Gly38fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		UP from Uncertain to AwRI
+Delamanid	ddn	p.Gly53Asp	ddn_p.Gly53Asp	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Gly70Val	ddn_p.Gly70Val	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Gly81Ser	ddn_p.Gly81Ser	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ddn	p.Ile144Thr	ddn_p.Ile144Thr	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Ile74Val	ddn_p.Ile74Val	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ddn	p.Leu49Pro	ddn_p.Leu49Pro	missense_variant		Evidence from ALL dataset only	Assoc_w_R_Interim		no change
+Delamanid	ddn	p.Leu64fs	ddn_p.Leu64fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		New AwRI
+Delamanid	ddn	p.Leu90fs	ddn_p.Leu90fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		UP from Uncertain to AwRI
+Delamanid	ddn	p.Lys104fs	ddn_p.Lys104fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		UP from Uncertain to AwRI
+Delamanid	ddn	p.Met28fs	ddn_p.Met28fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		New AwRI
+Delamanid	ddn	p.Met87Ile	ddn_p.Met87Ile	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ddn	p.Phe16Cys	ddn_p.Phe16Cys	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ddn	p.Phe17Ser	ddn_p.Phe17Ser	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Phe66Ser	ddn_p.Phe66Ser	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Pro124Ser	ddn_p.Pro124Ser	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ddn	p.Pro45Leu	ddn_p.Pro45Leu	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Pro59Gln	ddn_p.Pro59Gln	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ddn	p.Pro5fs	ddn_p.Pro5fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		UP from Uncertain to AwRI
+Delamanid	ddn	p.Pro6Thr	ddn_p.Pro6Thr	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Thr115Ala	ddn_p.Thr115Ala	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Thr40Ala	ddn_p.Thr40Ala	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Thr56Ala	ddn_p.Thr56Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ddn	p.Trp139*	ddn_p.Trp139*	stop_gained		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		UP from Uncertain to AwRI
+Delamanid	ddn	p.Trp20*	ddn_p.Trp20*	stop_gained		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		UP from Uncertain to AwRI
+Delamanid	ddn	p.Trp88Arg	ddn_p.Trp88Arg	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Trp88*	ddn_p.Trp88*	stop_gained		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		UP from Uncertain to AwRI
+Delamanid	ddn	p.Tyr122_Met129del	ddn_p.Tyr122_Met129del	inframe_deletion			Uncertain_significance		No change
+Delamanid	ddn	p.Tyr29del	ddn_p.Tyr29del	inframe_deletion			Uncertain_significance		No change
+Delamanid	ddn	p.Tyr65Ser	ddn_p.Tyr65Ser	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Val106Met	ddn_p.Val106Met	missense_variant			Uncertain_significance		No change
+Delamanid	ddn	p.Val127Phe	ddn_p.Val127Phe	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ddn	p.Val98Ala	ddn_p.Val98Ala	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	c.-101A>T	fbiA_c.-101A>T	upstream_gene_variant	3640442		Uncertain_significance		No change
+Delamanid	fbiA	c.-104C>A	fbiA_c.-104C>A	upstream_gene_variant	3640439		Uncertain_significance		No change
+Delamanid	fbiA	c.-105T>C	fbiA_c.-105T>C	upstream_gene_variant	3640438		Uncertain_significance		No change
+Delamanid	fbiA	c.-10G>A	fbiA_c.-10G>A	upstream_gene_variant	3640533		Uncertain_significance		No change
+Delamanid	fbiA	c.-115C>G	fbiA_c.-115C>G	upstream_gene_variant	3640428		Uncertain_significance		New Uncertain
+Delamanid	fbiA	c.-115C>T	fbiA_c.-115C>T	upstream_gene_variant	3640428		Uncertain_significance		New Uncertain
+Delamanid	fbiA	c.-128T>C	fbiA_c.-128T>C	upstream_gene_variant	3640415		Uncertain_significance		New Uncertain
+Delamanid	fbiA	c.-129G>A	fbiA_c.-129G>A	upstream_gene_variant	3640414		Uncertain_significance		No change
+Delamanid	fbiA	c.-129G>T	fbiA_c.-129G>T	upstream_gene_variant	3640414		Uncertain_significance		No change
+Delamanid	fbiA	c.129T>C	fbiA_c.129T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.-136G>A	fbiA_c.-136G>A	upstream_gene_variant	3640407		Uncertain_significance		No change
+Delamanid	fbiA	c.-13A>C	fbiA_c.-13A>C	upstream_gene_variant	3640530		Uncertain_significance		No change
+Delamanid	fbiA	c.150C>T	fbiA_c.150C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.15T>C	fbiA_c.15T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.162C>T	fbiA_c.162C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.-16G>A	fbiA_c.-16G>A	upstream_gene_variant	3640527		Uncertain_significance		New Uncertain
+Delamanid	fbiA	c.180G>T	fbiA_c.180G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.195C>T	fbiA_c.195C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.204C>G	fbiA_c.204C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.-20G>A	fbiA_c.-20G>A	upstream_gene_variant	3640523		Uncertain_significance		No change
+Delamanid	fbiA	c.213C>T	fbiA_c.213C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.264C>T	fbiA_c.264C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.-26G>A	fbiA_c.-26G>A	upstream_gene_variant	3640517		Uncertain_significance		No change
+Delamanid	fbiA	c.270G>A	fbiA_c.270G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.-27G>A	fbiA_c.-27G>A	upstream_gene_variant	3640516		Uncertain_significance		No change
+Delamanid	fbiA	c.288C>T	fbiA_c.288C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.318C>T	fbiA_c.318C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.337C>T	fbiA_c.337C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.372C>T	fbiA_c.372C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.432T>G	fbiA_c.432T>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.468C>T	fbiA_c.468C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.471C>T	fbiA_c.471C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.51C>A	fbiA_c.51C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.-51G>A	fbiA_c.-51G>A	upstream_gene_variant	3640492		Uncertain_significance		No change
+Delamanid	fbiA	c.522G>A	fbiA_c.522G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.546G>T	fbiA_c.546G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.615C>T	fbiA_c.615C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.-63_-59delCGTGT	fbiA_c.-63_-59delCGTGT	upstream_gene_variant	3640479		Uncertain_significance		No change
+Delamanid	fbiA	c.666C>T	fbiA_c.666C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.-66C>T	fbiA_c.-66C>T	upstream_gene_variant	3640477		Uncertain_significance		No change
+Delamanid	fbiA	c.672G>A	fbiA_c.672G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.693G>T	fbiA_c.693G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.696G>A	fbiA_c.696G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.-69T>C	fbiA_c.-69T>C	upstream_gene_variant	3640474		Uncertain_significance		No change
+Delamanid	fbiA	c.72C>T	fbiA_c.72C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.744C>A	fbiA_c.744C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.744C>T	fbiA_c.744C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.75G>A	fbiA_c.75G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.75G>C	fbiA_c.75G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.-75G>C	fbiA_c.-75G>C	upstream_gene_variant	3640468		Uncertain_significance		No change
+Delamanid	fbiA	c.792G>T	fbiA_c.792G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.-7C>G	fbiA_c.-7C>G	upstream_gene_variant	3640536		Uncertain_significance		No change
+Delamanid	fbiA	c.816G>A	fbiA_c.816G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.81G>A	fbiA_c.81G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.-81G>A	fbiA_c.-81G>A	upstream_gene_variant	3640462		Uncertain_significance		No change
+Delamanid	fbiA	c.837G>A	fbiA_c.837G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.843C>G	fbiA_c.843C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.852A>T	fbiA_c.852A>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.867G>A	fbiA_c.867G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.888T>C	fbiA_c.888T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.900G>A	fbiA_c.900G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.903G>A	fbiA_c.903G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.912G>A	fbiA_c.912G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.925C>T	fbiA_c.925C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.936C>T	fbiA_c.936C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.978T>C	fbiA_c.978T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiA	c.-97A>T	fbiA_c.-97A>T	upstream_gene_variant	3640446		Uncertain_significance		No change
+Delamanid	fbiA	c.-98delA	fbiA_c.-98delA	upstream_gene_variant	3640444		Uncertain_significance		No change
+Delamanid	fbiA	LoF	fbiA_LoF	LoF		Selection evidence	Assoc_w_R_Interim	Confers DLM-PMD cross-resistance	New AwRI
+Delamanid	fbiA	p.Ala178Thr	fbiA_p.Ala178Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Ala190Thr	fbiA_p.Ala190Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Ala199Thr	fbiA_p.Ala199Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Ala206Thr	fbiA_p.Ala206Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Ala222Thr	fbiA_p.Ala222Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Ala29Thr	fbiA_p.Ala29Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Ala30Val	fbiA_p.Ala30Val	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiA	p.Ala327Thr	fbiA_p.Ala327Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Ala33Asp	fbiA_p.Ala33Asp	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Ala43Thr	fbiA_p.Ala43Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Arg175His	fbiA_p.Arg175His	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Arg177His	fbiA_p.Arg177His	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Arg304Gln	fbiA_p.Arg304Gln	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Arg321Ser	fbiA_p.Arg321Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Asn314Lys	fbiA_p.Asn314Lys	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Asp100Asn	fbiA_p.Asp100Asn	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Asp292Gly	fbiA_p.Asp292Gly	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiA	p.Asp299Ala	fbiA_p.Asp299Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiA	p.Asp312Gly	fbiA_p.Asp312Gly	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiA	p.Cys280Gly	fbiA_p.Cys280Gly	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiA	p.Cys280Ser	fbiA_p.Cys280Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Cys287Tyr	fbiA_p.Cys287Tyr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Gln120Arg	fbiA_p.Gln120Arg	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Gln21Leu	fbiA_p.Gln21Leu	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Gln27Pro	fbiA_p.Gln27Pro	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Glu130Asp	fbiA_p.Glu130Asp	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Glu130Lys	fbiA_p.Glu130Lys	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Gly189Ser	fbiA_p.Gly189Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Gly264Arg	fbiA_p.Gly264Arg	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Gly26Ser	fbiA_p.Gly26Ser	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiA	p.Gly277Ser	fbiA_p.Gly277Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Gly293Ala	fbiA_p.Gly293Ala	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Gly48Ser	fbiA_p.Gly48Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Gly70Ser	fbiA_p.Gly70Ser	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiA	p.Gly78Ser	fbiA_p.Gly78Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.His183Gln	fbiA_p.His183Gln	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.His295Arg	fbiA_p.His295Arg	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Ile208Val	fbiA_p.Ile208Val	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Ile229Met	fbiA_p.Ile229Met	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Ile229Val	fbiA_p.Ile229Val	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiA	p.Ile53Thr	fbiA_p.Ile53Thr	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiA	p.Ile53Val	fbiA_p.Ile53Val	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Leu104Phe	fbiA_p.Leu104Phe	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiA	p.Leu132Val	fbiA_p.Leu132Val	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiA	p.Leu22Val	fbiA_p.Leu22Val	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Lys192Glu	fbiA_p.Lys192Glu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiA	p.Phe102Leu	fbiA_p.Phe102Leu	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Pro227Thr	fbiA_p.Pro227Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Pro239Ser	fbiA_p.Pro239Ser	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiA	p.Pro245Ser	fbiA_p.Pro245Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Ser184Thr	fbiA_p.Ser184Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Ser194Gly	fbiA_p.Ser194Gly	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiA	p.Ser32Phe	fbiA_p.Ser32Phe	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Ser35Ala	fbiA_p.Ser35Ala	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Ser42Cys	fbiA_p.Ser42Cys	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Ser42Gly	fbiA_p.Ser42Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Thr302Ala	fbiA_p.Thr302Ala	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Thr302Met	fbiA_p.Thr302Met	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Thr4Asn	fbiA_p.Thr4Asn	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Trp101Cys	fbiA_p.Trp101Cys	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiA	p.Val114Leu	fbiA_p.Val114Leu	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Val160Ile	fbiA_p.Val160Ile	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Val180Met	fbiA_p.Val180Met	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Val188Ala	fbiA_p.Val188Ala	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Val188Ile	fbiA_p.Val188Ile	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Val188Phe	fbiA_p.Val188Phe	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Val217Gly	fbiA_p.Val217Gly	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiA	p.Val217Met	fbiA_p.Val217Met	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Val265Met	fbiA_p.Val265Met	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Val306Met	fbiA_p.Val306Met	missense_variant			Uncertain_significance		No change
+Delamanid	fbiA	p.Val329fs	fbiA_p.Val329fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		New AwRI
+Delamanid	fbiA	p.Val47Ile	fbiA_p.Val47Ile	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	c.1041C>A	fbiB_c.1041C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.1050G>A	fbiB_c.1050G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.1095C>G	fbiB_c.1095C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.1122G>A	fbiB_c.1122G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.1164G>C	fbiB_c.1164G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.1206C>T	fbiB_c.1206C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.1266C>G	fbiB_c.1266C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.1272C>T	fbiB_c.1272C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.1293G>A	fbiB_c.1293G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.1330T>C	fbiB_c.1330T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.1335G>A	fbiB_c.1335G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.135C>A	fbiB_c.135C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.150C>T	fbiB_c.150C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.156G>A	fbiB_c.156G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.171G>A	fbiB_c.171G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.174C>T	fbiB_c.174C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.198C>T	fbiB_c.198C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.207A>G	fbiB_c.207A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.21C>T	fbiB_c.21C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.243G>A	fbiB_c.243G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.273C>G	fbiB_c.273C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.276G>C	fbiB_c.276G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.324G>A	fbiB_c.324G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.361C>T	fbiB_c.361C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.408G>T	fbiB_c.408G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.471C>G	fbiB_c.471C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.517C>T	fbiB_c.517C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.546A>G	fbiB_c.546A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.552C>T	fbiB_c.552C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.564G>A	fbiB_c.564G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.573G>A	fbiB_c.573G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.57G>A	fbiB_c.57G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.60G>A	fbiB_c.60G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.636G>A	fbiB_c.636G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.636G>C	fbiB_c.636G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.639G>A	fbiB_c.639G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.654T>C	fbiB_c.654T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.663C>A	fbiB_c.663C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.678C>T	fbiB_c.678C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.688C>A	fbiB_c.688C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.708C>A	fbiB_c.708C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.738C>T	fbiB_c.738C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.759C>T	fbiB_c.759C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.762G>A	fbiB_c.762G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.810G>A	fbiB_c.810G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.84T>C	fbiB_c.84T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.888A>G	fbiB_c.888A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.903G>A	fbiB_c.903G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.90C>T	fbiB_c.90C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.921G>A	fbiB_c.921G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.936G>T	fbiB_c.936G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	c.969T>C	fbiB_c.969T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiB	LoF	fbiB_LoF	LoF		Selection evidence	Assoc_w_R_Interim	Confers DLM-PMD cross-resistance	New AwRI
+Delamanid	fbiB	p.Ala127Thr	fbiB_p.Ala127Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Ala200Glu	fbiB_p.Ala200Glu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Ala286Gly	fbiB_p.Ala286Gly	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Ala304Asp	fbiB_p.Ala304Asp	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Ala31Thr	fbiB_p.Ala31Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Ala32Val	fbiB_p.Ala32Val	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Ala36Val	fbiB_p.Ala36Val	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Ala376Thr	fbiB_p.Ala376Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Ala441Val	fbiB_p.Ala441Val	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Ala82Thr	fbiB_p.Ala82Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Arg157Cys	fbiB_p.Arg157Cys	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Arg174His	fbiB_p.Arg174His	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Arg230Gln	fbiB_p.Arg230Gln	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Arg253His	fbiB_p.Arg253His	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Arg265Gln	fbiB_p.Arg265Gln	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Arg293Gly	fbiB_p.Arg293Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Arg334Gln	fbiB_p.Arg334Gln	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Arg365Gly	fbiB_p.Arg365Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Arg409Ser	fbiB_p.Arg409Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Asp109Glu	fbiB_p.Asp109Glu	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Asp224Asn	fbiB_p.Asp224Asn	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Asp311Ala	fbiB_p.Asp311Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Asp315Ala	fbiB_p.Asp315Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Asp315His	fbiB_p.Asp315His	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Asp343Ala	fbiB_p.Asp343Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Asp417Ala	fbiB_p.Asp417Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Asp430His	fbiB_p.Asp430His	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Asp437Ala	fbiB_p.Asp437Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Asp437Gly	fbiB_p.Asp437Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Asp66Glu	fbiB_p.Asp66Glu	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Asp90Asn	fbiB_p.Asp90Asn	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Asp90Glu	fbiB_p.Asp90Glu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Asp90Gly	fbiB_p.Asp90Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Gln339Arg	fbiB_p.Gln339Arg	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Gln69Arg	fbiB_p.Gln69Arg	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Glu138Lys	fbiB_p.Glu138Lys	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Glu191Asp	fbiB_p.Glu191Asp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Glu191Gln	fbiB_p.Glu191Gln	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Glu65Lys	fbiB_p.Glu65Lys	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Gly19Glu	fbiB_p.Gly19Glu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Gly325Ser	fbiB_p.Gly325Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Gly3Ser	fbiB_p.Gly3Ser	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.His370Arg	fbiB_p.His370Arg	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Ile18Asn	fbiB_p.Ile18Asn	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Ile18Thr	fbiB_p.Ile18Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Ile446Thr	fbiB_p.Ile446Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Leu284Val	fbiB_p.Leu284Val	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Leu444Phe	fbiB_p.Leu444Phe	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Leu447Arg	fbiB_p.Leu447Arg	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Lys206Asn	fbiB_p.Lys206Asn	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Lys448Arg	fbiB_p.Lys448Arg	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Phe403Leu	fbiB_p.Phe403Leu	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Pro122Ala	fbiB_p.Pro122Ala	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Pro25Arg	fbiB_p.Pro25Arg	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Pro303Thr	fbiB_p.Pro303Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Pro361Leu	fbiB_p.Pro361Leu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Pro440Ser	fbiB_p.Pro440Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Ser30Arg	fbiB_p.Ser30Arg	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Ser433Pro	fbiB_p.Ser433Pro	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Thr212Ala	fbiB_p.Thr212Ala	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Thr268Ala	fbiB_p.Thr268Ala	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Thr268Ile	fbiB_p.Thr268Ile	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Thr292Ala	fbiB_p.Thr292Ala	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Thr371Ile	fbiB_p.Thr371Ile	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Thr374Lys	fbiB_p.Thr374Lys	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Trp418Ser	fbiB_p.Trp418Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Tyr183Cys	fbiB_p.Tyr183Cys	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Val17Ala	fbiB_p.Val17Ala	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Val17fs	fbiB_p.Val17fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		New AwRI
+Delamanid	fbiB	p.Val17Ile	fbiB_p.Val17Ile	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Val192Ile	fbiB_p.Val192Ile	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Val214Leu	fbiB_p.Val214Leu	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Val217_Gly378del	fbiB_p.Val217_Gly378del	inframe_deletion			Uncertain_significance		New Uncertain
+Delamanid	fbiB	p.Val348Ile	fbiB_p.Val348Ile	missense_variant			Uncertain_significance		No change
+Delamanid	fbiB	p.Val416Ile	fbiB_p.Val416Ile	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	c.-100C>G	fbiC_c.-100C>G	upstream_gene_variant	1302831		Uncertain_significance		No change
+Delamanid	fbiC	c.-100C>T	fbiC_c.-100C>T	upstream_gene_variant	1302831		Uncertain_significance		No change
+Delamanid	fbiC	c.1023C>T	fbiC_c.1023C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1065C>T	fbiC_c.1065C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.-10G>A	fbiC_c.-10G>A	upstream_gene_variant	1302921		Uncertain_significance		New Uncertain
+Delamanid	fbiC	c.-110G>A	fbiC_c.-110G>A	upstream_gene_variant	1302821		Uncertain_significance		No change
+Delamanid	fbiC	c.-111C>T	fbiC_c.-111C>T	upstream_gene_variant	1302820		Uncertain_significance		No change
+Delamanid	fbiC	c.-113G>A	fbiC_c.-113G>A	upstream_gene_variant	1302818		Uncertain_significance		No change
+Delamanid	fbiC	c.-113G>C	fbiC_c.-113G>C	upstream_gene_variant	1302818		Uncertain_significance		No change
+Delamanid	fbiC	c.1143C>T	fbiC_c.1143C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.-114C>T	fbiC_c.-114C>T	upstream_gene_variant	1302817		Uncertain_significance		No change
+Delamanid	fbiC	c.1174C>T	fbiC_c.1174C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.117G>A	fbiC_c.117G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.-11G>A	fbiC_c.-11G>A	upstream_gene_variant	1302920		Uncertain_significance		No change
+Delamanid	fbiC	c.1248G>T	fbiC_c.1248G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1272G>A	fbiC_c.1272G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1314C>T	fbiC_c.1314C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1323G>T	fbiC_c.1323G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1335C>T	fbiC_c.1335C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1380C>T	fbiC_c.1380C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1383A>C	fbiC_c.1383A>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1392C>T	fbiC_c.1392C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.-14_-13insA	fbiC_c.-14_-13insA	upstream_gene_variant	1302917		Uncertain_significance		No change
+Delamanid	fbiC	c.1413T>G	fbiC_c.1413T>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.141G>A	fbiC_c.141G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1425G>A	fbiC_c.1425G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1467A>G	fbiC_c.1467A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1470C>T	fbiC_c.1470C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1518C>T	fbiC_c.1518C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1521C>T	fbiC_c.1521C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1533C>T	fbiC_c.1533C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1545G>A	fbiC_c.1545G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1572G>A	fbiC_c.1572G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1573C>T	fbiC_c.1573C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.-15G>T	fbiC_c.-15G>T	upstream_gene_variant	1302916		Uncertain_significance		No change
+Delamanid	fbiC	c.1635C>T	fbiC_c.1635C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.165G>A	fbiC_c.165G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1674C>T	fbiC_c.1674C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1680C>T	fbiC_c.1680C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1725C>T	fbiC_c.1725C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.172C>T	fbiC_c.172C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1743C>T	fbiC_c.1743C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1773C>T	fbiC_c.1773C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1794A>G	fbiC_c.1794A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1842C>T	fbiC_c.1842C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.186C>T	fbiC_c.186C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.-18C>T	fbiC_c.-18C>T	upstream_gene_variant	1302913		Uncertain_significance		No change
+Delamanid	fbiC	c.18T>G	fbiC_c.18T>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1902C>G	fbiC_c.1902C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1902C>T	fbiC_c.1902C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1923C>G	fbiC_c.1923C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.195G>A	fbiC_c.195G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1989C>T	fbiC_c.1989C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.1995G>A	fbiC_c.1995G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.-1C>T	fbiC_c.-1C>T	upstream_gene_variant	1302930		Uncertain_significance		No change
+Delamanid	fbiC	c.201T>C	fbiC_c.201T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2073C>T	fbiC_c.2073C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2088C>T	fbiC_c.2088C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2104C>T	fbiC_c.2104C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2130C>T	fbiC_c.2130C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2142C>T	fbiC_c.2142C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2176C>T	fbiC_c.2176C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2181C>T	fbiC_c.2181C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2196T>C	fbiC_c.2196T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2229G>A	fbiC_c.2229G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.222C>T	fbiC_c.222C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2235G>A	fbiC_c.2235G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2238C>T	fbiC_c.2238C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2250G>A	fbiC_c.2250G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2259G>A	fbiC_c.2259G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.231G>A	fbiC_c.231G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.237C>T	fbiC_c.237C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2409C>T	fbiC_c.2409C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2424C>T	fbiC_c.2424C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2427C>G	fbiC_c.2427C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2433G>A	fbiC_c.2433G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2487C>T	fbiC_c.2487C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.24G>A	fbiC_c.24G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2517C>T	fbiC_c.2517C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2526C>G	fbiC_c.2526C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.2532G>T	fbiC_c.2532G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.321C>T	fbiC_c.321C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.-32A>G	fbiC_c.-32A>G	upstream_gene_variant	1302899		Uncertain_significance		No change
+Delamanid	fbiC	c.-33G>A	fbiC_c.-33G>A	upstream_gene_variant	1302898		Uncertain_significance		No change
+Delamanid	fbiC	c.34C>T	fbiC_c.34C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.396C>T	fbiC_c.396C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.-44T>C	fbiC_c.-44T>C	upstream_gene_variant	1302887		Uncertain_significance		No change
+Delamanid	fbiC	c.-46G>C	fbiC_c.-46G>C	upstream_gene_variant	1302885		Uncertain_significance		New Uncertain
+Delamanid	fbiC	c.-48C>T	fbiC_c.-48C>T	upstream_gene_variant	1302883		Uncertain_significance		No change
+Delamanid	fbiC	c.495G>A	fbiC_c.495G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.498C>A	fbiC_c.498C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.498C>T	fbiC_c.498C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.-4C>T	fbiC_c.-4C>T	upstream_gene_variant	1302927		Uncertain_significance		No change
+Delamanid	fbiC	c.519C>T	fbiC_c.519C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.525C>G	fbiC_c.525C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.546G>C	fbiC_c.546G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.57C>A	fbiC_c.57C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.-58A>C	fbiC_c.-58A>C	upstream_gene_variant	1302873		Uncertain_significance		No change
+Delamanid	fbiC	c.624G>T	fbiC_c.624G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.690C>T	fbiC_c.690C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.714G>A	fbiC_c.714G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.750G>A	fbiC_c.750G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.-76A>G	fbiC_c.-76A>G	upstream_gene_variant	1302855		Uncertain_significance		No change
+Delamanid	fbiC	c.771C>T	fbiC_c.771C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.-77T>C	fbiC_c.-77T>C	upstream_gene_variant	1302854		Uncertain_significance		No change
+Delamanid	fbiC	c.810C>T	fbiC_c.810C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.813C>T	fbiC_c.813C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.819G>A	fbiC_c.819G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.819G>T	fbiC_c.819G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.-81C>A	fbiC_c.-81C>A	upstream_gene_variant	1302850		Uncertain_significance		No change
+Delamanid	fbiC	c.822A>G	fbiC_c.822A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.861C>T	fbiC_c.861C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.-87C>T	fbiC_c.-87C>T	upstream_gene_variant	1302844		Uncertain_significance		New Uncertain
+Delamanid	fbiC	c.-89_-88insACTGTTGCGC	fbiC_c.-89_-88insACTGTTGCGC	upstream_gene_variant	1302842		Uncertain_significance		No change
+Delamanid	fbiC	c.-90C>T	fbiC_c.-90C>T	upstream_gene_variant	1302841		Uncertain_significance		No change
+Delamanid	fbiC	c.939T>C	fbiC_c.939T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	c.967C>T	fbiC_c.967C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fbiC	LoF	fbiC_LoF	LoF		Selection evidence	Assoc_w_R_Interim	Confers DLM-PMD cross-resistance	New AwRI
+Delamanid	fbiC	p.Ala11Val	fbiC_p.Ala11Val	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ala143Val	fbiC_p.Ala143Val	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ala333Val	fbiC_p.Ala333Val	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ala349Val	fbiC_p.Ala349Val	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ala378Glu	fbiC_p.Ala378Glu	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ala404Pro	fbiC_p.Ala404Pro	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Ala418Glu	fbiC_p.Ala418Glu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Ala45Thr	fbiC_p.Ala45Thr	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Ala469Pro	fbiC_p.Ala469Pro	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ala487fs	fbiC_p.Ala487fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		New AwRI
+Delamanid	fbiC	p.Ala505Thr	fbiC_p.Ala505Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ala524Gly	fbiC_p.Ala524Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ala574Val	fbiC_p.Ala574Val	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Ala594Ser	fbiC_p.Ala594Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ala620Thr	fbiC_p.Ala620Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ala623Val	fbiC_p.Ala623Val	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Ala639fs	fbiC_p.Ala639fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		New AwRI
+Delamanid	fbiC	p.Ala63Thr	fbiC_p.Ala63Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ala659Val	fbiC_p.Ala659Val	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ala73Ser	fbiC_p.Ala73Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ala754Val	fbiC_p.Ala754Val	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ala852Thr	fbiC_p.Ala852Thr	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Ala852Val	fbiC_p.Ala852Val	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ala855fs	fbiC_p.Ala855fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		New AwRI
+Delamanid	fbiC	p.Ala856fs	fbiC_p.Ala856fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		UP from Uncertain to AwRI
+Delamanid	fbiC	p.Arg134Leu	fbiC_p.Arg134Leu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Arg243Gly	fbiC_p.Arg243Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Arg330Cys	fbiC_p.Arg330Cys	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Arg426Cys	fbiC_p.Arg426Cys	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Arg536Leu	fbiC_p.Arg536Leu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Arg64Gln	fbiC_p.Arg64Gln	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Arg66Ser	fbiC_p.Arg66Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Arg727Cys	fbiC_p.Arg727Cys	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Arg7Leu	fbiC_p.Arg7Leu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Asn549Asp	fbiC_p.Asn549Asp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Asp100Glu	fbiC_p.Asp100Glu	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Asp130Glu	fbiC_p.Asp130Glu	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Asp168Glu	fbiC_p.Asp168Glu	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Asp235Gly	fbiC_p.Asp235Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Asp272Gly	fbiC_p.Asp272Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Asp313Gly	fbiC_p.Asp313Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Asp352Gly	fbiC_p.Asp352Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Asp375Asn	fbiC_p.Asp375Asn	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Asp427His	fbiC_p.Asp427His	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Asp454Asn	fbiC_p.Asp454Asn	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Asp472Ala	fbiC_p.Asp472Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Asp521Gly	fbiC_p.Asp521Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Asp542Glu	fbiC_p.Asp542Glu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Asp616Gly	fbiC_p.Asp616Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Gln117Pro	fbiC_p.Gln117Pro	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Glu265Asp	fbiC_p.Glu265Asp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Glu299Val	fbiC_p.Glu299Val	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Glu376Asp	fbiC_p.Glu376Asp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Glu526Lys	fbiC_p.Glu526Lys	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Glu54Gly	fbiC_p.Glu54Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Glu598Asp	fbiC_p.Glu598Asp	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Glu738Gly	fbiC_p.Glu738Gly	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Glu801Gly	fbiC_p.Glu801Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Glu832Gly	fbiC_p.Glu832Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Gly135Ser	fbiC_p.Gly135Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Gly262Asp	fbiC_p.Gly262Asp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Gly285Glu	fbiC_p.Gly285Glu	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Gly340Asp	fbiC_p.Gly340Asp	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Gly385Asp	fbiC_p.Gly385Asp	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Gly385Cys	fbiC_p.Gly385Cys	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Gly508Ser	fbiC_p.Gly508Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Gly522Arg	fbiC_p.Gly522Arg	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Gly683Ala	fbiC_p.Gly683Ala	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Gly711Ala	fbiC_p.Gly711Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Gly839Ala	fbiC_p.Gly839Ala	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Gly839Asp	fbiC_p.Gly839Asp	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Gly839Ser	fbiC_p.Gly839Ser	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.His103Arg	fbiC_p.His103Arg	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.His300Tyr	fbiC_p.His300Tyr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.His592Arg	fbiC_p.His592Arg	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ile406Phe	fbiC_p.Ile406Phe	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Ile453Val	fbiC_p.Ile453Val	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ile491Val	fbiC_p.Ile491Val	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Ile693Val	fbiC_p.Ile693Val	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ile781Val	fbiC_p.Ile781Val	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ile816Met	fbiC_p.Ile816Met	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Leu114Arg	fbiC_p.Leu114Arg	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Leu162Val	fbiC_p.Leu162Val	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Leu517Ile	fbiC_p.Leu517Ile	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Leu647Arg	fbiC_p.Leu647Arg	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Lys113Thr	fbiC_p.Lys113Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Lys622Arg	fbiC_p.Lys622Arg	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Lys682Arg	fbiC_p.Lys682Arg	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Met196Val	fbiC_p.Met196Val	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Met211Ile	fbiC_p.Met211Ile	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Met628Ile	fbiC_p.Met628Ile	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Met709Ile	fbiC_p.Met709Ile	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Met812Ile	fbiC_p.Met812Ile	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Phe306Leu	fbiC_p.Phe306Leu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Phe470Leu	fbiC_p.Phe470Leu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Phe470Val	fbiC_p.Phe470Val	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Pro125His	fbiC_p.Pro125His	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Pro18Leu	fbiC_p.Pro18Leu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Pro234Leu	fbiC_p.Pro234Leu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Pro334Ala	fbiC_p.Pro334Ala	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Pro359Ser	fbiC_p.Pro359Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Pro362fs	fbiC_p.Pro362fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		New AwRI
+Delamanid	fbiC	p.Pro420Leu	fbiC_p.Pro420Leu	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Pro420Ser	fbiC_p.Pro420Ser	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Pro438Leu	fbiC_p.Pro438Leu	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Pro761Leu	fbiC_p.Pro761Leu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Ser172Cys	fbiC_p.Ser172Cys	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ser219Ala	fbiC_p.Ser219Ala	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ser443fs	fbiC_p.Ser443fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		New AwRI
+Delamanid	fbiC	p.Ser645Gly	fbiC_p.Ser645Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ser762Asn	fbiC_p.Ser762Asn	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Ter857Trpext*?	fbiC_p.Ter857Trpext*?	stop_lost			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Thr273Ala	fbiC_p.Thr273Ala	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Thr663Asn	fbiC_p.Thr663Asn	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Thr687Met	fbiC_p.Thr687Met	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Thr707Met	fbiC_p.Thr707Met	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fbiC	p.Trp405Cys	fbiC_p.Trp405Cys	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Trp678Gly	fbiC_p.Trp678Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Val365Ile	fbiC_p.Val365Ile	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Val37Ala	fbiC_p.Val37Ala	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Val41Met	fbiC_p.Val41Met	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Val581Leu	fbiC_p.Val581Leu	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Val621Ile	fbiC_p.Val621Ile	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Val713Leu	fbiC_p.Val713Leu	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Val725Ala	fbiC_p.Val725Ala	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Val745Met	fbiC_p.Val745Met	missense_variant			Uncertain_significance		No change
+Delamanid	fbiC	p.Val94Ala	fbiC_p.Val94Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fgd1	c.1000C>A	fgd1_c.1000C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.1002A>C	fgd1_c.1002A>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.135C>T	fgd1_c.135C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.138C>T	fgd1_c.138C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.153C>T	fgd1_c.153C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.18A>C	fgd1_c.18A>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.195C>T	fgd1_c.195C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.-20C>T	fgd1_c.-20C>T	upstream_gene_variant	490763		Uncertain_significance		New Uncertain
+Delamanid	fgd1	c.228C>T	fgd1_c.228C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.246C>T	fgd1_c.246C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.255C>T	fgd1_c.255C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.-27T>G	fgd1_c.-27T>G	upstream_gene_variant	490756		Uncertain_significance		New Uncertain
+Delamanid	fgd1	c.286C>T	fgd1_c.286C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.291C>T	fgd1_c.291C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.297C>T	fgd1_c.297C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.318C>T	fgd1_c.318C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.-31C>G	fgd1_c.-31C>G	upstream_gene_variant	490752		Uncertain_significance		New Uncertain
+Delamanid	fgd1	c.360C>T	fgd1_c.360C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.-38G>A	fgd1_c.-38G>A	upstream_gene_variant	490745		Uncertain_significance		New Uncertain
+Delamanid	fgd1	c.456C>T	fgd1_c.456C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.465C>T	fgd1_c.465C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.48A>G	fgd1_c.48A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.-4A>G	fgd1_c.-4A>G	upstream_gene_variant	490779		Uncertain_significance		New Uncertain
+Delamanid	fgd1	c.504G>C	fgd1_c.504G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.513C>G	fgd1_c.513C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.51G>A	fgd1_c.51G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.534C>T	fgd1_c.534C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.546C>T	fgd1_c.546C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.54C>A	fgd1_c.54C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.552C>T	fgd1_c.552C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.555C>G	fgd1_c.555C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.567T>C	fgd1_c.567T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.606C>T	fgd1_c.606C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.60C>T	fgd1_c.60C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.666C>T	fgd1_c.666C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.66A>G	fgd1_c.66A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.741G>T	fgd1_c.741G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.750G>A	fgd1_c.750G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.750G>T	fgd1_c.750G>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.774G>A	fgd1_c.774G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.786C>T	fgd1_c.786C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.816C>T	fgd1_c.816C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.843C>G	fgd1_c.843C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.849C>T	fgd1_c.849C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.906A>G	fgd1_c.906A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.915G>A	fgd1_c.915G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.960T>C	fgd1_c.960T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.969C>G	fgd1_c.969C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	c.982C>T	fgd1_c.982C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	fgd1	deletion	fgd1_deletion	feature_ablation		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		New AwRI
+Delamanid	fgd1	LoF	fgd1_LoF	LoF		Selection evidence	Assoc_w_R_Interim	Confers DLM-PMD cross-resistance	New AwRI
+Delamanid	fgd1	p.Ala10Val	fgd1_p.Ala10Val	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Ala188Thr	fgd1_p.Ala188Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Ala216Gly	fgd1_p.Ala216Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Ala2Val	fgd1_p.Ala2Val	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Ala35Val	fgd1_p.Ala35Val	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Arg187His	fgd1_p.Arg187His	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Arg18Cys	fgd1_p.Arg18Cys	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fgd1	p.Arg212Leu	fgd1_p.Arg212Leu	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Arg45Cys	fgd1_p.Arg45Cys	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Arg64Ser	fgd1_p.Arg64Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Asn112fs	fgd1_p.Asn112fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		New AwRI
+Delamanid	fgd1	p.Asn66Ser	fgd1_p.Asn66Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Asp190Glu	fgd1_p.Asp190Glu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fgd1	p.Asp273Gly	fgd1_p.Asp273Gly	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fgd1	p.Asp33Gly	fgd1_p.Asp33Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Gln279Pro	fgd1_p.Gln279Pro	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fgd1	p.Gln47Leu	fgd1_p.Gln47Leu	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Glu119Asp	fgd1_p.Glu119Asp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fgd1	p.Glu119Lys	fgd1_p.Glu119Lys	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fgd1	p.Glu19Asp	fgd1_p.Glu19Asp	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Glu240Gly	fgd1_p.Glu240Gly	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Glu269Lys	fgd1_p.Glu269Lys	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Gly137Glu	fgd1_p.Gly137Glu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fgd1	p.Gly168Arg	fgd1_p.Gly168Arg	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Gly169Asp	fgd1_p.Gly169Asp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fgd1	p.Gly224Asp	fgd1_p.Gly224Asp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fgd1	p.Gly7Ser	fgd1_p.Gly7Ser	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fgd1	p.His260Pro	fgd1_p.His260Pro	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.His315Asp	fgd1_p.His315Asp	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.His315Tyr	fgd1_p.His315Tyr	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Ile174_Glu295del	fgd1_p.Ile174_Glu295del	inframe_deletion			Uncertain_significance		New Uncertain
+Delamanid	fgd1	p.Ile229Thr	fgd1_p.Ile229Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Ile86Leu	fgd1_p.Ile86Leu	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Leu323Phe	fgd1_p.Leu323Phe	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Lys183Met	fgd1_p.Lys183Met	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Lys183Thr	fgd1_p.Lys183Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Lys270Met	fgd1_p.Lys270Met	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Lys296Arg	fgd1_p.Lys296Arg	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Lys296Glu	fgd1_p.Lys296Glu	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Met139Ile	fgd1_p.Met139Ile	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Met93Thr	fgd1_p.Met93Thr	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Pro166Leu	fgd1_p.Pro166Leu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fgd1	p.Ser56Cys	fgd1_p.Ser56Cys	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fgd1	p.Thr255Ala	fgd1_p.Thr255Ala	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Thr255Pro	fgd1_p.Thr255Pro	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Tyr118Ser	fgd1_p.Tyr118Ser	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Tyr163Cys	fgd1_p.Tyr163Cys	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Tyr81His	fgd1_p.Tyr81His	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Val136Met	fgd1_p.Val136Met	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fgd1	p.Val170Met	fgd1_p.Val170Met	missense_variant			Uncertain_significance		No change
+Delamanid	fgd1	p.Val286Ala	fgd1_p.Val286Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fgd1	p.Val294Ala	fgd1_p.Val294Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	fgd1	p.Val37Gly	fgd1_p.Val37Gly	missense_variant			Uncertain_significance		No change
+Delamanid	ndh	c.1017G>A	ndh_c.1017G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.1032C>G	ndh_c.1032C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.1044G>A	ndh_c.1044G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.1080G>A	ndh_c.1080G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.108C>T	ndh_c.108C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.1122G>A	ndh_c.1122G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.1128T>C	ndh_c.1128T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.1140C>G	ndh_c.1140C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.1152C>G	ndh_c.1152C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.1194G>A	ndh_c.1194G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.1195C>T	ndh_c.1195C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.1203G>A	ndh_c.1203G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.1209C>T	ndh_c.1209C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.120C>A	ndh_c.120C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.1210C>T	ndh_c.1210C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.1212G>A	ndh_c.1212G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.1314G>A	ndh_c.1314G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.1320G>C	ndh_c.1320G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.1332G>A	ndh_c.1332G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.138C>T	ndh_c.138C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.147C>T	ndh_c.147C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.148C>T	ndh_c.148C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.156G>A	ndh_c.156G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.159G>A	ndh_c.159G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.180C>T	ndh_c.180C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.186T>C	ndh_c.186T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.-1C>G	ndh_c.-1C>G	upstream_gene_variant	2103043		Uncertain_significance		New Uncertain
+Delamanid	ndh	c.204C>A	ndh_c.204C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.21C>G	ndh_c.21C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.228G>A	ndh_c.228G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.-23G>A	ndh_c.-23G>A	upstream_gene_variant	2103065		Uncertain_significance		New Uncertain
+Delamanid	ndh	c.252A>C	ndh_c.252A>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.255G>A	ndh_c.255G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.267C>T	ndh_c.267C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.270C>G	ndh_c.270C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.315T>G	ndh_c.315T>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.324C>T	ndh_c.324C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.33A>G	ndh_c.33A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.372T>C	ndh_c.372T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.387C>T	ndh_c.387C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.408C>A	ndh_c.408C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.-40A>G	ndh_c.-40A>G	upstream_gene_variant	2103082		Uncertain_significance		New Uncertain
+Delamanid	ndh	c.411C>T	ndh_c.411C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.-45A>G	ndh_c.-45A>G	upstream_gene_variant	2103087		Uncertain_significance		New Uncertain
+Delamanid	ndh	c.46C>A	ndh_c.46C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.498G>A	ndh_c.498G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.-54G>T	ndh_c.-54G>T	upstream_gene_variant	2103096		Uncertain_significance		New Uncertain
+Delamanid	ndh	c.561A>C	ndh_c.561A>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.570C>T	ndh_c.570C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.-57A>G	ndh_c.-57A>G	upstream_gene_variant	2103099		Uncertain_significance		New Uncertain
+Delamanid	ndh	c.606G>C	ndh_c.606G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.615C>T	ndh_c.615C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.633G>A	ndh_c.633G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.639G>A	ndh_c.639G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.-65G>A	ndh_c.-65G>A	upstream_gene_variant	2103107		Uncertain_significance		New Uncertain
+Delamanid	ndh	c.675C>T	ndh_c.675C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.-70G>T	ndh_c.-70G>T	upstream_gene_variant	2103112		Uncertain_significance		New Uncertain
+Delamanid	ndh	c.753C>T	ndh_c.753C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.768C>T	ndh_c.768C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.822G>A	ndh_c.822G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.834C>T	ndh_c.834C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.858C>T	ndh_c.858C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.864C>T	ndh_c.864C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.894C>T	ndh_c.894C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.897G>A	ndh_c.897G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.903C>T	ndh_c.903C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.906G>A	ndh_c.906G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.924C>T	ndh_c.924C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.948C>T	ndh_c.948C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.-95A>G	ndh_c.-95A>G	upstream_gene_variant	2103137		Uncertain_significance		New Uncertain
+Delamanid	ndh	c.960G>A	ndh_c.960G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.984T>C	ndh_c.984T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	c.984T>G	ndh_c.984T>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	ndh	deletion	ndh_deletion	feature_ablation			Uncertain_significance		New Uncertain
+Delamanid	ndh	LoF	ndh_LoF	LoF			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ala121Thr	ndh_p.Ala121Thr	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ala154Val	ndh_p.Ala154Val	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ala158Thr	ndh_p.Ala158Thr	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ala209Val	ndh_p.Ala209Val	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ala233Thr	ndh_p.Ala233Thr	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ala300Asp	ndh_p.Ala300Asp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ala324fs	ndh_p.Ala324fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ala325fs	ndh_p.Ala325fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ala336fs	ndh_p.Ala336fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ala340fs	ndh_p.Ala340fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ala340Thr	ndh_p.Ala340Thr	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ala380Val	ndh_p.Ala380Val	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ala44Gly	ndh_p.Ala44Gly	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ala59fs	ndh_p.Ala59fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ala9Glu	ndh_p.Ala9Glu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ala9Thr	ndh_p.Ala9Thr	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Arg13Leu	ndh_p.Arg13Leu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Arg16Gln	ndh_p.Arg16Gln	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Arg235Gln	ndh_p.Arg235Gln	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Arg254Cys	ndh_p.Arg254Cys	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Arg268His	ndh_p.Arg268His	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Arg284Trp	ndh_p.Arg284Trp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Arg294Trp	ndh_p.Arg294Trp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Arg45Cys	ndh_p.Arg45Cys	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Asn28_Ala29delinsLys	ndh_p.Asn28_Ala29delinsLys	inframe_deletion			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Asp251Glu	ndh_p.Asp251Glu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Asp288Ala	ndh_p.Asp288Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Gln10Lys	ndh_p.Gln10Lys	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Gln244fs	ndh_p.Gln244fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Gln334fs	ndh_p.Gln334fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Gln363Ser	ndh_p.Gln363Ser	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Gln97Arg	ndh_p.Gln97Arg	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Glu146Ala	ndh_p.Glu146Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Glu159Lys	ndh_p.Glu159Lys	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Glu270Asp	ndh_p.Glu270Asp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Glu327Ala	ndh_p.Glu327Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Glu350Asp	ndh_p.Glu350Asp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Glu360Lys	ndh_p.Glu360Lys	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Glu6fs	ndh_p.Glu6fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Gly122Ser	ndh_p.Gly122Ser	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Gly179Asp	ndh_p.Gly179Asp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Gly179fs	ndh_p.Gly179fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Gly246Ala	ndh_p.Gly246Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Gly246Ser	ndh_p.Gly246Ser	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Gly313Arg	ndh_p.Gly313Arg	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Gly331fs	ndh_p.Gly331fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Gly339Ala	ndh_p.Gly339Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Gly389Asp	ndh_p.Gly389Asp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Gly389Ser	ndh_p.Gly389Ser	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.His106Arg	ndh_p.His106Arg	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.His106fs	ndh_p.His106fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ile20Thr	ndh_p.Ile20Thr	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ile212fs	ndh_p.Ile212fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ile269Val	ndh_p.Ile269Val	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ile337fs	ndh_p.Ile337fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ile62Ser	ndh_p.Ile62Ser	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ile63Thr	ndh_p.Ile63Thr	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Leu103fs	ndh_p.Leu103fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Leu104fs	ndh_p.Leu104fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Leu170Pro	ndh_p.Leu170Pro	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Leu228fs	ndh_p.Leu228fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Leu309Arg	ndh_p.Leu309Arg	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Leu33Pro	ndh_p.Leu33Pro	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Leu415Pro	ndh_p.Leu415Pro	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Leu54Pro	ndh_p.Leu54Pro	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Lys169Glu	ndh_p.Lys169Glu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Lys460Glu	ndh_p.Lys460Glu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Lys78Asn	ndh_p.Lys78Asn	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Met1?	ndh_p.Met1?	start_lost			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Phe365Leu	ndh_p.Phe365Leu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Pro111His	ndh_p.Pro111His	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Pro136fs	ndh_p.Pro136fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Pro330fs	ndh_p.Pro330fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Pro330Ser	ndh_p.Pro330Ser	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Pro384Arg	ndh_p.Pro384Arg	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Pro7Leu	ndh_p.Pro7Leu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ser206Pro	ndh_p.Ser206Pro	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ser345Arg	ndh_p.Ser345Arg	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ser388Gly	ndh_p.Ser388Gly	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Ser423Arg	ndh_p.Ser423Arg	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Thr110fs	ndh_p.Thr110fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Thr174Ala	ndh_p.Thr174Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Thr418Ala	ndh_p.Thr418Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Thr432Pro	ndh_p.Thr432Pro	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Thr47Ser	ndh_p.Thr47Ser	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Thr8fs	ndh_p.Thr8fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Thr8Lys	ndh_p.Thr8Lys	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Tyr112fs	ndh_p.Tyr112fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Tyr112His	ndh_p.Tyr112His	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Tyr112*	ndh_p.Tyr112*	stop_gained			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Tyr342Asp	ndh_p.Tyr342Asp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Tyr342*	ndh_p.Tyr342*	stop_gained			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Tyr364Asp	ndh_p.Tyr364Asp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Tyr56*	ndh_p.Tyr56*	stop_gained			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Val117Ile	ndh_p.Val117Ile	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Val18Ala	ndh_p.Val18Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Val220Leu	ndh_p.Val220Leu	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Val241Ala	ndh_p.Val241Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Val326Met	ndh_p.Val326Met	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Val332fs	ndh_p.Val332fs	frameshift			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Val332Gly	ndh_p.Val332Gly	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	ndh	p.Val99Ala	ndh_p.Val99Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	Rv2983	c.147C>T	Rv2983_c.147C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.15G>C	Rv2983_c.15G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.183T>C	Rv2983_c.183T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.186C>T	Rv2983_c.186C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.189C>A	Rv2983_c.189C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.-1C>A	Rv2983_c.-1C>A	upstream_gene_variant	3339117		Uncertain_significance		No change
+Delamanid	Rv2983	c.216G>A	Rv2983_c.216G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.240G>A	Rv2983_c.240G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.285C>T	Rv2983_c.285C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.300A>G	Rv2983_c.300A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.303C>T	Rv2983_c.303C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.-34G>C	Rv2983_c.-34G>C	upstream_gene_variant	3339084		Uncertain_significance		New Uncertain
+Delamanid	Rv2983	c.354G>A	Rv2983_c.354G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.369G>A	Rv2983_c.369G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.399C>A	Rv2983_c.399C>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.444C>G	Rv2983_c.444C>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.444C>T	Rv2983_c.444C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.459G>C	Rv2983_c.459G>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.-4C>T	Rv2983_c.-4C>T	upstream_gene_variant	3339114		Uncertain_significance		No change
+Delamanid	Rv2983	c.504G>A	Rv2983_c.504G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.-50G>C	Rv2983_c.-50G>C	upstream_gene_variant	3339068		Uncertain_significance		New Uncertain
+Delamanid	Rv2983	c.513C>T	Rv2983_c.513C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.561C>T	Rv2983_c.561C>T	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.564T>C	Rv2983_c.564T>C	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.624G>A	Rv2983_c.624G>A	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	c.636A>G	Rv2983_c.636A>G	synonymous_variant		Silent mutation	Not_assoc_w_R_Interim		Now listed
+Delamanid	Rv2983	LoF	Rv2983_LoF	LoF		Selection evidence	Assoc_w_R_Interim	Confers DLM-PMD cross-resistance	New AwRI
+Delamanid	Rv2983	p.Ala107Asp	Rv2983_p.Ala107Asp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	Rv2983	p.Ala107Val	Rv2983_p.Ala107Val	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	Rv2983	p.Ala119Val	Rv2983_p.Ala119Val	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Ala157Glu	Rv2983_p.Ala157Glu	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Ala20Val	Rv2983_p.Ala20Val	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Ala210Ser	Rv2983_p.Ala210Ser	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Ala210Val	Rv2983_p.Ala210Val	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Ala21Thr	Rv2983_p.Ala21Thr	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Ala32Thr	Rv2983_p.Ala32Thr	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Ala50Thr	Rv2983_p.Ala50Thr	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	Rv2983	p.Ala68Thr	Rv2983_p.Ala68Thr	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Arg101His	Rv2983_p.Arg101His	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Arg101Leu	Rv2983_p.Arg101Leu	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Arg169Gln	Rv2983_p.Arg169Gln	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Arg171His	Rv2983_p.Arg171His	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	Rv2983	p.Arg172Ser	Rv2983_p.Arg172Ser	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	Rv2983	p.Arg209Gln	Rv2983_p.Arg209Gln	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	Rv2983	p.Arg57Leu	Rv2983_p.Arg57Leu	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Asn37Asp	Rv2983_p.Asn37Asp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	Rv2983	p.Asp78Asn	Rv2983_p.Asp78Asn	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Asp90Asn	Rv2983_p.Asp90Asn	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Gln121His	Rv2983_p.Gln121His	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Gln123Arg	Rv2983_p.Gln123Arg	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Glu105Asp	Rv2983_p.Glu105Asp	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	Rv2983	p.Glu66Gln	Rv2983_p.Glu66Gln	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	Rv2983	p.Gly145Arg	Rv2983_p.Gly145Arg	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Gly155Ser	Rv2983_p.Gly155Ser	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Gly74Arg	Rv2983_p.Gly74Arg	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Gly76Ser	Rv2983_p.Gly76Ser	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Gly8Asp	Rv2983_p.Gly8Asp	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Ile110Val	Rv2983_p.Ile110Val	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	Rv2983	p.Ile13Leu	Rv2983_p.Ile13Leu	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Ile59Leu	Rv2983_p.Ile59Leu	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Leu125Ile	Rv2983_p.Leu125Ile	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Leu144Val	Rv2983_p.Leu144Val	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Pro28del	Rv2983_p.Pro28del	inframe_deletion			Uncertain_significance		New Uncertain
+Delamanid	Rv2983	p.Pro91Ser	Rv2983_p.Pro91Ser	missense_variant			Uncertain_significance		No change
+Delamanid	Rv2983	p.Ter215Argext*?	Rv2983_p.Ter215Argext*?	stop_lost			Uncertain_significance		New Uncertain
+Delamanid	Rv2983	p.Thr146Ala	Rv2983_p.Thr146Ala	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	Rv2983	p.Thr146Ser	Rv2983_p.Thr146Ser	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	Rv2983	p.Thr179Pro	Rv2983_p.Thr179Pro	missense_variant			Uncertain_significance		New Uncertain
+Delamanid	Rv2983	p.Thr191fs	Rv2983_p.Thr191fs	frameshift		Indel frameshift or premature stop codon (LoF)	Assoc_w_R_Interim		New AwRI
+Delamanid	Rv2983	p.Val61Ile	Rv2983_p.Val61Ile	missense_variant			Uncertain_significance		New Uncertain
